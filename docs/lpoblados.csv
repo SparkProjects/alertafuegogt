@@ -1,12 +1,54 @@
 lat,lng,departamento,municipio,admin3,admin4
-14.815379738883193,-90.26851612897022,El Progreso,Sanarate,La Joya,Finca
-14.77331479727794,-91.5550714680634,Quetzaltenango,Quetzaltenango,Chuipach,Otra
-14.716001612747935,-91.53315811059491,Quetzaltenango,Zunil,El Rancho,Finca
-14.699289802466105,-91.56956901877453,Quetzaltenango,El Palmar,San Jose,Finca
-14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
-14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
-14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
-14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
-14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
-14.448863610592248,-91.7590768920914,Retalhuleu,Retalhuleu,El Encanto,Hacienda
-14.448863610592248,-91.7590768920914,Retalhuleu,Retalhuleu,El Encanto,Hacienda
+14.007566227107692,-90.63868310270553,Escuintla,Iztapa,El Triunfo,Finca
+14.007566227107692,-90.63868310270553,Escuintla,Iztapa,El Triunfo,Finca
+14.00204897211929,-90.85461939497247,Escuintla,Masagua,Las Violetas,Finca
+13.980254115674168,-91.109904885681,Escuintla,La Gomera,El Paraiso,Finca
+14.069185981288475,-90.84405427004307,Escuintla,Masagua,Aurora,Colonia
+14.04332392091419,-91.20662452173089,Escuintla,La Gomera,Finca Cantoira Los Turines,Finca
+15.087462948262232,-89.19331301027802,Zacapa,Gualan,San Enrique,Finca
+15.065957779309283,-89.7101030485919,Zacapa,Rio Hondo,Santa Rosalia,Aldea
+15.290458602650627,-88.98670443741847,Izabal,Los Amates,Yaqui,Finca
+15.27559854330721,-89.09813268481146,Izabal,Los Amates,San Julian,Finca
+15.36859662930253,-88.86956038168431,Izabal,Morales,El Real O Ramal Bobos,Finca
+15.288960607132372,-89.55426491030751,Izabal,El Estor,Saravia Chacalse,Caserio
+15.398622003022334,-89.6391337581444,Alta Verapaz,Panzos,San Juan,Caserio
+15.416189155361499,-89.53440758078833,Alta Verapaz,Panzos,Lagartos,Caserio
+15.416189155361499,-89.53440758078833,Alta Verapaz,Panzos,Lagartos,Caserio
+15.416189155361499,-89.53440758078833,Alta Verapaz,Panzos,Lagartos,Caserio
+15.416189155361499,-89.53440758078833,Alta Verapaz,Panzos,Lagartos,Caserio
+15.416189155361499,-89.53440758078833,Alta Verapaz,Panzos,Lagartos,Caserio
+15.416189155361499,-89.53440758078833,Alta Verapaz,Panzos,Lagartos,Caserio
+15.437431293911443,-89.61628744656221,Alta Verapaz,Panzos,Seococ,Caserio
+15.875138191060397,-89.63360300639327,Alta Verapaz,Fray Bartolome De Las Casas,Secolay,Caserio
+15.953688360204128,-89.2196989981642,Peten,San Luis,Sarstun Dos,Otra
+15.928738632911736,-89.48211028917922,Peten,San Luis,El Recuerdo,Finca
+16.099582793026624,-89.3277540213425,Peten,San Luis,Pusila Abajo,Caserio
+16.099582793026624,-89.3277540213425,Peten,San Luis,Pusila Abajo,Caserio
+16.211187427143997,-89.22421941832998,Peten,San Luis,San Francisco Moyejon,Caserio
+16.211187427143997,-89.22421941832998,Peten,San Luis,San Francisco Moyejon,Caserio
+16.15835969148782,-89.52535945187732,Peten,San Luis,Cuarta Linea,Caserio
+16.24404514874604,-89.21912475275035,Peten,San Luis,Jalacte Esperanza,Finca
+16.224873584829,-89.27518033851395,Peten,San Luis,Arizona,Finca
+16.24404514874604,-89.21912475275035,Peten,San Luis,Jalacte Esperanza,Finca
+16.24404514874604,-89.21912475275035,Peten,San Luis,Jalacte Esperanza,Finca
+16.254687895677367,-89.2813279757285,Peten,Poptun,El Mameyal,Caserio
+16.24109664363566,-89.25855676191854,Peten,San Luis,Nacimiento Poite,Finca
+16.17794068161839,-90.03597657881109,Peten,Sayaxche,El Toro,Paraje
+16.03154130762813,-90.77086543911321,Quiche,Ixcan,El Penon,Caserio
+16.382234013137893,-89.4113487467245,Peten,Dolores,Eva,Otra
+16.382234013137893,-89.4113487467245,Peten,Dolores,Eva,Otra
+16.382234013137893,-89.4113487467245,Peten,Dolores,Eva,Otra
+16.330219578027183,-90.17032332638372,Peten,Sayaxche,Nuevo Coban,Caserio
+16.54853753569767,-89.21643154423704,Peten,Dolores,El Chical,Caserio
+16.42761990483555,-90.29790995764743,Peten,Sayaxche,Nacimiento,Caserio
+16.4287611743175,-90.30620736139284,Peten,Sayaxche,Sepens,Caserio
+16.4287611743175,-90.30620736139284,Peten,Sayaxche,Sepens,Caserio
+16.4287611743175,-90.30620736139284,Peten,Sayaxche,Sepens,Caserio
+16.42761990483555,-90.29790995764743,Peten,Sayaxche,Nacimiento,Caserio
+16.4287611743175,-90.30620736139284,Peten,Sayaxche,Sepens,Caserio
+16.4287611743175,-90.30620736139284,Peten,Sayaxche,Sepens,Caserio
+16.4287611743175,-90.30620736139284,Peten,Sayaxche,Sepens,Caserio
+16.50944109990634,-90.3606532146055,Peten,Sayaxche,Valle Nuevo,Caserio
+16.5544998275051,-90.42321791316417,Peten,Sayaxche,Canaan,Caserio
+16.5544998275051,-90.42321791316417,Peten,Sayaxche,Canaan,Caserio
+17.020985913262347,-89.5451313061402,Peten,Flores,Aguadas Nuevas,Caserio
