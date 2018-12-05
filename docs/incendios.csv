@@ -1,23 +1,46 @@
 lat,lng,date,time,frp,admin1,admin2
-14.73327,-90.7058,2018-12-05,0642,0.5,Chimaltenango,San Martín Jilotepeque
-14.73789,-91.5832,2018-12-05,0642,4.5,Quetzaltenango,El Palmar
-14.73884,-91.57824,2018-12-05,0642,2.8,Quetzaltenango,El Palmar
-14.47897,-90.9267,2018-12-05,0642,4.9,Chimaltenango,Yepocapa
-14.47987,-90.93572,2018-12-05,0642,4.9,Chimaltenango,Yepocapa
-14.48281,-90.92896,2018-12-05,0642,3.4,Chimaltenango,Yepocapa
-14.47626,-90.93097,2018-12-05,0642,4,Chimaltenango,Yepocapa
-14.22155,-91.08203,2018-12-05,0642,1.2,Escuintla,Santa Lucia Cotzulmalguapa
-14.73446,-90.7034,2018-12-05,0824,1.2,Chimaltenango,San Martín Jilotepeque
-14.73461,-90.70418,2018-12-05,0824,1,Chimaltenango,San Martín Jilotepeque
-14.46821,-90.84261,2018-12-05,0824,4.3,Sacatepéquez,Alotenango
-14.46622,-90.83339,2018-12-05,0824,2.3,Sacatepéquez,Alotenango
-14.38797,-90.59905,2018-12-05,0824,12.4,Guatemala,Amatitlán
-14.38903,-90.60384,2018-12-05,0824,12.4,Guatemala,Amatitlán
-14.38133,-90.59994,2018-12-05,0824,12.4,Guatemala,Amatitlán
-14.38243,-90.60495,2018-12-05,0824,12.4,Guatemala,Amatitlán
-14.37897,-90.58918,2018-12-05,0824,12.8,Guatemala,Villa Canales
-14.46868,-90.84241,2018-12-05,0824,2.1,Sacatepéquez,Alotenango
-14.46676,-90.83321,2018-12-05,0824,2.1,Sacatepéquez,Alotenango
-14.38348,-90.59948,2018-12-05,0824,16.5,Guatemala,Amatitlán
-14.38456,-90.60458,2018-12-05,0824,18,Guatemala,Amatitlán
-14.38175,-90.59135,2018-12-05,0824,16.5,Guatemala,Amatitlán
+15.98341,-89.9972,2018-12-05,1936,1.4,Alta Verapaz,Fray Bartolomé De Las Casas
+16.16551,-89.36769,2018-12-05,1936,9.3,Petén,San Luis
+16.19853,-89.99274,2018-12-05,1936,6.4,Petén,San Luis
+16.19805,-89.99651,2018-12-05,1936,6.6,Petén,San Luis
+16.2794,-89.83291,2018-12-05,1936,3.2,Petén,Poptún
+16.33005,-89.89866,2018-12-05,1936,2.1,Petén,Poptún
+16.34713,-89.99384,2018-12-05,1936,1.8,Petén,San Francisco
+16.34899,-90.07125,2018-12-05,1936,1.7,Petén,Sayaxché
+16.48086,-89.62347,2018-12-05,1936,3,Petén,San Francisco
+16.38266,-90.3897,2018-12-05,1936,4.3,Petén,Sayaxché
+16.45995,-90.27106,2018-12-05,1936,2.7,Petén,Sayaxché
+16.49397,-90.29414,2018-12-05,1936,2.9,Petén,Sayaxché
+16.69923,-89.20238,2018-12-05,1936,3.7,Petén,Dolores
+16.77949,-90.42032,2018-12-05,1936,4.7,Petén,La Libertad
+16.82677,-90.37111,2018-12-05,1936,1.4,Petén,La Libertad
+14.00215,-90.76895,2018-12-05,1930,6.5,Escuintla,Masagua
+14.00595,-90.76949,2018-12-05,1930,9.2,Escuintla,Masagua
+14.00539,-90.76714,2018-12-05,1930,5.5,Escuintla,Masagua
+14.00476,-90.77189,2018-12-05,1930,5.5,Escuintla,Masagua
+13.98009,-91.09998,2018-12-05,1930,5.7,Escuintla,La Gomera
+13.97965,-91.26998,2018-12-05,1930,5.2,Escuintla,La Gomera
+14.01659,-91.22048,2018-12-05,1930,5,Escuintla,La Gomera
+14.06517,-91.08883,2018-12-05,1930,3.6,Escuintla,La Gomera
+14.06305,-91.08709,2018-12-05,1930,6.3,Escuintla,La Gomera
+14.0594,-91.36627,2018-12-05,1930,3.4,Escuintla,Tiquisate
+14.28327,-89.96002,2018-12-05,1930,65.4,Jutiapa,Jutiapa
+14.17436,-91.07976,2018-12-05,1930,2.8,Escuintla,Santa Lucia Cotzulmalguapa
+14.19662,-91.17482,2018-12-05,1930,3.7,Escuintla,Santa Lucia Cotzulmalguapa
+14.1853,-91.61089,2018-12-05,1930,2.7,Suchitepéquez,Cuyotenango
+14.32764,-90.77727,2018-12-05,1930,2.4,Escuintla,Escuintla
+14.38455,-90.6061,2018-12-05,1930,85.8,Guatemala,Amatitlán
+14.31797,-91.10287,2018-12-05,1930,2.7,Suchitepéquez,Patulul
+14.40168,-90.7113,2018-12-05,1930,6.1,Escuintla,Escuintla
+14.26718,-91.71835,2018-12-05,1930,11.5,Suchitepéquez,Cuyotenango
+14.2708,-91.71887,2018-12-05,1930,11.5,Suchitepéquez,Cuyotenango
+14.45813,-90.55524,2018-12-05,1930,5,Guatemala,Amatitlán
+14.29249,-91.8261,2018-12-05,1930,9.8,Retalhuleu,Retalhuleu
+14.45893,-90.55775,2018-12-05,1930,4.1,Guatemala,Amatitlán
+14.28964,-91.82883,2018-12-05,1930,5,Retalhuleu,Retalhuleu
+14.29381,-91.82513,2018-12-05,1930,8,Retalhuleu,Retalhuleu
+14.41012,-91.32689,2018-12-05,1930,5.3,Suchitepéquez,Chicacao
+14.4748,-90.87849,2018-12-05,1930,15,Chimaltenango,Yepocapa
+14.4602,-91.12702,2018-12-05,1930,5.9,Suchitepéquez,Patulul
+14.36109,-91.9209,2018-12-05,1930,10.7,Retalhuleu,Retalhuleu
+14.53,-91.59187,2018-12-05,1930,2.9,Retalhuleu,San Andrés Villa Seca
