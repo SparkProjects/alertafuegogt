@@ -1,46 +1,8 @@
 lat,lng,departamento,municipio,admin3,admin4
-15.984803979432774,-89.99038524446071,Alta Verapaz,Fray Bartolome De Las Casas,Erial Del Pilar,Finca
-16.163980463807363,-89.36909484053558,Peten,San Luis,Sin Nombre,Finca
-16.20237493292566,-89.99974730561115,Peten,Sayaxche,El Pinalito Icacao,Caserio
-16.20237493292566,-89.99974730561115,Peten,Sayaxche,El Pinalito Icacao,Caserio
-16.295113370424914,-89.83216318906744,Peten,Poptun,La Providencia,Finca
-16.32903670785604,-89.89180228711177,Peten,Dolores,El Limon,Caserio
-16.343685142289495,-90.00233016071121,Peten,Sayaxche,Agua Chiquita,Caserio
-16.358051597877004,-90.08549861116576,Peten,Sayaxche,San Lucas,Caserio
-16.49210786676039,-89.65896482258682,Peten,Dolores,El Esfuerzo,Caserio
-16.383987876527943,-90.39336218769009,Peten,Sayaxche,Pico De Oro,Caserio
-16.449171463567836,-90.233533353214,Peten,Sayaxche,Petexbatun,Otra
-16.537883668580932,-90.2710888080302,Peten,Sayaxche,El Mangal,Caserio
-16.695069408636943,-89.20922375429979,Peten,Dolores,Nueva Armenia,Caserio
-16.72081198016821,-90.38140205883947,Peten,La Libertad,El Cedron,Parcelamiento
-16.84636726257416,-90.3530239647868,Peten,La Libertad,Nueva Formacion,Caserio
-13.996257436936204,-90.76393111828521,Escuintla,Masagua,Sevilla,Finca
-13.996257436936204,-90.76393111828521,Escuintla,Masagua,Sevilla,Finca
-13.996257436936204,-90.76393111828521,Escuintla,Masagua,Sevilla,Finca
-13.999128368358743,-90.77885804496952,Escuintla,Masagua,Los Lotes,Caserio
-13.980254115674168,-91.109904885681,Escuintla,La Gomera,El Paraiso,Finca
-13.972623747291005,-91.28148987187744,Escuintla,La Gomera,San Juan La Selva,Finca
-14.008518776237105,-91.21829192096804,Escuintla,La Gomera,Vista Hermosa,Colonia
-14.0710853975945,-91.08991266272595,Escuintla,La Gomera,Santa Patricia,Labor
-14.058596571294785,-91.0820669967673,Escuintla,La Gomera,El Triunfo,Finca
-14.057209317947063,-91.3663795287854,Escuintla,Nueva Concepcion,Trocha 8,Caserio
-14.282272498218381,-89.95380559429347,Jutiapa,Jutiapa,Amayito,Aldea
-14.1766880571541,-91.08115807895106,Escuintla,Santa Lucia Cotzumalguapa,Bethania,Caserio
-14.214420883937128,-91.1701591027747,Suchitepequez,Patulul,El Amatillo,Otra
-14.182339752946863,-91.60924234434069,Suchitepequez,Mazatenango,El Paraiso,Finca
-14.327950676977709,-90.7800717022341,Escuintla,Escuintla,Poblacion Dispersa,Otra
-14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
-14.314278324736101,-91.10185994991772,Escuintla,Santa Lucia Cotzumalguapa,Cañaverales Del Sur,Finca
-14.401984615374642,-90.71303599489985,Escuintla,Palin,La Esmeralda,Finca
-14.278926704370916,-91.71314625968624,Suchitepequez,Cuyotenango,San Mateyito,Labor
-14.278926704370916,-91.71314625968624,Suchitepequez,Cuyotenango,San Mateyito,Labor
-14.45693865838511,-90.5571238432283,Guatemala,Villa Canales,El Milagro,Colonia
-14.281887054553021,-91.82048696262662,Retalhuleu,Champerico,San Lucas Miramar,Finca
-14.457320967001452,-90.55879040690851,Guatemala,Villa Canales,San Andres,Colonia
-14.281887054553021,-91.82048696262662,Retalhuleu,Champerico,San Lucas Miramar,Finca
-14.29209284760818,-91.8127635507761,Retalhuleu,Champerico,El Triunfo,Finca
-14.401672226396608,-91.31910712234927,Suchitepequez,Rio Bravo,Santa Elena,Colonia
+14.727912029094655,-90.69702161116032,Guatemala,San Juan Sacatepequez,San Jose Ocana,Otra
+14.77331479727794,-91.5550714680634,Quetzaltenango,Quetzaltenango,Chuipach,Otra
+14.77331479727794,-91.5550714680634,Quetzaltenango,Quetzaltenango,Chuipach,Otra
+14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra
+14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra
 14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
-14.463729531324319,-91.13180726224441,Suchitepequez,Patulul,San Julian,Finca
-14.365419487743344,-91.9145071952318,Retalhuleu,Champerico,Puerta De Hierro,Rancheria
-14.53201432015286,-91.58855589788855,Suchitepequez,Cuyotenango,El Jordan,Granja
+14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
