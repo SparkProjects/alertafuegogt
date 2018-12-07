@@ -1,40 +1,10 @@
 lat,lng,departamento,municipio,admin3,admin4
-13.997119342845018,-90.53587031892712,Santa Rosa,Taxisco,El Recuerdo,Hacienda
-14.005558882924795,-90.53214711725329,Santa Rosa,Taxisco,Los Tapescos,Finca
-13.979188868673399,-90.90276287767111,Escuintla,San Jose,Las Pilas,Hacienda
-13.984929255774942,-90.9117257202443,Escuintla,San Jose,El Recuerdo,Finca
-13.985852228120114,-91.0789186012837,Escuintla,La Gomera,Las Hortencias,Finca
-14.008518776237105,-91.21829192096804,Escuintla,La Gomera,Vista Hermosa,Colonia
-14.008518776237105,-91.21829192096804,Escuintla,La Gomera,Vista Hermosa,Colonia
-14.04332392091419,-91.20662452173089,Escuintla,La Gomera,Finca Cantoira Los Turines,Finca
-14.044293251186067,-91.23509981472982,Escuintla,La Gomera,Pangola Coyolate,Finca
-14.120016202967207,-90.75473993682064,Escuintla,Masagua,Tierra Colorada,Finca
-14.1766880571541,-91.08115807895106,Escuintla,Santa Lucia Cotzumalguapa,Bethania,Caserio
-14.274743964168902,-90.57571871333363,Guatemala,Villa Canales,Santa Anita,Finca
-14.208556525017695,-91.28499449834793,Escuintla,Nueva Concepcion,Pampas Las Flores,Caserio
-14.142220051591371,-91.64559099502692,Suchitepequez,San Lorenzo,Laguna Verde,Finca
-14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
-14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
-14.286841896583026,-91.41789341281775,Suchitepequez,San Jose El Idolo,San Jose Buena Vista,Finca
-14.261599695410686,-91.82217338627085,Retalhuleu,Champerico,San Fernando,Finca
+14.804342785500927,-90.27858335990369,El Progreso,Sanarate,Sinaca,Aldea
+14.727912029094655,-90.69702161116032,Guatemala,San Juan Sacatepequez,San Jose Ocana,Otra
+14.77331479727794,-91.5550714680634,Quetzaltenango,Quetzaltenango,Chuipach,Otra
 14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
-14.47516157590734,-91.43020000687355,Suchitepequez,San Jose El Idolo,San Ramon,Aldea
-14.748570133182946,-90.45177832233715,Guatemala,San Pedro Ayampuc,Lotificacion Altos De Santa Maria Sector,Colonia
-14.756784455647406,-90.45756597947882,Guatemala,San Pedro Ayampuc,El Rodeo,Finca
-14.8461174832132,-90.51317459425519,Guatemala,Chuarrancho,Espinal,Finca
-16.077546946801128,-89.57529839282986,Peten,San Luis,Tzuncal,Aldea
-16.02882556135186,-90.16824427703207,Peten,Sayaxche,Finca Aceituno,Otra
-16.103132660546475,-89.50958746343854,Peten,San Luis,Chimay,Aldea
-16.02882556135186,-90.16824427703207,Peten,Sayaxche,Finca Aceituno,Otra
-16.211187427143997,-89.22421941832998,Peten,San Luis,San Francisco Moyejon,Caserio
-16.032059156557224,-90.6000799579323,Alta Verapaz,Coban,Comunidad Isla Las Tortugas,Caserio
-16.55697142196536,-89.25772090711975,Peten,Dolores,El Toronjo,Caserio
-16.431736293254307,-90.24222095349377,Peten,Sayaxche,Arroyo Ciego O Las Maravillas,Caserio
-16.615490945838925,-89.54425907149817,Peten,Dolores,Sac Nite,Finca
-16.53191711836756,-90.41760304965607,Peten,Sayaxche,La Amelia,Otra
-16.55629525395877,-90.3896174422906,Peten,Sayaxche,El Caribe,Otra
-16.79281683107934,-89.59455042663303,Peten,Santa Ana,El Nuevo Porvenir,Caserio
-16.690898292852914,-90.2942492517323,Peten,La Libertad,Las Tres Marias,Paraje
-16.72081198016821,-90.38140205883947,Peten,La Libertad,El Cedron,Parcelamiento
-16.72081198016821,-90.38140205883947,Peten,La Libertad,El Cedron,Parcelamiento
-16.92979980132275,-90.22258327025536,Peten,La Libertad,La Bendicion,Finca
+14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra
+14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
+14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
+14.226230747710845,-90.82499709725693,Escuintla,Masagua,El Coco,Finca
+14.285561790947007,-91.37560255729063,Escuintla,Tiquisate,15 De Septiembre,Colonia
