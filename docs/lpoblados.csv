@@ -1,62 +1,40 @@
 lat,lng,departamento,municipio,admin3,admin4
-14.816622941731774,-90.28629593167534,El Progreso,Sanarate,San Miguel Rio Abajo,Finca
-14.77331479727794,-91.5550714680634,Quetzaltenango,Quetzaltenango,Chuipach,Otra
-14.684038005167078,-91.31187819725538,Solola,San Juan La Laguna,Palestina,Aldea
-14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
-14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
-14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
-13.999111897898311,-91.25130178250619,Escuintla,La Gomera,Coroni,Finca
-13.999111897898311,-91.25130178250619,Escuintla,La Gomera,Coroni,Finca
-14.784657492678601,-90.31486914245211,El Progreso,San Antonio La Paz,Santo Domingo Los Ocotes,Aldea
-14.784657492678601,-90.31486914245211,El Progreso,San Antonio La Paz,Santo Domingo Los Ocotes,Aldea
-13.938240812848884,-90.72694358997501,Escuintla,Iztapa,Santa Marta,Colonia
-13.938240812848884,-90.72694358997501,Escuintla,Iztapa,Santa Marta,Colonia
-13.985852228120114,-91.0789186012837,Escuintla,La Gomera,Las Hortencias,Finca
-13.97687746128916,-91.06522761543441,Escuintla,La Gomera,Las Delicias,Finca
-13.985852228120114,-91.0789186012837,Escuintla,La Gomera,Las Hortencias,Finca
-14.11581118683169,-90.2850388724925,Santa Rosa,Santa Maria Ixhuatan,San Julian,Caserio
-14.136854418306418,-90.64909084000759,Escuintla,Guanagazapa,La Prensa,Hacienda
-14.136854418306418,-90.64909084000759,Escuintla,Guanagazapa,La Prensa,Hacienda
-14.184437615536746,-90.33349612076695,Santa Rosa,Santa Maria Ixhuatan,El Muerto,Caserio
-14.293368327302655,-89.7180920483066,Jutiapa,Asuncion Mita,California,Finca
-14.31368941562809,-89.63200184666405,Jutiapa,Asuncion Mita,Chalchate,Finca
-14.315729360738526,-89.64185877249238,Jutiapa,Asuncion Mita,El Guayote,Finca
-14.294507600703673,-89.71046158392035,Jutiapa,Asuncion Mita,Chaguite,Caserio
-14.31368941562809,-89.63200184666405,Jutiapa,Asuncion Mita,Chalchate,Finca
-14.315729360738526,-89.64185877249238,Jutiapa,Asuncion Mita,El Guayote,Finca
-14.294507600703673,-89.71046158392035,Jutiapa,Asuncion Mita,Chaguite,Caserio
-14.224129960257178,-90.73379058193316,Escuintla,Escuintla,San Carlos Canada I,Colonia
-14.153902891206352,-91.55094323211604,Suchitepequez,Santo Domingo Suchitepequez,Japon Sandoval,Parcelamiento
-14.18340251212171,-91.47246469970027,Suchitepequez,Santo Domingo Suchitepequez,San Nicolas Malaga,Finca
-14.18340251212171,-91.47246469970027,Suchitepequez,Santo Domingo Suchitepequez,San Nicolas Malaga,Finca
-14.18340251212171,-91.47246469970027,Suchitepequez,Santo Domingo Suchitepequez,San Nicolas Malaga,Finca
-14.302271299216073,-91.38299540144695,Escuintla,Tiquisate,La Providencia,Finca
-14.302271299216073,-91.38299540144695,Escuintla,Tiquisate,La Providencia,Finca
-14.302271299216073,-91.38299540144695,Escuintla,Tiquisate,La Providencia,Finca
-14.302271299216073,-91.38299540144695,Escuintla,Tiquisate,La Providencia,Finca
-14.316979692151275,-91.84722076851793,Retalhuleu,Champerico,El Rosario I, Ii Y Iii,Finca
-14.366936856459382,-91.84665561915389,Retalhuleu,Champerico,Agropecuaria La Virgen,Finca
-14.515463987097988,-91.41364004595314,Suchitepequez,San Antonio Suchitepequez,Villa Amanda,Finca
-16.47749899138278,-90.23134095550905,Peten,Sayaxche,Caribe,Otra
-14.699289802466105,-91.56956901877453,Quetzaltenango,El Palmar,San Jose,Finca
-14.684038005167078,-91.31187819725538,Solola,San Juan La Laguna,Palestina,Aldea
-14.684038005167078,-91.31187819725538,Solola,San Juan La Laguna,Palestina,Aldea
-14.77331479727794,-91.5550714680634,Quetzaltenango,Quetzaltenango,Chuipach,Otra
-14.684038005167078,-91.31187819725538,Solola,San Juan La Laguna,Palestina,Aldea
-14.503226142188892,-90.94718655356026,Chimaltenango,Yepocapa,La Cabana,Caserio
-14.49674520116619,-90.95192948745368,Chimaltenango,Yepocapa,Monte De Los Olivos,Caserio
-14.445780174970382,-90.94697450167511,Chimaltenango,Yepocapa,Panimache Ii,Caserio
-15.274637785404853,-90.62856171062415,Baja Verapaz,Cubulco,Los Pajales,Aldea
-14.467029167770615,-90.81374449004802,Sacatepequez,Alotenango,Santa Isabel El Amaton,Finca
+15.330052791223432,-89.77146698942057,Alta Verapaz,Panzos,Sin Nombre,Finca
+15.329835503146436,-91.5003661350506,Huehuetenango,Huehuetenango,Zaculeu,Otra
+15.329835503146436,-91.5003661350506,Huehuetenango,Huehuetenango,Zaculeu,Otra
+15.460911289799304,-90.69428430911324,Quiche,Chicaman,Cumbre La May,Aldea
+15.504274012420897,-91.19311887285755,Quiche,Nebaj,Jolom Chiquito,Caserio
+15.929094071332736,-90.2922688679243,Alta Verapaz,Chisec,Emanuel,Caserio
+15.950739425427294,-90.82271726594689,Quiche,Ixcan,El Coton O Colonia La Bendicion,Finca
+16.052857247355774,-89.81541932617597,Peten,San Luis,Raxuja,Caserio
+16.581064197517982,-90.0764767553729,Peten,San Francisco,Sin Nombre,Finca
+17.04342470255137,-89.77628916378926,Peten,San Jose,El Tintal,Otra
+13.97178744096523,-90.39178347224798,Santa Rosa,Chiquimulilla,Las Canoas,Finca
+13.97657548751171,-90.7927895272279,Escuintla,San Jose,Suquite,Caserio
+14.012086081588079,-90.45053739383951,Santa Rosa,Guazacapan,La Fortuna,Finca
+13.935939170380374,-91.19248748306484,Escuintla,La Gomera,Chicales,Finca
+13.935939170380374,-91.19248748306484,Escuintla,La Gomera,Chicales,Finca
+13.935939170380374,-91.19248748306484,Escuintla,La Gomera,Chicales,Finca
+14.025348790963537,-90.76513861728388,Escuintla,Masagua,Albania,Finca
+13.97814291584863,-91.17473451422629,Escuintla,La Gomera,El Condor,Finca
+13.97814291584863,-91.17473451422629,Escuintla,La Gomera,El Condor,Finca
+14.081682706216865,-90.57345542931168,Santa Rosa,Taxisco,Las Marinas,Finca
+14.081682706216865,-90.57345542931168,Santa Rosa,Taxisco,Las Marinas,Finca
+14.044722509346888,-90.9855792353461,Escuintla,La Democracia,Santa Fe,Finca
+14.128381818957159,-90.53616494379159,Santa Rosa,Taxisco,San Miguel,Finca
+14.066364611015308,-91.27035920717039,Escuintla,Nueva Concepcion,Calle 11 La Faja,Caserio
+14.181047687054058,-91.13341621658502,Escuintla,Santa Lucia Cotzumalguapa,Villa Aurora,Hacienda
+14.1766880571541,-91.08115807895106,Escuintla,Santa Lucia Cotzumalguapa,Bethania,Caserio
+14.331867306479081,-90.40270831992126,Santa Rosa,Barberena,Fray Bartolome De Las Casas,Finca
+14.348596950334077,-90.49014995457667,Santa Rosa,Barberena,Las Alamedas,Finca
+14.308382038422414,-91.18681670337493,Suchitepequez,Patulul,Peralta,Hacienda
+14.381419290007459,-91.27198742098452,Suchitepequez,Rio Bravo,Las Brisas San Jose,Finca
+14.491781619416827,-90.70402084662877,Sacatepequez,Santa Maria De Jesus,Sabana Grande,Otra
 14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra
-14.46023177052503,-90.81363671005684,Sacatepequez,Alotenango,Amaton,Finca
-14.46023177052503,-90.81363671005684,Sacatepequez,Alotenango,Amaton,Finca
-14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
-14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
-14.362674154077236,-90.57309849849233,Guatemala,Villa Canales,San Antonio,Caserio
-14.362674154077236,-90.57309849849233,Guatemala,Villa Canales,San Antonio,Caserio
-14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra
-14.46023177052503,-90.81363671005684,Sacatepequez,Alotenango,Amaton,Finca
-14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
-14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
-14.36786534822764,-90.56360068050131,Guatemala,Villa Canales,Los Llanos,Caserio
+14.359039981609085,-91.65422597245256,Retalhuleu,San Andres Villa Seca,Entre Rios,Finca
+14.662866448740804,-90.45051422860354,Guatemala,Guatemala,Zona 18,Ciudad
+14.578548392749388,-91.60232945968707,Retalhuleu,San Martin Zapotitlan,Maricon,Caserio
+14.666655521090856,-91.19721949223414,Solola,Santiago Atitlan,Chalchicabaj,Caserio
+14.750208839911298,-90.976295221012,Chimaltenango,Tecpan Guatemala,Pamanzana,Caserio
+14.84491180018419,-90.45942118999672,Guatemala,Chuarrancho,Santa Barbara La De Lac,Caserio
+15.059759052143582,-91.3815665328851,Totonicapan,Momostenango,Maquicha,Otra
