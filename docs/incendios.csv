@@ -1,40 +1,10 @@
 lat,lng,date,time,frp,admin1,admin2
-15.32978,-89.77484,2019-02-12,1942,2.5,Alta Verapaz,Panzós
-15.31629,-91.5033,2019-02-12,1942,7.2,Huehuetenango,Malacatancito
-15.31582,-91.50698,2019-02-12,1942,7.2,Huehuetenango,Malacatancito
-15.46482,-90.70156,2019-02-12,1942,7.1,Alta Verapaz,San Cristóbal Verapaz
-15.51689,-91.19691,2019-02-12,1942,3.7,Huehuetenango,Aguacatán
-15.93987,-90.29163,2019-02-12,1942,2,Alta Verapaz,Cobán
-15.93195,-90.827,2019-02-12,1942,3.1,Quiché,Ixcán
-16.05979,-89.80077,2019-02-12,1942,4.1,Petén,San Luis
-16.55631,-90.07809,2019-02-12,1942,2.7,Petén,Sayaxché
-17.04443,-89.79313,2019-02-12,1942,4.5,Petén,Flores
-13.97016,-90.38892,2019-02-12,1936,2.9,Santa Rosa,Chiquimulilla
-13.96582,-90.78886,2019-02-12,1936,3.8,Escuintla,Masagua
-14.01362,-90.45747,2019-02-12,1936,1.5,Santa Rosa,Taxisco
-13.94211,-91.18671,2019-02-12,1936,3,Escuintla,La Gomera
-13.9456,-91.18713,2019-02-12,1936,4.6,Escuintla,La Gomera
-13.94465,-91.1945,2019-02-12,1936,4.5,Escuintla,La Gomera
-14.01708,-90.75928,2019-02-12,1936,3.4,Escuintla,Masagua
-13.97459,-91.18732,2019-02-12,1936,6,Escuintla,La Gomera
-13.97411,-91.19101,2019-02-12,1936,4.2,Escuintla,La Gomera
-14.08229,-90.58567,2019-02-12,1936,4.6,Escuintla,Guanagazapa
-14.08177,-90.58968,2019-02-12,1936,4.6,Escuintla,Guanagazapa
-14.04571,-90.99509,2019-02-12,1936,2.9,Escuintla,La Democracia
-14.13096,-90.53696,2019-02-12,1936,2.1,Santa Rosa,Taxisco
-14.06703,-91.27139,2019-02-12,1936,5.8,Escuintla,La Gomera
-14.17396,-91.14394,2019-02-12,1936,21,Escuintla,Santa Lucia Cotzulmalguapa
-14.18621,-91.08088,2019-02-12,1936,3.7,Escuintla,Santa Lucia Cotzulmalguapa
-14.33623,-90.41409,2019-02-12,1936,3.4,Santa Rosa,Santa Cruz Naranjo
-14.34639,-90.49142,2019-02-12,1936,3.9,Guatemala,Villa Canales
-14.30115,-91.18459,2019-02-12,1936,5.1,Suchitepéquez,Patulul
-14.3871,-91.28334,2019-02-12,1936,31.1,Suchitepéquez,Chicacao
-14.4882,-90.6948,2019-02-12,1936,4.7,Sacatepéquez,Antigua Guatemala
-14.47306,-90.8782,2019-02-12,1936,52.4,Chimaltenango,Yepocapa
-14.36773,-91.68073,2019-02-12,1936,4.3,Retalhuleu,San Andrés Villa Seca
-14.64412,-90.45158,2019-02-12,1936,3.3,Guatemala,Guatemala
-14.57704,-91.59884,2019-02-12,1936,5.2,Retalhuleu,San Andrés Villa Seca
-14.66247,-91.19929,2019-02-12,1936,2.2,Sololá,Lago De Atitlán
-14.75321,-90.97086,2019-02-12,1936,2.8,Chimaltenango,Tecpán Guatemala
-14.82582,-90.46509,2019-02-12,1936,6.3,Guatemala,Chuarrancho
-15.05933,-91.38305,2019-02-12,1936,16.1,Totonicapán,Santa María Chiquimula
+14.73768,-91.56319,2019-02-13,0812,0.7,Quetzaltenango,El Palmar
+14.47272,-90.87479,2019-02-13,0812,8.8,Sacatepéquez,Alotenango
+14.47023,-90.86214,2019-02-13,0812,6,Sacatepéquez,Alotenango
+14.38467,-90.60087,2019-02-13,0812,2.3,Guatemala,Amatitlán
+14.38393,-90.59719,2019-02-13,0812,2.3,Guatemala,Amatitlán
+14.37916,-90.60129,2019-02-13,0812,2.3,Guatemala,Villa Canales
+14.37835,-90.59731,2019-02-13,0812,2.3,Guatemala,Villa Canales
+14.36282,-90.75179,2019-02-13,0812,4.6,Escuintla,Escuintla
+14.35739,-90.75243,2019-02-13,0812,4.6,Escuintla,Escuintla
