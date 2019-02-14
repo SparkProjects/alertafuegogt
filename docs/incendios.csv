@@ -1,21 +1,46 @@
 lat,lng,date,time,frp,admin1,admin2
-14.81505,-90.27718,2019-02-14,0754,1.2,El Progreso,Sanarate
-14.53725,-90.01388,2019-02-14,0754,1.1,Jalapa,Jalapa
-14.53306,-90.01414,2019-02-14,0754,1.6,Jalapa,Jalapa
-14.6221,-90.76967,2019-02-14,0754,1.2,Sacatepéquez,Pastores
-14.73853,-91.56754,2019-02-14,0754,1.7,Quetzaltenango,El Palmar
-14.47309,-90.87881,2019-02-14,0754,38.6,Chimaltenango,Yepocapa
-14.25286,-89.71986,2019-02-14,0754,0.8,Jutiapa,Asunción Mita
-14.38384,-90.60353,2019-02-14,0754,18.3,Guatemala,Amatitlán
-14.38293,-90.59839,2019-02-14,0754,15.6,Guatemala,Amatitlán
-14.11782,-89.83778,2019-02-14,0754,1,Jutiapa,Comapa
-14.06781,-89.72948,2019-02-14,0754,1.2,Jutiapa,Jerez
-14.24847,-91.1818,2019-02-14,0754,8.1,Suchitepéquez,Patulul
-14.24464,-91.1825,2019-02-14,0754,8.1,Suchitepéquez,Patulul
-13.94719,-90.0709,2019-02-14,0754,7.8,Jutiapa,Conguaco
-13.94653,-90.06721,2019-02-14,0754,8.1,Jutiapa,Conguaco
-13.94585,-90.06345,2019-02-14,0754,8.1,Jutiapa,Conguaco
-13.94307,-90.07165,2019-02-14,0754,15.9,Jutiapa,Conguaco
-13.94241,-90.06795,2019-02-14,0754,9.4,Jutiapa,Conguaco
-14.06621,-90.96626,2019-02-14,0754,3.7,Escuintla,La Democracia
-14.0417,-91.03565,2019-02-14,0754,8.5,Escuintla,La Gomera
+13.9467,-90.52875,2019-02-14,1900,42.9,Santa Rosa,Taxisco
+14.03182,-90.55604,2019-02-14,1900,2.2,Santa Rosa,Taxisco
+14.09947,-90.61655,2019-02-14,1900,8.8,Escuintla,Guanagazapa
+14.03954,-91.0369,2019-02-14,1900,4.2,Escuintla,La Gomera
+14.04332,-91.03756,2019-02-14,1900,4.2,Escuintla,La Gomera
+14.11518,-90.74934,2019-02-14,1900,4,Escuintla,Guanagazapa
+14.1308,-90.74731,2019-02-14,1900,4.2,Escuintla,Guanagazapa
+14.22527,-90.35808,2019-02-14,1900,2.8,Santa Rosa,Cuilapa
+14.22509,-90.36127,2019-02-14,1900,3.3,Santa Rosa,Cuilapa
+14.07674,-91.33871,2019-02-14,1900,6.1,Escuintla,Tiquisate
+14.33572,-89.8546,2019-02-14,1900,2.1,Jutiapa,El Progreso
+14.20837,-90.77312,2019-02-14,1900,2.4,Escuintla,Escuintla
+14.20895,-90.9296,2019-02-14,1900,5.8,Escuintla,La Democracia
+14.29874,-90.54916,2019-02-14,1900,3.8,Guatemala,Villa Canales
+14.22264,-91.03284,2019-02-14,1900,7.9,Escuintla,Santa Lucia Cotzulmalguapa
+14.22185,-91.03757,2019-02-14,1900,7.5,Escuintla,Santa Lucia Cotzulmalguapa
+14.21081,-91.10398,2019-02-14,1900,2.7,Suchitepéquez,Patulul
+14.18682,-91.24789,2019-02-14,1900,2.8,Escuintla,La Gomera
+14.29786,-90.54797,2019-02-14,1900,6.4,Guatemala,Villa Canales
+14.41444,-89.90069,2019-02-14,1900,3.1,Jutiapa,Jutiapa
+14.22167,-91.03599,2019-02-14,1900,15.5,Escuintla,Santa Lucia Cotzulmalguapa
+14.21021,-91.10224,2019-02-14,1900,5.4,Suchitepéquez,Patulul
+14.1853,-91.24584,2019-02-14,1900,5.3,Escuintla,La Gomera
+14.3537,-90.43998,2019-02-14,1900,89.5,Santa Rosa,Barberena
+14.30361,-90.73678,2019-02-14,1900,8.1,Escuintla,Escuintla
+14.30735,-91.07991,2019-02-14,1900,4.1,Escuintla,Santa Lucia Cotzulmalguapa
+14.52628,-89.99174,2019-02-14,1900,6.2,Jalapa,Jalapa
+14.23823,-91.70364,2019-02-14,1900,1.7,Suchitepéquez,Cuyotenango
+14.25172,-91.81235,2019-02-14,1900,5.3,Retalhuleu,Retalhuleu
+14.25567,-91.81304,2019-02-14,1900,4.7,Retalhuleu,Retalhuleu
+14.29221,-91.67114,2019-02-14,1900,6.3,Suchitepéquez,Cuyotenango
+14.29612,-91.67184,2019-02-14,1900,2.9,Suchitepéquez,Cuyotenango
+14.29524,-91.67695,2019-02-14,1900,2.9,Suchitepéquez,Cuyotenango
+14.55543,-90.44155,2019-02-14,1900,2.9,Guatemala,Guatemala
+14.45851,-91.23774,2019-02-14,1900,3.5,Suchitepéquez,Patulul
+14.43832,-91.63618,2019-02-14,1900,6.2,Retalhuleu,San Andrés Villa Seca
+14.43916,-91.63381,2019-02-14,1900,5.8,Retalhuleu,San Andrés Villa Seca
+14.52027,-91.44231,2019-02-14,1900,2.9,Suchitepéquez,San Antonio Suchitepéquez
+14.74539,-90.53374,2019-02-14,1900,6.4,Guatemala,San Raymundo
+14.74467,-90.53799,2019-02-14,1900,3.4,Guatemala,San Raymundo
+15.04183,-91.17817,2019-02-14,1900,4.8,Quiché,San Antonio Ilotenango
+15.07439,-91.37181,2019-02-14,1900,16.3,Totonicapán,Santa María Chiquimula
+15.49514,-91.06071,2019-02-14,1900,5.8,Quiché,Chajul
+16.91528,-89.95073,2019-02-14,1900,2.8,Petén,Dolores
+17.21301,-90.42172,2019-02-14,1900,2.8,Petén,La Libertad
