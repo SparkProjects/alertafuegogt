@@ -1,57 +1,12 @@
 lat,lng,departamento,municipio,admin3,admin4
-15.307618925923077,-91.93454211139841,San Marcos,Concepcion Tutuapa,Huispache,Aldea
+14.929478189983898,-90.91615488537347,Quiche,Joyabaj,Canton Panchaj 3 Centro,Caserio
+14.816622941731774,-90.28629593167534,El Progreso,Sanarate,San Miguel Rio Abajo,Finca
+14.932954549469232,-91.11807636533817,Quiche,Chichicastenango,Pascuatabaj,Otra
+14.816622941731774,-90.28629593167534,El Progreso,Sanarate,San Miguel Rio Abajo,Finca
+14.77331479727794,-91.5550714680634,Quetzaltenango,Quetzaltenango,Chuipach,Otra
+14.699289802466105,-91.56956901877453,Quetzaltenango,El Palmar,San Jose,Finca
+14.699289802466105,-91.56956901877453,Quetzaltenango,El Palmar,San Jose,Finca
+14.699289802466105,-91.56956901877453,Quetzaltenango,El Palmar,San Jose,Finca
 14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
 14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
-14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
-14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
-14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
-14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
-14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
-14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
-17.221635009728523,-90.48956217850072,Peten,La Libertad,Los Almendros  Cruce Km. 35,Caserio
-17.1796420796034,-89.93304729613062,Peten,San Andres,San Miguel,Caserio
-17.1796420796034,-89.93304729613062,Peten,San Andres,San Miguel,Caserio
-17.1796420796034,-89.93304729613062,Peten,San Andres,San Miguel,Caserio
-17.1796420796034,-89.93304729613062,Peten,San Andres,San Miguel,Caserio
-17.1796420796034,-89.93304729613062,Peten,San Andres,San Miguel,Caserio
-16.616082959608622,-90.28412410244194,Peten,La Libertad,Santa Isabel,Finca
-16.616082959608622,-90.28412410244194,Peten,La Libertad,Santa Isabel,Finca
-16.616082959608622,-90.28412410244194,Peten,La Libertad,Santa Isabel,Finca
-16.616082959608622,-90.28412410244194,Peten,La Libertad,Santa Isabel,Finca
-16.616082959608622,-90.28412410244194,Peten,La Libertad,Santa Isabel,Finca
-16.616082959608622,-90.28412410244194,Peten,La Libertad,Santa Isabel,Finca
-15.740159235899437,-91.70061972479816,Huehuetenango,San Miguel Acatan,Mujubal,Otra
-13.954896793705714,-91.19602221096395,Escuintla,La Gomera,Manacales,Finca
-14.035770961026593,-91.38770909816807,Escuintla,Nueva Concepcion,Trocha 12 Calle Vieja,Caserio
-14.035770961026593,-91.38770909816807,Escuintla,Nueva Concepcion,Trocha 12 Calle Vieja,Caserio
-14.26779282959449,-90.37419330398586,Santa Rosa,Barberena,Piedra Grande,Finca
-15.276691169281218,-88.93691916158272,Izabal,Los Amates,Las Delicias,Otra
-15.317566350613633,-89.6020886897779,Alta Verapaz,Panzos,Limon (Anexo Parana),Finca
-16.03658903972317,-89.87223581704208,Peten,Sayaxche,Entre Rios,Finca
-16.106321629908948,-89.4909782804385,Peten,San Luis,La Laguna,Finca
-16.186844152535013,-89.2168279928066,Peten,San Luis,Santa Cruz Frontera,Caserio
-16.03658903972317,-89.87223581704208,Peten,Sayaxche,Entre Rios,Finca
-16.03658903972317,-89.87223581704208,Peten,Sayaxche,Entre Rios,Finca
-16.106321629908948,-89.4909782804385,Peten,San Luis,La Laguna,Finca
-16.186844152535013,-89.2168279928066,Peten,San Luis,Santa Cruz Frontera,Caserio
-16.106321629908948,-89.4909782804385,Peten,San Luis,La Laguna,Finca
-16.301085935129212,-89.90236178301534,Peten,Dolores,San Marcos,Caserio
-16.42073100140429,-89.72230340212923,Peten,Poptun,El Estadio,Caserio
-16.42073100140429,-89.72230340212923,Peten,Poptun,El Estadio,Caserio
-16.54906229182829,-89.24538200843519,Peten,Dolores,Valle De La Esmeralda,Caserio
-16.581064197517982,-90.0764767553729,Peten,San Francisco,Sin Nombre,Finca
-16.581064197517982,-90.0764767553729,Peten,San Francisco,Sin Nombre,Finca
-16.616082959608622,-90.28412410244194,Peten,La Libertad,Santa Isabel,Finca
-16.616082959608622,-90.28412410244194,Peten,La Libertad,Santa Isabel,Finca
-16.92820054916824,-89.70208716531286,Peten,Flores,San Martin,Otra
-17.020985913262347,-89.5451313061402,Peten,Flores,Aguadas Nuevas,Caserio
-17.0852183706394,-89.71397542002238,Peten,San Jose,La Mejia,Otra
-14.596138446867387,-90.44712378741109,Guatemala,Santa Catarina Pinula,El Pozo Seco,Otra
-14.481901538933691,-91.63842045453931,Retalhuleu,Santa Cruz Mulua,Santa Lucia,Caserio
 14.490501246927131,-91.94209754569798,Retalhuleu,Retalhuleu,San Antonio Del Pilar,Finca
-14.491805759921261,-91.95359942929052,Retalhuleu,Retalhuleu,Maria Del Carmen,Caserio
-14.491805759921261,-91.95359942929052,Retalhuleu,Retalhuleu,Maria Del Carmen,Caserio
-14.929478189983898,-90.91615488537347,Quiche,Joyabaj,Canton Panchaj 3 Centro,Caserio
-14.929478189983898,-90.91615488537347,Quiche,Joyabaj,Canton Panchaj 3 Centro,Caserio
-15.71025013894909,-91.92221647655334,Huehuetenango,Santa Ana Huista,Piedra Parada,Otra
-15.71025013894909,-91.92221647655334,Huehuetenango,Santa Ana Huista,Piedra Parada,Otra
