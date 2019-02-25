@@ -1,44 +1,20 @@
 lat,lng,departamento,municipio,admin3,admin4
-13.87804829610652,-90.3467735651461,Santa Rosa,Chiquimulilla,La Maquina,Finca
-13.924893174210128,-91.10452454525779,Escuintla,La Gomera,La Criba,Otra
-14.004919902289089,-90.63215982170766,Escuintla,Iztapa,La Union,Finca
-14.069343467014933,-90.55324836081876,Santa Rosa,Taxisco,Santa Matilde El Pajal,Finca
-14.069343467014933,-90.55324836081876,Santa Rosa,Taxisco,Santa Matilde El Pajal,Finca
-14.069343467014933,-90.55324836081876,Santa Rosa,Taxisco,Santa Matilde El Pajal,Finca
-14.069343467014933,-90.55324836081876,Santa Rosa,Taxisco,Santa Matilde El Pajal,Finca
-14.1121894037233,-90.66601491652851,Escuintla,Guanagazapa,Las Mercedes,Finca
-14.122089161312065,-90.67666028015917,Escuintla,Guanagazapa,Argelia,Finca
-14.112431535138533,-91.408534356468,Escuintla,Tiquisate,Los Capitanes,Finca
-14.158291167314232,-91.51321488287817,Suchitepequez,Santo Domingo Suchitepequez,Los Alamos (Anexo Finca ),Otra
-14.158291167314232,-91.51321488287817,Suchitepequez,Santo Domingo Suchitepequez,Los Alamos (Anexo Finca ),Otra
-14.257628718535157,-91.4137825239794,Escuintla,Tiquisate,Peten,Finca
-14.257628718535157,-91.4137825239794,Escuintla,Tiquisate,Peten,Finca
-14.257628718535157,-91.4137825239794,Escuintla,Tiquisate,Peten,Finca
-14.257628718535157,-91.4137825239794,Escuintla,Tiquisate,Peten,Finca
-14.238156651891165,-91.56007336373523,Suchitepequez,San Lorenzo,Santa Elena Vado Hondo,Otra
-14.583346542146401,-90.5302602400935,Guatemala,Guatemala,Zona 13,Ciudad
-14.472643234029828,-91.7257940692114,Retalhuleu,Retalhuleu,Caba¥A,Finca
-14.472643234029828,-91.7257940692114,Retalhuleu,Retalhuleu,Caba¥A,Finca
-14.524514227757207,-91.60420253703874,Retalhuleu,San Andres Villa Seca,Pajales No. Uno,Caserio
-14.756761137483803,-90.15311760776343,El Progreso,Sansare,El Amatillo,Finca
-14.763456866644333,-90.48120334278947,Guatemala,San Pedro Ayampuc,San Jose Nacahuil,Aldea
-15.141448910663486,-89.48418047811433,Zacapa,Rio Hondo,Tabacal,Aldea
-15.141448910663486,-89.48418047811433,Zacapa,Rio Hondo,Tabacal,Aldea
-15.052525470128982,-89.94731522127411,El Progreso,San Agustin Acasaguastlan,Trinidad,Caserio
-15.026817576351453,-90.25370821369935,Baja Verapaz,San Jeronimo,El Naranjo,Caserio
-15.311520957021013,-89.8845594836215,Alta Verapaz,Santa Catalina La Tinta,La Tinta,Aldea
-15.629398887492087,-89.69020406454717,Alta Verapaz,Cahabon,Agua Caliente Dos,Caserio
-15.9779857544834,-89.80372728667919,Peten,San Luis,El Naranjo,Caserio
-16.008545113758125,-89.66640936707427,Peten,San Luis,La Pimienta,Caserio
-16.144652412755494,-89.22658775161877,Peten,San Luis,Moyejon Esquipulas,Caserio
-15.926651200525182,-91.57350857723124,Huehuetenango,Nenton,Jajaguilo,Otra
-16.262675786692252,-90.10941614248432,Peten,Sayaxche,Flor De La Ceiba Del Pasion,Caserio
-16.316459492877755,-90.2984397579423,Peten,Sayaxche,Rosa Jamaica,Caserio
-16.316459492877755,-90.2984397579423,Peten,Sayaxche,Rosa Jamaica,Caserio
-16.316459492877755,-90.2984397579423,Peten,Sayaxche,Rosa Jamaica,Caserio
-16.45929051124298,-89.6913134205313,Peten,Dolores,Guadalupe,Caserio
-16.509819377451496,-89.49848166387386,Peten,Dolores,El Choquerito,Finca
-16.537883668580932,-90.2710888080302,Peten,Sayaxche,El Mangal,Caserio
-16.78747314771491,-90.11923755355483,Peten,La Libertad,La Libertad,Pueblo
-17.061752241819452,-89.31232966968764,Peten,Melchor De Mencos,La Coloradita,Paraje
-17.061752241819452,-89.31232966968764,Peten,Melchor De Mencos,La Coloradita,Paraje
+16.80250658441128,-89.90333870371036,Peten,San Francisco,Saja,Otra
+16.764522749877884,-89.92311598539851,Peten,San Francisco,San Francisco,Otra
+16.80250658441128,-89.90333870371036,Peten,San Francisco,Saja,Otra
+15.056201186167742,-90.31152850812968,Baja Verapaz,Salama,Payaque,Aldea
+14.804342785500927,-90.27858335990369,El Progreso,Sanarate,Sinaca,Aldea
+14.77331479727794,-91.5550714680634,Quetzaltenango,Quetzaltenango,Chuipach,Otra
+14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
+14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra
+14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
+14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra
+14.432993047084148,-91.37335756316688,Suchitepequez,Chicacao,Santiago O Santo Tomas,Finca/Labor
+14.419183210926182,-91.38193211956269,Suchitepequez,Chicacao,San Jorge,Finca
+14.04345212329983,-90.93313251763476,Escuintla,La Democracia,Polonia,Finca
+14.04345212329983,-90.93313251763476,Escuintla,La Democracia,Polonia,Finca
+13.986920076933849,-90.72538706709206,Escuintla,Masagua,La Laguna Blanca,Finca
+13.986920076933849,-90.72538706709206,Escuintla,Masagua,La Laguna Blanca,Finca
+13.986920076933849,-90.72538706709206,Escuintla,Masagua,La Laguna Blanca,Finca
+13.986920076933849,-90.72538706709206,Escuintla,Masagua,La Laguna Blanca,Finca
+13.986920076933849,-90.72538706709206,Escuintla,Masagua,La Laguna Blanca,Finca
