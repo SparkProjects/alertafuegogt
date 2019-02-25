@@ -1,20 +1,40 @@
 lat,lng,departamento,municipio,admin3,admin4
-16.80250658441128,-89.90333870371036,Peten,San Francisco,Saja,Otra
-16.764522749877884,-89.92311598539851,Peten,San Francisco,San Francisco,Otra
-16.80250658441128,-89.90333870371036,Peten,San Francisco,Saja,Otra
-15.056201186167742,-90.31152850812968,Baja Verapaz,Salama,Payaque,Aldea
-14.804342785500927,-90.27858335990369,El Progreso,Sanarate,Sinaca,Aldea
-14.77331479727794,-91.5550714680634,Quetzaltenango,Quetzaltenango,Chuipach,Otra
-14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
-14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra
-14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
-14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra
-14.432993047084148,-91.37335756316688,Suchitepequez,Chicacao,Santiago O Santo Tomas,Finca/Labor
-14.419183210926182,-91.38193211956269,Suchitepequez,Chicacao,San Jorge,Finca
-14.04345212329983,-90.93313251763476,Escuintla,La Democracia,Polonia,Finca
-14.04345212329983,-90.93313251763476,Escuintla,La Democracia,Polonia,Finca
-13.986920076933849,-90.72538706709206,Escuintla,Masagua,La Laguna Blanca,Finca
-13.986920076933849,-90.72538706709206,Escuintla,Masagua,La Laguna Blanca,Finca
-13.986920076933849,-90.72538706709206,Escuintla,Masagua,La Laguna Blanca,Finca
-13.986920076933849,-90.72538706709206,Escuintla,Masagua,La Laguna Blanca,Finca
-13.986920076933849,-90.72538706709206,Escuintla,Masagua,La Laguna Blanca,Finca
+13.87804829610652,-90.3467735651461,Santa Rosa,Chiquimulilla,La Maquina,Finca
+14.186696746565088,-89.67903573517279,Jutiapa,Atescatempa,El Retiro,Finca
+14.186696746565088,-89.67903573517279,Jutiapa,Atescatempa,El Retiro,Finca
+14.186696746565088,-89.67903573517279,Jutiapa,Atescatempa,El Retiro,Finca
+14.098414863322628,-90.6087707991734,Santa Rosa,Taxisco,Las Ilusiones,Hacienda
+14.098414863322628,-90.6087707991734,Santa Rosa,Taxisco,Las Ilusiones,Hacienda
+14.019178667626232,-91.3933866762459,Escuintla,Nueva Concepcion,Trocha 14,Caserio
+14.019178667626232,-91.3933866762459,Escuintla,Nueva Concepcion,Trocha 14,Caserio
+14.044293251186067,-91.23509981472982,Escuintla,La Gomera,Pangola Coyolate,Finca
+14.057395756668244,-91.3542073439588,Escuintla,Nueva Concepcion,Trocha 7,Caserio
+14.167712546326747,-91.54426607374008,Suchitepequez,Santo Domingo Suchitepequez,Santa Rita,Caserio
+14.269354764096168,-90.901146003136,Escuintla,La Democracia,La Isla,Finca
+14.279349848706334,-90.93552303006427,Escuintla,Siquinala,La Cantadora,Finca
+14.262026851453724,-90.95344862463106,Escuintla,Siquinala,San Julian,Hacienda
+14.457622863778383,-90.62092088309178,Guatemala,Amatitlan,Florencia,Finca
+14.33172951654867,-91.35821327328081,Suchitepequez,Rio Bravo,Aurora,Finca
+14.33172951654867,-91.35821327328081,Suchitepequez,Rio Bravo,Aurora,Finca
+14.33172951654867,-91.35821327328081,Suchitepequez,Rio Bravo,Aurora,Finca
+14.515647139484328,-91.37770280844515,Suchitepequez,San Antonio Suchitepequez,Los Hulares,Finca
+14.470654385806363,-91.81004331962282,Retalhuleu,Retalhuleu,El Triunfo,Finca
+14.540127257470509,-91.55195458136895,Suchitepequez,Cuyotenango,El Rosario,Finca
+14.756784455647406,-90.45756597947882,Guatemala,San Pedro Ayampuc,El Rodeo,Finca
+14.682469495395928,-90.95975610692,Chimaltenango,Patzicia,Xejeyu,Caserio
+14.564265284395644,-91.93974478290428,Quetzaltenango,Coatepeque,Tilapa,Finca
+14.564265284395644,-91.93974478290428,Quetzaltenango,Coatepeque,Tilapa,Finca
+14.67091320654219,-92.14362224282601,San Marcos,Ayutla,4 De Marzo,Asentamiento
+15.855083590267121,-89.18508526741435,Izabal,Livingston,Toquela,Aldea
+16.116676070277105,-90.03951034925193,Peten,Sayaxche,Nueva Esperanza,Caserio
+16.143661213892305,-90.03537955083262,Peten,Sayaxche,Sin Nombre,Finca
+16.218781971209,-90.0842436174309,Peten,Sayaxche,El Colorado,Caserio
+16.459775074659117,-90.14308527908007,Peten,Sayaxche,Hacienda El Obrero,Otra
+16.777296685660797,-89.2122471147597,Peten,Dolores,Puerta Del Cielo,Caserio
+16.674500985528848,-89.99895833817656,Peten,San Francisco,Chibalba,Finca
+16.947063302479616,-89.48850058892208,Peten,Flores,Esperanza,Caserio
+16.947063302479616,-89.48850058892208,Peten,Flores,Esperanza,Caserio
+16.93534901083637,-90.21268486805394,Peten,La Libertad,San Jose La Bendicion,Caserio
+17.317852928989975,-90.54620018897143,Peten,San Andres,La Mula,Caserio
+17.317852928989975,-90.54620018897143,Peten,San Andres,La Mula,Caserio
+17.317852928989975,-90.54620018897143,Peten,San Andres,La Mula,Caserio
