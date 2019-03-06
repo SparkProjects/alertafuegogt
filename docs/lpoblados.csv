@@ -1,49 +1,13 @@
 lat,lng,departamento,municipio,admin3,admin4
-15.010726547596189,-89.73793284072302,Zacapa,Teculutan,Las Minas,Finca
-15.247436791038895,-89.28685412047415,Zacapa,Gualan,San Carlos,Finca
-15.361170049782888,-89.62089769253562,Alta Verapaz,Panzos,San Vicente,Finca
-15.429141391705338,-89.62455915805519,Alta Verapaz,Panzos,Santa Elisa,Finca
-15.847903529712585,-89.73526377062025,Alta Verapaz,Fray Bartolome De Las Casas,Bolonco,Aldea
-16.077304915298466,-89.89152250041539,Peten,San Luis,La Promesa,Finca
-16.077304915298466,-89.89152250041539,Peten,San Luis,La Promesa,Finca
-16.077304915298466,-89.89152250041539,Peten,San Luis,La Promesa,Finca
-16.077304915298466,-89.89152250041539,Peten,San Luis,La Promesa,Finca
-16.077304915298466,-89.89152250041539,Peten,San Luis,La Promesa,Finca
-16.381923802718426,-89.27773437245634,Peten,Dolores,Hacienda La Cobanera,Otra
-16.381923802718426,-89.27773437245634,Peten,Dolores,Hacienda La Cobanera,Otra
-16.343685142289495,-90.00233016071121,Peten,Sayaxche,Agua Chiquita,Caserio
-16.343685142289495,-90.00233016071121,Peten,Sayaxche,Agua Chiquita,Caserio
-16.501783017541,-89.42698131304446,Peten,Dolores,El Charro,Otra
-16.413594202160194,-90.38851407610139,Peten,Sayaxche,Lo Veremos,Caserio
-16.548092878038265,-90.22494346401234,Peten,Sayaxche,Santa Barbara,Otra
-16.88604380925985,-89.30235887312217,Peten,Melchor De Mencos,El Naranjo,Finca
-16.88604380925985,-89.30235887312217,Peten,Melchor De Mencos,El Naranjo,Finca
-13.905294994870443,-90.27843827671838,Santa Rosa,Chiquimulilla,Trinitaria,Finca
-13.926239492241537,-90.6191326216743,Santa Rosa,Taxisco,El Zunzo,Caserio
-14.042071868510554,-90.00482261159387,Jutiapa,Conguaco,Vista Hermosa,Caserio
-13.997648894700795,-91.014255669897,Escuintla,La Gomera,El Recuerdo,Finca
-14.017952759968534,-91.0086439810489,Escuintla,La Democracia,El Congo,Finca
-14.205000294840065,-89.66557516888855,Jutiapa,Asuncion Mita,La Pitahayal,Finca
-14.09524674122028,-90.8053253435585,Escuintla,Masagua,El Milagro,Otra
-14.074929028285801,-91.22290920563036,Escuintla,La Gomera,Texcuaco,Aldea
-14.197348130071493,-91.19499870721863,Escuintla,Nueva Concepcion,Las Ilusiones,Hacienda
-14.197348130071493,-91.19499870721863,Escuintla,Nueva Concepcion,Las Ilusiones,Hacienda
-14.239592995367335,-91.27869701988931,Escuintla,Nueva Concepcion,Las Acacias,Finca
-14.257628718535157,-91.4137825239794,Escuintla,Tiquisate,Peten,Finca
-14.228883809098255,-91.70457704511723,Suchitepequez,Cuyotenango,Miralinda,Labor
-14.282076655463825,-91.3691767396202,Escuintla,Tiquisate,San Carlos,Condominio
+15.065957779309283,-89.7101030485919,Zacapa,Rio Hondo,Santa Rosalia,Aldea
+14.418618240694471,-90.0203871221131,Jutiapa,Jutiapa,Manzanillo,Caserio
+14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra
+14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra
 14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
 14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
-14.2568297062877,-91.67654112853968,Suchitepequez,Cuyotenango,Santa Isabel,Labor
-14.282076655463825,-91.3691767396202,Escuintla,Tiquisate,San Carlos,Condominio
-14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
-14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
-14.2568297062877,-91.67654112853968,Suchitepequez,Cuyotenango,Santa Isabel,Labor
-14.296832906151218,-91.59238130303467,Suchitepequez,Cuyotenango,Poblacion Dispersa,Otra
-14.39300872212103,-91.19491123501385,Suchitepequez,Patulul,Cocales,Finca
-14.514053044985367,-90.62420043568315,Guatemala,Villa Nueva,Plan Grande,Otra
-14.408741582707641,-91.78566143493978,Retalhuleu,Retalhuleu,La Tortuguita,Hacienda
-14.501811400440154,-91.9165867756326,Retalhuleu,Retalhuleu,La Monta¥A,Parcelam.
-14.776950241608633,-89.83656653666942,Jalapa,San Pedro Pinula,El Roblar,Paraje
-14.514672507315737,-91.94642096029348,Retalhuleu,Retalhuleu,La Blanquita,Finca
-14.737874342908128,-91.15099939944638,Solola,Panajachel,Jucanya,Caserio
+14.362674154077236,-90.57309849849233,Guatemala,Villa Canales,San Antonio,Caserio
+14.216052081774672,-90.78775062584204,Escuintla,Escuintla,La Herradura,Finca
+14.216052081774672,-90.78775062584204,Escuintla,Escuintla,La Herradura,Finca
+14.0142840499076,-91.43598718083443,Escuintla,Tiquisate,San Francisco Madre Vieja,Caserio
+14.0142840499076,-91.43598718083443,Escuintla,Tiquisate,San Francisco Madre Vieja,Caserio
+14.0142840499076,-91.43598718083443,Escuintla,Tiquisate,San Francisco Madre Vieja,Caserio
