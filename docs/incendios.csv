@@ -1,29 +1,99 @@
 lat,lng,date,time,frp,admin1,admin2
-15.34397,-91.48282,2019-03-08,0742,1.4,Huehuetenango,Huehuetenango
-15.34067,-91.48337,2019-03-08,0742,1.4,Huehuetenango,Huehuetenango
-15.01184,-90.9569,2019-03-08,0742,0.5,Quiché,Joyabaj
-14.81295,-90.27803,2019-03-08,0742,1.6,El Progreso,Sanarate
-14.7927,-90.21907,2019-03-08,0742,0.4,El Progreso,Sanarate
-14.73604,-90.7019,2019-03-08,0742,0.3,Chimaltenango,San Martín Jilotepeque
-14.74033,-91.56619,2019-03-08,0742,1,Quetzaltenango,El Palmar
-14.73701,-91.5667,2019-03-08,0742,1,Quetzaltenango,El Palmar
-14.4712,-90.04992,2019-03-08,0742,0.9,Jalapa,Jalapa
-14.72981,-92.07384,2019-03-08,0742,0.7,San Marcos,Ayutla
-14.72706,-92.07794,2019-03-08,0742,2.1,Quetzaltenango,Coatepeque
-14.7265,-92.07439,2019-03-08,0742,2.1,Quetzaltenango,Coatepeque
-14.49864,-90.66216,2019-03-08,0742,1.7,Sacatepéquez,Santa María De Jesús
-14.49527,-90.66275,2019-03-08,0742,1.7,Sacatepéquez,Santa María De Jesús
-14.4946,-90.65871,2019-03-08,0742,1.1,Guatemala,Amatitlán
-14.49187,-90.66317,2019-03-08,0742,1.5,Sacatepéquez,Santa María De Jesús
-14.49121,-90.65921,2019-03-08,0742,0.8,Guatemala,Amatitlán
-14.47864,-90.88786,2019-03-08,0742,0.6,Chimaltenango,Yepocapa
-14.47808,-90.88444,2019-03-08,0742,0.6,Chimaltenango,Yepocapa
-14.47751,-90.88094,2019-03-08,0742,0.6,Chimaltenango,Yepocapa
-14.47473,-90.88496,2019-03-08,0742,15.6,Chimaltenango,Yepocapa
-14.47415,-90.88145,2019-03-08,0742,15.6,Chimaltenango,Yepocapa
-14.47355,-90.87775,2019-03-08,0742,3.2,Chimaltenango,Yepocapa
-14.47079,-90.88193,2019-03-08,0742,15.6,Chimaltenango,Yepocapa
-14.46798,-90.88577,2019-03-08,0742,0.7,Chimaltenango,Yepocapa
-14.38345,-90.60201,2019-03-08,0742,3.4,Guatemala,Amatitlán
-14.27247,-90.58598,2019-03-08,0742,0.8,Guatemala,Villa Canales
-14.24594,-90.46783,2019-03-08,0742,0.8,Guatemala,Villa Canales
+13.88619,-90.22905,2019-03-08,1848,6.4,Santa Rosa,Chiquimulilla
+13.88538,-90.23347,2019-03-08,1848,3.8,Santa Rosa,Chiquimulilla
+13.88978,-90.23428,2019-03-08,1848,16.6,Santa Rosa,Chiquimulilla
+13.9348,-90.39047,2019-03-08,1848,5,Santa Rosa,Chiquimulilla
+13.93925,-90.39129,2019-03-08,1848,5,Santa Rosa,Chiquimulilla
+13.93845,-90.39581,2019-03-08,1848,5,Santa Rosa,Chiquimulilla
+13.93787,-90.38979,2019-03-08,1848,5.7,Santa Rosa,Chiquimulilla
+13.93703,-90.39429,2019-03-08,1848,5.7,Santa Rosa,Chiquimulilla
+13.93619,-90.39882,2019-03-08,1848,5.7,Santa Rosa,Chiquimulilla
+13.9398,-90.40416,2019-03-08,1848,9,Santa Rosa,Chiquimulilla
+13.94509,-90.40045,2019-03-08,1848,9,Santa Rosa,Chiquimulilla
+13.94341,-90.4095,2019-03-08,1848,5.2,Santa Rosa,Chiquimulilla
+13.95037,-90.39674,2019-03-08,1848,5.8,Santa Rosa,Chiquimulilla
+13.94953,-90.40127,2019-03-08,1848,6.7,Santa Rosa,Chiquimulilla
+13.94032,-90.45123,2019-03-08,1848,18,Santa Rosa,Taxisco
+13.93948,-90.45577,2019-03-08,1848,9.6,Santa Rosa,Taxisco
+13.95398,-90.40208,2019-03-08,1848,6.7,Santa Rosa,Chiquimulilla
+13.9287,-90.53924,2019-03-08,1848,4.4,Santa Rosa,Taxisco
+13.93912,-90.50787,2019-03-08,1848,9,Santa Rosa,Taxisco
+13.96009,-90.39383,2019-03-08,1848,24.8,Santa Rosa,Chiquimulilla
+13.95926,-90.39835,2019-03-08,1848,24.8,Santa Rosa,Chiquimulilla
+13.93488,-90.53087,2019-03-08,1848,6.1,Santa Rosa,Taxisco
+14.06367,-89.85008,2019-03-08,1848,5.7,Jutiapa,Comapa
+13.96453,-90.39465,2019-03-08,1848,24.8,Santa Rosa,Chiquimulilla
+13.96371,-90.39917,2019-03-08,1848,24.8,Santa Rosa,Chiquimulilla
+13.96288,-90.40369,2019-03-08,1848,11.9,Santa Rosa,Chiquimulilla
+13.94444,-90.50413,2019-03-08,1848,9,Santa Rosa,Taxisco
+13.94359,-90.50871,2019-03-08,1848,9,Santa Rosa,Taxisco
+13.93852,-90.53632,2019-03-08,1848,6.1,Santa Rosa,Taxisco
+13.96898,-90.39544,2019-03-08,1848,11.8,Santa Rosa,Chiquimulilla
+13.96816,-90.39996,2019-03-08,1848,11.8,Santa Rosa,Chiquimulilla
+13.94215,-90.54178,2019-03-08,1848,7.1,Santa Rosa,Taxisco
+13.94664,-90.54263,2019-03-08,1848,7.1,Santa Rosa,Taxisco
+14.00028,-90.47662,2019-03-08,1848,4.3,Santa Rosa,Taxisco
+14.00474,-90.47746,2019-03-08,1848,4.3,Santa Rosa,Taxisco
+13.95007,-90.91156,2019-03-08,1848,14.1,Escuintla,San José
+13.94919,-90.91647,2019-03-08,1848,3.8,Escuintla,San José
+14.07019,-90.2644,2019-03-08,1848,4.6,Santa Rosa,Santa María Ixhuatán
+13.94899,-90.90955,2019-03-08,1848,3.9,Escuintla,San José
+13.94807,-90.91443,2019-03-08,1848,5.4,Escuintla,San José
+14.07302,-90.26828,2019-03-08,1848,5.3,Santa Rosa,Santa María Ixhuatán
+13.95267,-90.91529,2019-03-08,1848,5.2,Escuintla,Masagua
+13.99181,-91.11763,2019-03-08,1848,9.6,Escuintla,La Gomera
+13.99463,-91.12859,2019-03-08,1848,5.7,Escuintla,La Gomera
+14.26755,-89.73114,2019-03-08,1848,7.8,Jutiapa,Asunción Mita
+14.26713,-89.73058,2019-03-08,1848,7.7,Jutiapa,Asunción Mita
+14.20087,-90.21373,2019-03-08,1848,2.6,Santa Rosa,Cuilapa
+14.23603,-90.29412,2019-03-08,1848,5.1,Santa Rosa,Cuilapa
+14.37296,-89.72431,2019-03-08,1848,50.9,Jutiapa,Santa Catarina Mita
+14.37219,-89.72405,2019-03-08,1848,55.8,Jutiapa,Santa Catarina Mita
+14.24409,-90.46642,2019-03-08,1848,4.4,Guatemala,Villa Canales
+14.20865,-90.73107,2019-03-08,1848,4.6,Escuintla,Escuintla
+14.18308,-90.96947,2019-03-08,1848,55,Escuintla,La Democracia
+14.18769,-90.97028,2019-03-08,1848,28.6,Escuintla,La Democracia
+14.21737,-90.83577,2019-03-08,1848,9.6,Escuintla,Escuintla
+14.19326,-90.99152,2019-03-08,1848,7,Escuintla,Santa Lucia Cotzulmalguapa
+14.273,-90.58427,2019-03-08,1848,5.9,Guatemala,Villa Canales
+14.15233,-91.23769,2019-03-08,1848,5.5,Escuintla,La Gomera
+14.28716,-90.71056,2019-03-08,1848,4.7,Escuintla,Escuintla
+14.26529,-90.90917,2019-03-08,1848,5.7,Escuintla,Escuintla
+14.30702,-90.70377,2019-03-08,1848,8.4,Escuintla,Escuintla
+14.30607,-90.70909,2019-03-08,1848,10,Escuintla,Escuintla
+14.27702,-90.89658,2019-03-08,1848,6.9,Escuintla,Escuintla
+14.31172,-90.7296,2019-03-08,1848,5.5,Escuintla,Escuintla
+14.31089,-90.73423,2019-03-08,1848,5.5,Escuintla,Escuintla
+14.2816,-90.89734,2019-03-08,1848,6.9,Escuintla,Escuintla
+14.30359,-90.70502,2019-03-08,1848,9.1,Escuintla,Escuintla
+14.30798,-90.70646,2019-03-08,1848,11.2,Escuintla,Escuintla
+14.26939,-90.91174,2019-03-08,1848,1.8,Escuintla,Escuintla
+14.31261,-90.73158,2019-03-08,1848,13.4,Escuintla,Escuintla
+14.31174,-90.73622,2019-03-08,1848,5.7,Escuintla,Escuintla
+14.28213,-90.89431,2019-03-08,1848,3.9,Escuintla,Escuintla
+14.28123,-90.8991,2019-03-08,1848,10,Escuintla,Escuintla
+14.51703,-89.66924,2019-03-08,1848,3.1,Chiquimula,Ipala
+14.38205,-90.60731,2019-03-08,1848,13.7,Guatemala,Amatitlán
+14.37837,-90.72918,2019-03-08,1848,6.6,Escuintla,Escuintla
+14.27394,-91.61199,2019-03-08,1848,4.1,Suchitepéquez,Cuyotenango
+14.26884,-91.63885,2019-03-08,1848,5.8,Suchitepéquez,Cuyotenango
+14.49431,-90.65967,2019-03-08,1848,18.3,Guatemala,Amatitlán
+14.49885,-90.66014,2019-03-08,1848,14.8,Sacatepéquez,Santa María De Jesús
+14.4982,-90.66368,2019-03-08,1848,14.8,Sacatepéquez,Santa María De Jesús
+14.43193,-91.78828,2019-03-08,1848,15.4,Retalhuleu,Retalhuleu
+14.87181,-89.4575,2019-03-08,1848,5.6,Chiquimula,Chiquimula
+14.51798,-91.51929,2019-03-08,1848,4.3,Suchitepéquez,Mazatenango
+14.45537,-91.90206,2019-03-08,1848,4.8,Retalhuleu,Retalhuleu
+14.58114,-91.49587,2019-03-08,1848,3,Suchitepéquez,San Francisco Zapotitlán
+14.95801,-89.86965,2019-03-08,1848,7.1,El Progreso,San Cristóbal Acasguastlan
+14.59478,-92.00625,2019-03-08,1848,4.1,Quetzaltenango,Coatepeque
+14.59685,-92.00333,2019-03-08,1848,3.5,Quetzaltenango,Coatepeque
+15.03411,-90.74678,2019-03-08,1848,6.5,Quiché,Joyabaj
+15.03337,-90.75085,2019-03-08,1848,6.5,Quiché,Joyabaj
+15.5779,-91.14735,2019-03-08,1848,14.1,Quiché,Nebaj
+15.57706,-91.15184,2019-03-08,1848,14.1,Quiché,Nebaj
+15.82584,-91.81374,2019-03-08,1848,7.4,Huehuetenango,Santa Ana Huista
+15.82754,-91.81136,2019-03-08,1848,5.4,Huehuetenango,Santa Ana Huista
+15.82649,-91.81669,2019-03-08,1848,5.4,Huehuetenango,Santa Ana Huista
+16.66325,-89.75619,2019-03-08,1848,9.6,Petén,San Francisco
+17.025,-89.95106,2019-03-08,1848,7.2,Petén,San Benito
