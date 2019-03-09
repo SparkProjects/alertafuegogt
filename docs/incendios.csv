@@ -1,26 +1,20 @@
 lat,lng,date,time,frp,admin1,admin2
-14.06453,-89.8467,2019-03-09,1830,2,Jutiapa,Comapa
-13.95659,-90.57388,2019-03-09,1830,2.9,Santa Rosa,Taxisco
-13.95021,-90.91661,2019-03-09,1830,5.9,Escuintla,San José
-13.95747,-90.91283,2019-03-09,1830,5.9,Escuintla,Masagua
-13.97396,-90.86371,2019-03-09,1830,8.6,Escuintla,Masagua
-13.95373,-90.91576,2019-03-09,1830,14.7,Escuintla,Masagua
-13.97163,-90.8617,2019-03-09,1830,3.5,Escuintla,Masagua
-14.25887,-90.73361,2019-03-09,1830,3.9,Escuintla,Escuintla
-14.37114,-90.52588,2019-03-09,1830,3.7,Guatemala,Villa Canales
-14.37262,-90.52467,2019-03-09,1830,6.7,Guatemala,Villa Canales
-14.27983,-91.15057,2019-03-09,1830,15.8,Suchitepéquez,Patulul
-14.28095,-91.14521,2019-03-09,1830,30.2,Suchitepéquez,Patulul
-14.35758,-90.87123,2019-03-09,1830,10.3,Escuintla,Escuintla
-14.35635,-90.8772,2019-03-09,1830,10.3,Escuintla,Escuintla
-14.42229,-90.68118,2019-03-09,1830,3.7,Escuintla,Escuintla
-14.49638,-90.65807,2019-03-09,1830,28.7,Guatemala,Amatitlán
-14.50253,-90.65893,2019-03-09,1830,4.2,Guatemala,Amatitlán
-14.50193,-90.66181,2019-03-09,1830,4.2,Sacatepéquez,Santa María De Jesús
-14.46742,-90.92076,2019-03-09,1830,18.4,Chimaltenango,Yepocapa
-14.69516,-90.76952,2019-03-09,1830,4.6,Chimaltenango,Chimaltenango
-16.03697,-89.85514,2019-03-09,1830,6.3,Alta Verapaz,Fray Bartolomé De Las Casas
-16.37725,-89.89051,2019-03-09,1830,2.4,Petén,Poptún
-16.46233,-89.97545,2019-03-09,1830,4.3,Petén,San Francisco
-17.0285,-89.66191,2019-03-09,1830,6,Petén,Flores
-17.03516,-89.82149,2019-03-09,1830,3.8,Petén,Flores
+14.08983,-91.2181,2019-03-09,2012,14.3,Escuintla,La Gomera
+14.09663,-91.21878,2019-03-09,2012,32.9,Escuintla,La Gomera
+14.26809,-91.71414,2019-03-09,2012,9.7,Suchitepéquez,Cuyotenango
+14.2657,-91.71626,2019-03-09,2012,8.9,Suchitepéquez,Cuyotenango
+14.32969,-91.47778,2019-03-09,2012,6.5,Suchitepéquez,Santo Domingo Suchitepéquez
+14.39737,-91.54573,2019-03-09,2012,6.3,Retalhuleu,San Andrés Villa Seca
+14.47796,-90.8288,2019-03-09,2012,22.3,Sacatepéquez,Alotenango
+14.47579,-90.83309,2019-03-09,2012,16.1,Sacatepéquez,Alotenango
+14.42497,-91.83598,2019-03-09,2012,18.9,Retalhuleu,Retalhuleu
+14.42439,-91.84167,2019-03-09,2012,18.9,Retalhuleu,Retalhuleu
+14.50457,-91.90123,2019-03-09,2012,7.8,Quetzaltenango,Génova
+14.50396,-91.90689,2019-03-09,2012,7.8,Quetzaltenango,Génova
+14.50298,-91.9068,2019-03-09,2012,10.7,Quetzaltenango,Génova
+14.68246,-90.872,2019-03-09,2012,46.9,Chimaltenango,Zaragoza
+14.69299,-90.76722,2019-03-09,2012,7,Chimaltenango,Chimaltenango
+14.68046,-90.87525,2019-03-09,2012,10.7,Chimaltenango,Zaragoza
+14.68743,-90.87611,2019-03-09,2012,15.7,Chimaltenango,Zaragoza
+14.688,-90.87001,2019-03-09,2012,24.2,Chimaltenango,Zaragoza
+14.72176,-92.07793,2019-03-09,2012,4.6,Quetzaltenango,Coatepeque
