@@ -1,41 +1,36 @@
 lat,lng,departamento,municipio,admin3,admin4
-17.335673395422113,-89.96386168744607,Peten,San Andres,Sibalon,Caserio
-17.335673395422113,-89.96386168744607,Peten,San Andres,Sibalon,Caserio
-17.335673395422113,-89.96386168744607,Peten,San Andres,Sibalon,Caserio
-17.098713234560247,-90.28159228504816,Peten,San Andres,Nacimiento Tamaris,Otra
-16.948501838463933,-89.70351440361131,Peten,Flores,Pozo Del Norte,Finca
-16.84419957228022,-90.2013761812371,Peten,La Libertad,El Murcielago O Chapin,Finca
-16.84419957228022,-90.2013761812371,Peten,La Libertad,El Murcielago O Chapin,Finca
-16.40384206505508,-89.2568614480431,Peten,Dolores,La Petenera,Otra
-16.40384206505508,-89.2568614480431,Peten,Dolores,La Petenera,Otra
-16.413648624507843,-89.62130286362728,Peten,Poptun,La Nueva Esperanza,Caserio
-16.376229185413486,-89.52364758780242,Peten,Poptun,Concoma,Caserio
-16.377176858288475,-89.59329396949613,Peten,Poptun,La Romana,Caserio
-16.356383912853467,-89.67736105799318,Peten,Poptun,Gardul,Finca
-15.736629700069361,-91.64083124866454,Huehuetenango,San Miguel Acatan,Canuleu,Caserio
-15.736629700069361,-91.64083124866454,Huehuetenango,San Miguel Acatan,Canuleu,Caserio
-15.496116917901405,-91.89296237317107,Huehuetenango,La Libertad,El Chipal,Caserio
+14.131737865035044,-90.10784385206745,Santa Rosa,Oratorio,Corralitos,Caserio
+14.13845237542336,-90.08510454741422,Santa Rosa,Oratorio,Capulia,Otra
+14.13845237542336,-90.08510454741422,Santa Rosa,Oratorio,Capulia,Otra
+14.131737865035044,-90.10784385206745,Santa Rosa,Oratorio,Corralitos,Caserio
+14.710299299388701,-89.9371413108903,Jalapa,Jalapa,San Fernando O Camelot,Finca
+14.644736820192575,-90.28966731486757,Guatemala,Palencia,Las Brisas,Finca
+14.710299299388701,-89.9371413108903,Jalapa,Jalapa,San Fernando O Camelot,Finca
 15.274012230130952,-90.46757694127784,Alta Verapaz,San Cristobal Verapaz,Panquich,Caserio
-15.274012230130952,-90.46757694127784,Alta Verapaz,San Cristobal Verapaz,Panquich,Caserio
-15.275964927013737,-90.49019516225476,Baja Verapaz,San Miguel Chicaj,Santa Ana,Otra
-15.274012230130952,-90.46757694127784,Alta Verapaz,San Cristobal Verapaz,Panquich,Caserio
-15.274012230130952,-90.46757694127784,Alta Verapaz,San Cristobal Verapaz,Panquich,Caserio
-15.274012230130952,-90.46757694127784,Alta Verapaz,San Cristobal Verapaz,Panquich,Caserio
-15.274012230130952,-90.46757694127784,Alta Verapaz,San Cristobal Verapaz,Panquich,Caserio
-15.274012230130952,-90.46757694127784,Alta Verapaz,San Cristobal Verapaz,Panquich,Caserio
-15.274012230130952,-90.46757694127784,Alta Verapaz,San Cristobal Verapaz,Panquich,Caserio
-15.274012230130952,-90.46757694127784,Alta Verapaz,San Cristobal Verapaz,Panquich,Caserio
-15.274012230130952,-90.46757694127784,Alta Verapaz,San Cristobal Verapaz,Panquich,Caserio
-15.274012230130952,-90.46757694127784,Alta Verapaz,San Cristobal Verapaz,Panquich,Caserio
-15.274012230130952,-90.46757694127784,Alta Verapaz,San Cristobal Verapaz,Panquich,Caserio
-15.264828546012582,-90.46229923297031,Baja Verapaz,San Miguel Chicaj,Puente Viejo,Paraje
-15.053721903533757,-89.82469196557128,El Progreso,San Cristobal Acasaguastlan,La Constancia,Finca
-15.085764154118277,-89.66676428638289,Zacapa,Rio Hondo,San Lorenzo,Caserio
-15.019806837087067,-91.34977866737566,Totonicapan,Santa Maria Chiquimula,Pumaxculabaj,Caserio
-14.816622941731774,-90.28629593167534,El Progreso,Sanarate,San Miguel Rio Abajo,Finca
-14.839034510365105,-91.34784979220188,Solola,Nahuala,Pasajquim,Caserio
-14.850512993076691,-91.32926584097328,Solola,Nahuala,Palanquix O Tambrizab,Caserio
-14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
-14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
-14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
-13.988155200541879,-90.66774593834401,Escuintla,Iztapa,El Nancito,Finca
+15.375537874188504,-90.06280859029253,Alta Verapaz,Tucuru,Santo Domingo Cruz Chut,Caserio
+16.062992440972085,-89.39428654501269,Peten,San Luis,Chunacate,Caserio
+15.92362354372329,-90.05255750331546,Alta Verapaz,Chisec,San Pablo Sechaj,Parcelamiento
+15.92362354372329,-90.05255750331546,Alta Verapaz,Chisec,San Pablo Sechaj,Parcelamiento
+16.051351179867098,-90.0064022395197,Peten,Sayaxche,Ramonal,Caserio
+16.51850651420104,-89.71109465788406,Peten,Dolores,Agua Escondida,Finca
+17.133866131088965,-90.24947555965305,Peten,San Andres,Centro Campesino,Caserio
+17.191129600313733,-90.20449950007055,Peten,San Andres,Sin Nombre,Paraje
+17.133866131088965,-90.24947555965305,Peten,San Andres,Centro Campesino,Caserio
+17.133866131088965,-90.24947555965305,Peten,San Andres,Centro Campesino,Caserio
+17.191129600313733,-90.20449950007055,Peten,San Andres,Sin Nombre,Paraje
+17.133866131088965,-90.24947555965305,Peten,San Andres,Centro Campesino,Caserio
+17.191129600313733,-90.20449950007055,Peten,San Andres,Sin Nombre,Paraje
+17.191129600313733,-90.20449950007055,Peten,San Andres,Sin Nombre,Paraje
+17.133866131088965,-90.24947555965305,Peten,San Andres,Centro Campesino,Caserio
+17.14706661702634,-90.42136791620257,Peten,La Libertad,Tamaris Las Vegas,Caserio
+17.191765789640264,-90.42261359212644,Peten,San Andres,La Gloria,Paraje
+17.133866131088965,-90.24947555965305,Peten,San Andres,Centro Campesino,Caserio
+17.133866131088965,-90.24947555965305,Peten,San Andres,Centro Campesino,Caserio
+17.191129600313733,-90.20449950007055,Peten,San Andres,Sin Nombre,Paraje
+17.191129600313733,-90.20449950007055,Peten,San Andres,Sin Nombre,Paraje
+17.133866131088965,-90.24947555965305,Peten,San Andres,Centro Campesino,Caserio
+17.183882338989566,-90.45406339326473,Peten,San Andres,La Pava,Otra
+17.183882338989566,-90.45406339326473,Peten,San Andres,La Pava,Otra
+17.397836619974687,-90.01352714104453,Peten,San Andres,Cruce La Colorada,Caserio
+17.397836619974687,-90.01352714104453,Peten,San Andres,Cruce La Colorada,Caserio
+17.397836619974687,-90.01352714104453,Peten,San Andres,Cruce La Colorada,Caserio
