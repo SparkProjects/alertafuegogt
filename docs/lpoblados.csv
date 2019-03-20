@@ -1,26 +1,43 @@
 lat,lng,departamento,municipio,admin3,admin4
+16.40384206505508,-89.2568614480431,Peten,Dolores,La Petenera,Otra
+16.329840939699732,-89.73524284174138,Peten,Poptun,San Miguel,Caserio
+16.106695830796987,-89.55819550934176,Peten,San Luis,Sin Nombre,Finca
+14.75730002211923,-89.86033012049636,Jalapa,San Pedro Pinula,Pueblo Nuevo,Caserio
+14.816622941731774,-90.28629593167534,El Progreso,Sanarate,San Miguel Rio Abajo,Finca
+14.740149359626502,-90.00055157568161,Jalapa,Jalapa,Los Limares,Aldea
+14.76498792348533,-90.46059003535858,Guatemala,San Pedro Ayampuc,Los Altarcitos,Caserio
+14.684447721494102,-90.21940390586249,El Progreso,San Antonio La Paz,Sabaneros,Finca
+14.559290633820213,-89.35535655606796,Chiquimula,Esquipulas,Quirio Cataño,Colonia
+14.69843099860775,-90.84525396250758,Chimaltenango,Zaragoza,Los Chilares,Caserio
+14.77331479727794,-91.5550714680634,Quetzaltenango,Quetzaltenango,Chuipach,Otra
+14.699289802466105,-91.56956901877453,Quetzaltenango,El Palmar,San Jose,Finca
+14.699289802466105,-91.56956901877453,Quetzaltenango,El Palmar,San Jose,Finca
+14.512213610356552,-89.98076466284623,Jalapa,Jalapa,Jicaltepeque,Finca
+14.509994519820413,-89.93371401522069,Jalapa,Monjas,Garay Viejo,Caserio
+14.488915429119741,-89.93662207081809,Jalapa,Monjas,Santa Marta,Finca
+14.512213610356552,-89.98076466284623,Jalapa,Jalapa,Jicaltepeque,Finca
+14.488915429119741,-89.93662207081809,Jalapa,Monjas,Santa Marta,Finca
+14.488915429119741,-89.93662207081809,Jalapa,Monjas,Santa Marta,Finca
+14.512213610356552,-89.98076466284623,Jalapa,Jalapa,Jicaltepeque,Finca
+14.488915429119741,-89.93662207081809,Jalapa,Monjas,Santa Marta,Finca
+14.512213610356552,-89.98076466284623,Jalapa,Jalapa,Jicaltepeque,Finca
+14.488915429119741,-89.93662207081809,Jalapa,Monjas,Santa Marta,Finca
+14.498100303227202,-89.99022001970361,Jalapa,Jalapa,Ingenio De Ayarza,Aldea
+14.488915429119741,-89.93662207081809,Jalapa,Monjas,Santa Marta,Finca
+14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
+14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
+14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
+14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
+14.290769104712187,-89.74486044116136,Jutiapa,Asuncion Mita,San Matias,Aldea
+14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
+14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
+14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
+14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
+14.07273284872068,-90.132660598859,Santa Rosa,Oratorio,La Ceibilla,Caserio
+14.006740208495069,-90.26934166918504,Santa Rosa,Oratorio,Los Angeles,Finca
+13.975978494029418,-90.2161156371354,Jutiapa,Pasaco,Tierra Blanca El Astillero,Caserio
+13.971818423259522,-90.22830101165482,Jutiapa,Pasaco,El Jobo,Aldea
+14.014783643053947,-91.05366475032434,Escuintla,La Gomera,Patricia,Finca
 13.98616103109672,-91.04604680118743,Escuintla,La Gomera,Nuevo San Carlos,Hacienda
 13.971478189290892,-91.05271123095544,Escuintla,La Gomera,San Carlos Nuevo,Finca
-14.071787430997995,-91.0027267793291,Escuintla,La Gomera,El Terrero,Aldea
-14.17118547207938,-90.7167847581575,Escuintla,Guanagazapa,Nueva Esperanza,Finca
-14.238156651891165,-91.56007336373523,Suchitepequez,San Lorenzo,Santa Elena Vado Hondo,Otra
-14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
-14.334197341807114,-91.70707746221741,Retalhuleu,Santa Cruz Mulua,San Isidro,Hacienda
-14.359039981609085,-91.65422597245256,Retalhuleu,San Andres Villa Seca,Entre Rios,Finca
-14.406133120424956,-91.6795040035901,Retalhuleu,Santa Cruz Mulua,Cafetal Soledad,Finca
-14.406133120424956,-91.6795040035901,Retalhuleu,Santa Cruz Mulua,Cafetal Soledad,Finca
-14.697962101084329,-90.37318008360197,Guatemala,Palencia,San Vicente Las Hormigas,Finca
-14.707464638652619,-90.38462847651213,Guatemala,Palencia,San Juan,Finca
-14.707464638652619,-90.38462847651213,Guatemala,Palencia,San Juan,Finca
-14.697962101084329,-90.37318008360197,Guatemala,Palencia,San Vicente Las Hormigas,Finca
-14.707464638652619,-90.38462847651213,Guatemala,Palencia,San Juan,Finca
-14.71314637034173,-90.58479418180583,Guatemala,San Juan Sacatepequez,Colinas I, Ii Y Iii,Colonia
-14.71314637034173,-90.58479418180583,Guatemala,San Juan Sacatepequez,Colinas I, Ii Y Iii,Colonia
-14.965716036421208,-91.2921314429238,Totonicapan,Santa Maria Chiquimula,Paxan,Caserio
-14.965716036421208,-91.2921314429238,Totonicapan,Santa Maria Chiquimula,Paxan,Caserio
-15.401707023663425,-89.41507718240833,Izabal,El Estor,San Rafael,Finca
-15.401707023663425,-89.41507718240833,Izabal,El Estor,San Rafael,Finca
-15.131820909432964,-91.23379386046236,Totonicapan,Santa Lucia La Reforma,Chuachioj,Caserio
-15.131820909432964,-91.23379386046236,Totonicapan,Santa Lucia La Reforma,Chuachioj,Caserio
-15.510596908740862,-91.12780455152843,Quiche,Nebaj,La Laguna,Caserio
-15.510596908740862,-91.12780455152843,Quiche,Nebaj,La Laguna,Caserio
+13.964995502307108,-91.04191261391612,Escuintla,La Gomera,El Isladero,Caserio
