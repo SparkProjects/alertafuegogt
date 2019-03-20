@@ -1,43 +1,44 @@
 lat,lng,date,time,frp,admin1,admin2
-16.38194,-89.25357,2019-03-20,0712,1.1,Petén,Poptún
-16.33219,-89.73265,2019-03-20,0712,2.2,Petén,Poptún
-16.09313,-89.55693,2019-03-20,0712,0.6,Petén,San Luis
-14.76227,-89.86098,2019-03-20,0712,1.6,Jalapa,San Pedro Pinula
-14.8124,-90.27944,2019-03-20,0712,1.1,El Progreso,Sanarate
-14.74252,-89.9969,2019-03-20,0712,0.9,Jalapa,Jalapa
-14.7661,-90.46395,2019-03-20,0712,1.1,Guatemala,Chinautla
-14.67696,-90.21789,2019-03-20,0712,1.1,Guatemala,Palencia
-14.55761,-89.35729,2019-03-20,0712,0.8,Chiquimula,Concepción Las Minas
-14.70654,-90.84255,2019-03-20,0712,3.2,Chimaltenango,Zaragoza
-14.7413,-91.57115,2019-03-20,0712,1,Quetzaltenango,El Palmar
-14.73722,-91.57261,2019-03-20,0712,0.9,Quetzaltenango,El Palmar
-14.73666,-91.56828,2019-03-20,0712,1.2,Quetzaltenango,El Palmar
-14.50452,-89.97163,2019-03-20,0712,1.3,Jalapa,Jalapa
-14.50071,-89.94372,2019-03-20,0712,0.8,Jalapa,Jalapa
-14.49693,-89.94424,2019-03-20,0712,1.7,Jalapa,Jalapa
-14.50138,-89.97686,2019-03-20,0712,1.3,Jalapa,Jalapa
-14.49754,-89.94868,2019-03-20,0712,1.7,Jalapa,Jalapa
-14.49317,-89.94489,2019-03-20,0712,1.7,Jalapa,Jalapa
-14.50521,-89.97348,2019-03-20,0712,1.1,Jalapa,Jalapa
-14.4968,-89.94152,2019-03-20,0712,1.9,Jalapa,Jalapa
-14.50141,-89.97385,2019-03-20,0712,0.4,Jalapa,Jalapa
-14.49743,-89.94595,2019-03-20,0712,1.9,Jalapa,Jalapa
-14.49761,-89.97427,2019-03-20,0712,0.4,Jalapa,Jalapa
-14.49304,-89.94215,2019-03-20,0712,1.9,Jalapa,Jalapa
-14.47747,-90.88801,2019-03-20,0712,11.1,Chimaltenango,Yepocapa
-14.47685,-90.88346,2019-03-20,0712,11.1,Chimaltenango,Yepocapa
-14.47291,-90.88433,2019-03-20,0712,7.6,Chimaltenango,Yepocapa
-14.47354,-90.88896,2019-03-20,0712,7.6,Chimaltenango,Yepocapa
-14.29181,-89.74133,2019-03-20,0712,1.2,Jutiapa,Asunción Mita
-14.38649,-90.60216,2019-03-20,0712,24.7,Guatemala,Amatitlán
-14.3826,-90.60288,2019-03-20,0712,24.7,Guatemala,Amatitlán
-14.38342,-90.60909,2019-03-20,0712,15.7,Guatemala,Amatitlán
-14.38316,-90.60429,2019-03-20,0712,52.2,Guatemala,Amatitlán
-14.07288,-90.12714,2019-03-20,0712,0.8,Santa Rosa,Oratorio
-13.99691,-90.27025,2019-03-20,0712,2.2,Santa Rosa,Chiquimulilla
-13.98179,-90.21857,2019-03-20,0712,1.4,Santa Rosa,Oratorio
-13.9787,-90.22417,2019-03-20,0712,3.3,Santa Rosa,Oratorio
-14.01707,-91.05573,2019-03-20,0712,0.7,Escuintla,La Gomera
-13.97756,-91.04256,2019-03-20,0712,1.4,Escuintla,La Gomera
-13.97404,-91.0467,2019-03-20,0712,10.3,Escuintla,La Gomera
-13.97356,-91.04314,2019-03-20,0712,10.3,Escuintla,La Gomera
+13.93893,-90.89133,2019-03-20,1824,9.4,Escuintla,San José
+13.9332,-90.8886,2019-03-20,1824,6.2,Escuintla,San José
+14.31016,-89.79277,2019-03-20,1824,6.3,Jutiapa,Jutiapa
+14.48676,-89.94327,2019-03-20,1824,43,Jalapa,Jalapa
+14.48578,-89.9479,2019-03-20,1824,16.6,Jalapa,Jalapa
+14.49434,-89.93907,2019-03-20,1824,9.6,Jalapa,Jalapa
+14.49334,-89.94373,2019-03-20,1824,9.6,Jalapa,Jalapa
+14.49965,-89.97701,2019-03-20,1824,6.2,Jalapa,Jalapa
+14.14168,-91.63544,2019-03-20,1824,136.3,Suchitepéquez,Cuyotenango
+14.23574,-91.508,2019-03-20,1824,20.3,Suchitepéquez,Santo Domingo Suchitepéquez
+14.23724,-91.50102,2019-03-20,1824,20.3,Suchitepéquez,Santo Domingo Suchitepéquez
+14.23424,-91.51495,2019-03-20,1824,17.4,Suchitepéquez,Santo Domingo Suchitepéquez
+14.23544,-91.49843,2019-03-20,1824,12.7,Suchitepéquez,Santo Domingo Suchitepéquez
+14.23389,-91.50539,2019-03-20,1824,13.2,Suchitepéquez,Santo Domingo Suchitepéquez
+14.23236,-91.5123,2019-03-20,1824,13.2,Suchitepéquez,Santo Domingo Suchitepéquez
+14.23937,-91.51379,2019-03-20,1824,13.2,Suchitepéquez,Santo Domingo Suchitepéquez
+14.33148,-91.26068,2019-03-20,1824,31.6,Suchitepéquez,Patulul
+14.3384,-91.26207,2019-03-20,1824,31.6,Suchitepéquez,Patulul
+14.51398,-90.5781,2019-03-20,1824,9.9,Guatemala,Amatitlán
+14.51631,-90.58145,2019-03-20,1824,7.7,Guatemala,Amatitlán
+14.67723,-90.21735,2019-03-20,1824,10.9,Guatemala,Palencia
+14.67637,-90.22138,2019-03-20,1824,5.2,Guatemala,Palencia
+14.68848,-90.44558,2019-03-20,1824,4.9,Guatemala,Guatemala
+14.75786,-90.15605,2019-03-20,1824,7.7,El Progreso,Sanarate
+14.73899,-90.2436,2019-03-20,1824,7.8,Guatemala,Palencia
+14.79077,-90.22295,2019-03-20,1824,8.4,El Progreso,Sanarate
+14.51562,-91.63358,2019-03-20,1824,29.3,Retalhuleu,San Andrés Villa Seca
+14.51404,-91.64085,2019-03-20,1824,16.6,Retalhuleu,San Andrés Villa Seca
+14.70687,-90.84406,2019-03-20,1824,9.9,Chimaltenango,Zaragoza
+14.51152,-91.63511,2019-03-20,1824,16.7,Retalhuleu,San Andrés Villa Seca
+14.51858,-91.63648,2019-03-20,1824,16.7,Retalhuleu,San Andrés Villa Seca
+14.70928,-90.84077,2019-03-20,1824,6.6,Chimaltenango,Zaragoza
+14.70801,-90.84658,2019-03-20,1824,6.6,Chimaltenango,Comalapa
+15.06434,-90.00959,2019-03-20,1824,4.3,El Progreso,San Agustín Acasaguastlán
+15.06546,-90.00919,2019-03-20,1824,8,El Progreso,San Agustín Acasaguastlán
+15.08536,-91.21378,2019-03-20,1824,6.1,Quiché,San Antonio Ilotenango
+16.18006,-89.58909,2019-03-20,1824,10.3,Petén,San Luis
+15.87118,-91.83907,2019-03-20,1824,6.3,Huehuetenango,Nentón
+15.87112,-91.83357,2019-03-20,1824,5.6,Huehuetenango,Nentón
+16.46681,-89.20049,2019-03-20,1824,5.3,Petén,Dolores
+16.92513,-89.54615,2019-03-20,1824,8.5,Petén,Santa Ana
+16.9265,-89.54559,2019-03-20,1824,12,Petén,Santa Ana
+17.04471,-90.26113,2019-03-20,1824,11.5,Petén,La Libertad

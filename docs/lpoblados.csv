@@ -1,43 +1,44 @@
 lat,lng,departamento,municipio,admin3,admin4
-16.40384206505508,-89.2568614480431,Peten,Dolores,La Petenera,Otra
-16.329840939699732,-89.73524284174138,Peten,Poptun,San Miguel,Caserio
-16.106695830796987,-89.55819550934176,Peten,San Luis,Sin Nombre,Finca
-14.75730002211923,-89.86033012049636,Jalapa,San Pedro Pinula,Pueblo Nuevo,Caserio
-14.816622941731774,-90.28629593167534,El Progreso,Sanarate,San Miguel Rio Abajo,Finca
-14.740149359626502,-90.00055157568161,Jalapa,Jalapa,Los Limares,Aldea
-14.76498792348533,-90.46059003535858,Guatemala,San Pedro Ayampuc,Los Altarcitos,Caserio
+13.946541771046551,-90.89678288023215,Escuintla,San Jose,El Rosario,Finca
+13.929496019212772,-90.8881693207293,Escuintla,San Jose,Los Magueyes,Caserio
+14.320164412988092,-89.77823420993221,Jutiapa,Asuncion Mita,Loma De Chavarria,Caserio
+14.488915429119741,-89.93662207081809,Jalapa,Monjas,Santa Marta,Finca
+14.47902736368446,-89.93892886668277,Jalapa,Monjas,Joya Del Manzal,Caserio
+14.488915429119741,-89.93662207081809,Jalapa,Monjas,Santa Marta,Finca
+14.488915429119741,-89.93662207081809,Jalapa,Monjas,Santa Marta,Finca
+14.512213610356552,-89.98076466284623,Jalapa,Jalapa,Jicaltepeque,Finca
+14.147203822459655,-91.63646631029434,Suchitepequez,San Lorenzo,San Simon,Finca
+14.228366802539885,-91.5128858023395,Suchitepequez,San Lorenzo,El Manguito,Finca
+14.239142736321483,-91.49145027712909,Suchitepequez,Santo Domingo Suchitepequez,Finca San Nicolas,Finca
+14.228366802539885,-91.5128858023395,Suchitepequez,San Lorenzo,El Manguito,Finca
+14.239142736321483,-91.49145027712909,Suchitepequez,Santo Domingo Suchitepequez,Finca San Nicolas,Finca
+14.228366802539885,-91.5128858023395,Suchitepequez,San Lorenzo,El Manguito,Finca
+14.228366802539885,-91.5128858023395,Suchitepequez,San Lorenzo,El Manguito,Finca
+14.23895817308338,-91.5209229366227,Suchitepequez,San Lorenzo,Monte Maria,Finca
+14.324359922912025,-91.26218181590525,Suchitepequez,Patulul,Santa Marta,Finca
+14.340332215064812,-91.25696905507166,Suchitepequez,Rio Bravo,San Felipe Costa Rica,Finca
+14.514345763943052,-90.57870652225076,Guatemala,Villa Nueva,Nueva Villa,Colonia
+14.514984681248752,-90.58286137704218,Guatemala,Villa Nueva,Las Marias,Colonia
 14.684447721494102,-90.21940390586249,El Progreso,San Antonio La Paz,Sabaneros,Finca
-14.559290633820213,-89.35535655606796,Chiquimula,Esquipulas,Quirio Cataño,Colonia
+14.684447721494102,-90.21940390586249,El Progreso,San Antonio La Paz,Sabaneros,Finca
+14.701014633427551,-90.45519389287826,Guatemala,Chinautla,Las Perlas,Colonia
+14.756761137483803,-90.15311760776343,El Progreso,Sansare,El Amatillo,Finca
+14.738687331798763,-90.23955380382681,El Progreso,San Antonio La Paz,Jocotales,Aldea
+14.794509321721685,-90.22578716962002,El Progreso,Sanarate,Sin Nombre,Caserio
+14.531407396888664,-91.63182636597108,Retalhuleu,San Felipe,San Jose El Maricon,Finca
+14.498941749183192,-91.63971853176042,Retalhuleu,Santa Cruz Mulua,Casa Blanca,Caserio
 14.69843099860775,-90.84525396250758,Chimaltenango,Zaragoza,Los Chilares,Caserio
-14.77331479727794,-91.5550714680634,Quetzaltenango,Quetzaltenango,Chuipach,Otra
-14.699289802466105,-91.56956901877453,Quetzaltenango,El Palmar,San Jose,Finca
-14.699289802466105,-91.56956901877453,Quetzaltenango,El Palmar,San Jose,Finca
-14.512213610356552,-89.98076466284623,Jalapa,Jalapa,Jicaltepeque,Finca
-14.509994519820413,-89.93371401522069,Jalapa,Monjas,Garay Viejo,Caserio
-14.488915429119741,-89.93662207081809,Jalapa,Monjas,Santa Marta,Finca
-14.512213610356552,-89.98076466284623,Jalapa,Jalapa,Jicaltepeque,Finca
-14.488915429119741,-89.93662207081809,Jalapa,Monjas,Santa Marta,Finca
-14.488915429119741,-89.93662207081809,Jalapa,Monjas,Santa Marta,Finca
-14.512213610356552,-89.98076466284623,Jalapa,Jalapa,Jicaltepeque,Finca
-14.488915429119741,-89.93662207081809,Jalapa,Monjas,Santa Marta,Finca
-14.512213610356552,-89.98076466284623,Jalapa,Jalapa,Jicaltepeque,Finca
-14.488915429119741,-89.93662207081809,Jalapa,Monjas,Santa Marta,Finca
-14.498100303227202,-89.99022001970361,Jalapa,Jalapa,Ingenio De Ayarza,Aldea
-14.488915429119741,-89.93662207081809,Jalapa,Monjas,Santa Marta,Finca
-14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
-14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
-14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
-14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
-14.290769104712187,-89.74486044116136,Jutiapa,Asuncion Mita,San Matias,Aldea
-14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
-14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
-14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
-14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
-14.07273284872068,-90.132660598859,Santa Rosa,Oratorio,La Ceibilla,Caserio
-14.006740208495069,-90.26934166918504,Santa Rosa,Oratorio,Los Angeles,Finca
-13.975978494029418,-90.2161156371354,Jutiapa,Pasaco,Tierra Blanca El Astillero,Caserio
-13.971818423259522,-90.22830101165482,Jutiapa,Pasaco,El Jobo,Aldea
-14.014783643053947,-91.05366475032434,Escuintla,La Gomera,Patricia,Finca
-13.98616103109672,-91.04604680118743,Escuintla,La Gomera,Nuevo San Carlos,Hacienda
-13.971478189290892,-91.05271123095544,Escuintla,La Gomera,San Carlos Nuevo,Finca
-13.964995502307108,-91.04191261391612,Escuintla,La Gomera,El Isladero,Caserio
+14.498941749183192,-91.63971853176042,Retalhuleu,Santa Cruz Mulua,Casa Blanca,Caserio
+14.531407396888664,-91.63182636597108,Retalhuleu,San Felipe,San Jose El Maricon,Finca
+14.71256539886719,-90.83275469762756,Chimaltenango,Zaragoza,Mancheren Grande,Aldea
+14.712908609765277,-90.85443956332486,Chimaltenango,Zaragoza,Las Colmenas,Aldea
+15.065258485946458,-90.01022662656419,El Progreso,San Agustin Acasaguastlan,Hierba Buena,Caserio
+15.065258485946458,-90.01022662656419,El Progreso,San Agustin Acasaguastlan,Hierba Buena,Caserio
+15.079628519017078,-91.21220881968976,Quiche,San Antonio Ilotenango,Tachinal,Paraje
+16.161995657274336,-89.55954188822443,Peten,San Luis,Sexta Linea,Finca
+15.848082376419852,-91.83992642543278,Huehuetenango,Nenton,La Fortuna,Finca
+15.848082376419852,-91.83992642543278,Huehuetenango,Nenton,La Fortuna,Finca
+16.413377592626937,-89.23392100677182,Peten,Poptun,El Carrizal,Caserio
+16.946869595900992,-89.53614691079206,Peten,Flores,Manantial,Otra
+16.946869595900992,-89.53614691079206,Peten,Flores,Manantial,Otra
+17.098713234560247,-90.28159228504816,Peten,San Andres,Nacimiento Tamaris,Otra
