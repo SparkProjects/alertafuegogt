@@ -1,60 +1,24 @@
 lat,lng,departamento,municipio,admin3,admin4
-17.426693676394606,-90.10830378135388,Peten,San Andres,El Zenote,Caserio
-17.28348351234501,-90.00462746533772,Peten,San Andres,El Chapayal,Otra
-17.24632692124244,-89.96054441710486,Peten,San Andres,Santa Rita,Otra
-17.22803405959686,-90.33002979019899,Peten,San Andres,La Guacamaya,Otra
-17.191765789640264,-90.42261359212644,Peten,San Andres,La Gloria,Paraje
-17.22803405959686,-90.33002979019899,Peten,San Andres,La Guacamaya,Otra
-17.22803405959686,-90.33002979019899,Peten,San Andres,La Guacamaya,Otra
-17.22803405959686,-90.33002979019899,Peten,San Andres,La Guacamaya,Otra
-16.997378623382275,-89.69885030165078,Peten,Flores,Miramar,Otra
-16.9939086227703,-89.89661448232314,Peten,San Jose,Nuevo San Jose,Pueblo
-16.777296685660797,-89.2122471147597,Peten,Dolores,Puerta Del Cielo,Caserio
-16.777296685660797,-89.2122471147597,Peten,Dolores,Puerta Del Cielo,Caserio
-16.634565420687604,-89.35921044601952,Peten,Dolores,Chilinte,Finca
-16.590977553069933,-89.36267280484726,Peten,Dolores,Mopan Iii,Caserio
 16.614730484051616,-90.04950785268427,Peten,Sayaxche,La Paz,Caserio
-16.40384206505508,-89.2568614480431,Peten,Dolores,La Petenera,Otra
-16.3861428309884,-89.66716505036635,Peten,Poptun,El Pato,Caserio
-16.3861428309884,-89.66716505036635,Peten,Poptun,El Pato,Caserio
-16.3861428309884,-89.66716505036635,Peten,Poptun,El Pato,Caserio
-16.37741289347916,-89.68999778814664,Peten,Poptun,Corralpec,Caserio
-16.280018262132636,-89.48355224133233,Peten,Poptun,El Ceibo,Caserio
-15.374480373830757,-90.75012795201553,Quiche,Chicaman,Guatal Grande,Otra
-15.353694454109615,-90.76048280719928,Quiche,Chicaman,Los Encuentros Ii,Caserio
-15.374480373830757,-90.75012795201553,Quiche,Chicaman,Guatal Grande,Otra
-15.353694454109615,-90.76048280719928,Quiche,Chicaman,Los Encuentros Ii,Caserio
-15.065957779309283,-89.7101030485919,Zacapa,Rio Hondo,Santa Rosalia,Aldea
-15.032950809313538,-89.79192637583253,Zacapa,Usumatlan,El Jabali,Otra
-15.032950809313538,-89.79192637583253,Zacapa,Usumatlan,El Jabali,Otra
-15.057414410045496,-90.44193755941241,Baja Verapaz,Rabinal,Cuchilla De Enmedio,Caserio
-15.023862868597154,-90.07115145536149,El Progreso,San Agustin Acasaguastlan,Pacheco,Caserio
+16.614730484051616,-90.04950785268427,Peten,Sayaxche,La Paz,Caserio
+16.614730484051616,-90.04950785268427,Peten,Sayaxche,La Paz,Caserio
+16.614730484051616,-90.04950785268427,Peten,Sayaxche,La Paz,Caserio
+16.614730484051616,-90.04950785268427,Peten,Sayaxche,La Paz,Caserio
+16.614730484051616,-90.04950785268427,Peten,Sayaxche,La Paz,Caserio
 15.046458041272972,-90.23113640083348,Baja Verapaz,San Jeronimo,La Guinea,Caserio
 15.046458041272972,-90.23113640083348,Baja Verapaz,San Jeronimo,La Guinea,Caserio
-15.122606259808135,-91.04330851201682,Quiche,San Pedro Jocopilas,Tujabaj,Otra
-15.122606259808135,-91.04330851201682,Quiche,San Pedro Jocopilas,Tujabaj,Otra
-15.069485029607074,-91.40898084152342,Totonicapan,Momostenango,Pacoxlaj,Paraje
-15.069485029607074,-91.40898084152342,Totonicapan,Momostenango,Pacoxlaj,Paraje
-14.850477403083977,-90.47243143963436,Guatemala,Chuarrancho,Trapiche Grande,Aldea
-14.821749428341871,-90.51948403928408,Guatemala,Chuarrancho,Poblacion Dispersa,Otra
-14.821749428341871,-90.51948403928408,Guatemala,Chuarrancho,Poblacion Dispersa,Otra
-14.816622941731774,-90.28629593167534,El Progreso,Sanarate,San Miguel Rio Abajo,Finca
-14.821749428341871,-90.51948403928408,Guatemala,Chuarrancho,Poblacion Dispersa,Otra
-14.821749428341871,-90.51948403928408,Guatemala,Chuarrancho,Poblacion Dispersa,Otra
-14.644703676205678,-89.88602414898266,Jalapa,San Pedro Pinula,La Esperanza,Finca
-14.644703676205678,-89.88602414898266,Jalapa,San Pedro Pinula,La Esperanza,Finca
-14.681122899499691,-90.90504464740724,Chimaltenango,Zaragoza,Laguna Seca,Caserio
-14.77331479727794,-91.5550714680634,Quetzaltenango,Quetzaltenango,Chuipach,Otra
-14.724436946879196,-91.61578439263016,Quetzaltenango,El Palmar,Monte Bello,Finca
-14.589402512206863,-90.38852455612607,Guatemala,San Jose Pinula,Letran,Caserio
-14.77331479727794,-91.5550714680634,Quetzaltenango,Quetzaltenango,Chuipach,Otra
-14.608503743213426,-90.39217136785095,Guatemala,San Jose Pinula,Santa Rita,Caserio
-14.579538258365634,-90.96141501390214,Chimaltenango,Acatenango,Chalabal La Estrella,Finca
-14.503226142188892,-90.94718655356026,Chimaltenango,Yepocapa,La Cabana,Caserio
-14.503226142188892,-90.94718655356026,Chimaltenango,Yepocapa,La Cabana,Caserio
-14.49674520116619,-90.95192948745368,Chimaltenango,Yepocapa,Monte De Los Olivos,Caserio
-14.445780174970382,-90.94697450167511,Chimaltenango,Yepocapa,Panimache Ii,Caserio
-14.382252264938645,-90.63537137145214,Escuintla,San Vicente Pacaya,El Patrocinio,Aldea
-14.169670475194225,-91.10306585591373,Escuintla,Santa Lucia Cotzumalguapa,Tehuantepec,Finca
-14.169670475194225,-91.10306585591373,Escuintla,Santa Lucia Cotzumalguapa,Tehuantepec,Finca
-14.169670475194225,-91.10306585591373,Escuintla,Santa Lucia Cotzumalguapa,Tehuantepec,Finca
+15.046458041272972,-90.23113640083348,Baja Verapaz,San Jeronimo,La Guinea,Caserio
+14.769732412498993,-90.73961495376469,Chimaltenango,San Martin Jilotepeque,Tioxya Y Cuchuya,Caserio
+14.769732412498993,-90.73961495376469,Chimaltenango,San Martin Jilotepeque,Tioxya Y Cuchuya,Caserio
+14.740351002620498,-91.12444618454181,Solola,San Andres Semetabaj,Patup O Xejuyu Ii,Caserio
+14.747293635903823,-91.11909007372533,Solola,San Andres Semetabaj,Tocache,Caserio
+14.46023177052503,-90.81363671005684,Sacatepequez,Alotenango,Amaton,Finca
+14.46023177052503,-90.81363671005684,Sacatepequez,Alotenango,Amaton,Finca
+14.46017966059991,-90.81288770532593,Sacatepequez,Alotenango,San Nicolas,Finca
+14.408724032413957,-90.5961304298555,Guatemala,Amatitlan,Calderas,Aldea
+14.362674154077236,-90.57309849849233,Guatemala,Villa Canales,San Antonio,Caserio
+14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra
+14.46023177052503,-90.81363671005684,Sacatepequez,Alotenango,Amaton,Finca
+14.46017966059991,-90.81288770532593,Sacatepequez,Alotenango,San Nicolas,Finca
+14.362674154077236,-90.57309849849233,Guatemala,Villa Canales,San Antonio,Caserio
+14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
