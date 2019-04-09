@@ -1,41 +1,16 @@
 lat,lng,departamento,municipio,admin3,admin4
-14.026097578001883,-90.1746848604366,Santa Rosa,Oratorio,El Magueyal,Finca
-13.974069594091164,-90.51426196842773,Santa Rosa,Taxisco,Tierra Fria,Hacienda
-14.766597814240997,-90.23648105532494,El Progreso,Sanarate,Paso Del Limon,Finca
-14.771470752827973,-90.31350728490106,El Progreso,San Antonio La Paz,El Colorado,Finca
-15.437912979614774,-88.75698788159316,Izabal,Morales,Quebrada Grande,Caserio
-15.44997301148444,-88.85501795948457,Izabal,Morales,Los Chifles,Hacienda
-15.44997301148444,-88.85501795948457,Izabal,Morales,Los Chifles,Hacienda
-15.468533001910494,-88.86980622971161,Izabal,Morales,Seneca Milla 38,Caserio
-15.503933627123168,-88.97339183322283,Izabal,Los Amates,Sin Nombre,Finca
-15.503933627123168,-88.97339183322283,Izabal,Los Amates,Sin Nombre,Finca
-15.612125660397794,-88.87693000160361,Izabal,Livingston,San  Angel Lote Seis,Caserio
-15.78476604340568,-88.68567236284747,Izabal,Livingston,Cocales,Finca
-15.319021440592342,-92.03527986303862,Huehuetenango,Tectitan,Guayabal,Caserio
-15.828290639870549,-88.89789236504342,Izabal,Livingston,Loro Creek,Finca
-16.161995657274336,-89.55954188822443,Peten,San Luis,Sexta Linea,Finca
-16.160893090342608,-89.63908199794527,Peten,San Luis,Nueva Cadenita,Caserio
-16.553890580361124,-89.18767585033703,Peten,Dolores,Monte De Los Olivos,Caserio
-16.553890580361124,-89.18767585033703,Peten,Dolores,Monte De Los Olivos,Caserio
-16.553890580361124,-89.18767585033703,Peten,Dolores,Monte De Los Olivos,Caserio
-16.634565420687604,-89.35921044601952,Peten,Dolores,Chilinte,Finca
-16.634565420687604,-89.35921044601952,Peten,Dolores,Chilinte,Finca
-16.634565420687604,-89.35921044601952,Peten,Dolores,Chilinte,Finca
-16.634565420687604,-89.35921044601952,Peten,Dolores,Chilinte,Finca
-16.634565420687604,-89.35921044601952,Peten,Dolores,Chilinte,Finca
-16.695069408636943,-89.20922375429979,Peten,Dolores,Nueva Armenia,Caserio
-16.777296685660797,-89.2122471147597,Peten,Dolores,Puerta Del Cielo,Caserio
-16.734922300777225,-89.89397347750055,Peten,San Francisco,El Chulte,Otra
-16.734922300777225,-89.89397347750055,Peten,San Francisco,El Chulte,Otra
-16.935600708215244,-89.2085886778049,Peten,Melchor De Mencos,El Mamey,Caserio
-16.935600708215244,-89.2085886778049,Peten,Melchor De Mencos,El Mamey,Caserio
-17.024197692065233,-89.15263346668635,Peten,Melchor De Mencos,El Arenal,Aldea
-17.002683457023092,-89.17755423000303,Peten,Melchor De Mencos,Camalote,Caserio
-16.978554594704665,-89.26201047760713,Peten,Melchor De Mencos,El Cruzadero,Aldea
-16.978554594704665,-89.26201047760713,Peten,Melchor De Mencos,El Cruzadero,Aldea
-17.012468011230393,-89.30637297642708,Peten,Melchor De Mencos,San Antonio,Otra
-17.012468011230393,-89.30637297642708,Peten,Melchor De Mencos,San Antonio,Otra
-16.978554594704665,-89.26201047760713,Peten,Melchor De Mencos,El Cruzadero,Aldea
-16.893138529514975,-89.93105545120366,Peten,San Benito,La Esperanza,Paraje
-16.9826825165762,-89.41892258748432,Peten,Flores,La Esperanza,Otra
-16.910174121467787,-90.11075495787266,Peten,San Benito,Saban El Sos,Otra
+14.851196124645353,-89.9175071222169,Jalapa,San Pedro Pinula,Las Pilas De Moscoso,Caserio
+14.815379738883193,-90.26851612897022,El Progreso,Sanarate,La Joya,Finca
+14.77331479727794,-91.5550714680634,Quetzaltenango,Quetzaltenango,Chuipach,Otra
+14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
+14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
+14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
+14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
+14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
+14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
+14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra
+14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
+14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
+14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
+14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
+14.4727668306328,-92.0254073324074,Retalhuleu,Retalhuleu,Catalu¥A,Hacienda
