@@ -1,16 +1,46 @@
 lat,lng,date,time,frp,admin1,admin2
-14.83025,-89.92542,2019-04-09,0742,0.8,Jalapa,San Pedro Pinula
-14.81482,-90.27741,2019-04-09,0742,0.9,El Progreso,Sanarate
-14.73767,-91.56786,2019-04-09,0742,0.5,Quetzaltenango,El Palmar
-14.47772,-90.88477,2019-04-09,0742,29.5,Chimaltenango,Yepocapa
-14.47716,-90.88128,2019-04-09,0742,29.5,Chimaltenango,Yepocapa
-14.47828,-90.88819,2019-04-09,0742,1.7,Chimaltenango,Yepocapa
-14.47655,-90.87759,2019-04-09,0742,10.9,Chimaltenango,Yepocapa
-14.47437,-90.8853,2019-04-09,0742,29.5,Chimaltenango,Yepocapa
-14.4738,-90.88179,2019-04-09,0742,29.5,Chimaltenango,Yepocapa
-14.4732,-90.87814,2019-04-09,0742,10.9,Chimaltenango,Yepocapa
-14.38877,-90.60221,2019-04-09,0742,0.6,Guatemala,Amatitlán
-14.38817,-90.59856,2019-04-09,0742,0.6,Guatemala,Amatitlán
-14.3854,-90.60283,2019-04-09,0742,12.2,Guatemala,Amatitlán
-14.3848,-90.59912,2019-04-09,0742,12.2,Guatemala,Amatitlán
-14.47715,-92.01892,2019-04-09,0742,1.6,Retalhuleu,Retalhuleu
+13.86196,-90.36184,2019-04-09,1848,4.4,Santa Rosa,Chiquimulilla
+13.86114,-90.36641,2019-04-09,1848,4.4,Santa Rosa,Chiquimulilla
+13.86395,-90.36429,2019-04-09,1848,7.2,Santa Rosa,Chiquimulilla
+13.87034,-90.37965,2019-04-09,1848,4.2,Santa Rosa,Chiquimulilla
+13.94576,-90.09441,2019-04-09,1848,3.6,Jutiapa,Moyuta
+13.94911,-90.22591,2019-04-09,1848,2.6,Santa Rosa,Chiquimulilla
+13.95352,-90.22676,2019-04-09,1848,2.6,Santa Rosa,Chiquimulilla
+13.93421,-90.56451,2019-04-09,1848,7.8,Santa Rosa,Taxisco
+13.93873,-90.56536,2019-04-09,1848,7.8,Santa Rosa,Taxisco
+13.93788,-90.57007,2019-04-09,1848,7.8,Santa Rosa,Taxisco
+14.02515,-90.13124,2019-04-09,1848,8.1,Santa Rosa,Oratorio
+13.93404,-90.56786,2019-04-09,1848,8,Santa Rosa,Taxisco
+13.93944,-90.56403,2019-04-09,1848,8.5,Santa Rosa,Taxisco
+13.93856,-90.56872,2019-04-09,1848,8.5,Santa Rosa,Taxisco
+14.0281,-90.13609,2019-04-09,1848,9.1,Santa Rosa,Oratorio
+14.02533,-90.17571,2019-04-09,1848,2.5,Santa Rosa,Oratorio
+14.04384,-90.27391,2019-04-09,1848,3,Santa Rosa,Chiquimulilla
+14.10037,-90.16254,2019-04-09,1848,5.6,Santa Rosa,Oratorio
+14.1205,-90.24925,2019-04-09,1848,11.1,Santa Rosa,Oratorio
+14.12504,-90.24938,2019-04-09,1848,8.2,Santa Rosa,Oratorio
+13.98393,-91.05923,2019-04-09,1848,3.9,Escuintla,La Gomera
+13.96164,-91.23,2019-04-09,1848,15.7,Escuintla,La Gomera
+13.96067,-91.23519,2019-04-09,1848,15.7,Escuintla,La Gomera
+14.00583,-91.30875,2019-04-09,1848,9.3,Escuintla,La Gomera
+14.00616,-91.30652,2019-04-09,1848,7.1,Escuintla,La Gomera
+14.23691,-90.30343,2019-04-09,1848,10.4,Santa Rosa,Cuilapa
+14.23607,-90.30802,2019-04-09,1848,7.1,Santa Rosa,Cuilapa
+14.34643,-91.21986,2019-04-09,1848,4.8,Suchitepéquez,Patulul
+14.24999,-91.79601,2019-04-09,1848,4.4,Retalhuleu,Retalhuleu
+14.24703,-91.79784,2019-04-09,1848,3.6,Retalhuleu,Retalhuleu
+14.49724,-90.58175,2019-04-09,1848,4.7,Guatemala,Amatitlán
+14.28998,-91.67938,2019-04-09,1848,4,Suchitepéquez,Cuyotenango
+14.86127,-89.49034,2019-04-09,1848,2.3,Chiquimula,Chiquimula
+14.48462,-91.61668,2019-04-09,1848,7.3,Retalhuleu,San Andrés Villa Seca
+14.48943,-91.61755,2019-04-09,1848,20.2,Retalhuleu,San Andrés Villa Seca
+14.48956,-91.61297,2019-04-09,1848,12.9,Retalhuleu,San Andrés Villa Seca
+14.48849,-91.61848,2019-04-09,1848,15.9,Retalhuleu,San Andrés Villa Seca
+14.44607,-91.86305,2019-04-09,1848,8.3,Retalhuleu,Retalhuleu
+14.83505,-89.9508,2019-04-09,1848,2.5,El Progreso,Guastatoya
+14.92663,-89.66151,2019-04-09,1848,4.3,Zacapa,Huité
+14.67347,-92.01756,2019-04-09,1848,8.1,Quetzaltenango,Coatepeque
+15.68968,-89.23971,2019-04-09,1848,2.5,Izabal,El Estor
+15.8343,-89.0537,2019-04-09,1848,11,Izabal,Livingston
+15.83831,-89.05417,2019-04-09,1848,11,Izabal,Livingston
+15.83608,-89.05638,2019-04-09,1848,19.9,Izabal,Livingston
