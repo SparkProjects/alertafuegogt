@@ -1,11 +1,50 @@
 lat,lng,departamento,municipio,admin3,admin4
-14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
-14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
-14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
-14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
-14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
-14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
-14.115906643687607,-90.9625104109828,Escuintla,La Democracia,Santa Rita Los Amates,Finca
-13.914334992001404,-90.19323442676766,Jutiapa,Pasaco,Las Ninfas,Finca
-13.900995473344109,-90.18268923296782,Jutiapa,Moyuta,Ojo De Agua,Caserio
-13.900995473344109,-90.18268923296782,Jutiapa,Moyuta,Ojo De Agua,Caserio
+13.947268372725732,-90.09428943317185,Jutiapa,Moyuta,Los Angeles,Finca
+13.947268372725732,-90.09428943317185,Jutiapa,Moyuta,Los Angeles,Finca
+14.06145811325537,-89.98323543183282,Jutiapa,Conguaco,El Conacaste,Caserio
+14.025821147127035,-90.13328168858943,Santa Rosa,Oratorio,El Zorral,Caserio
+14.090441179886923,-90.17550656047763,Santa Rosa,Oratorio,La Ixcanal,Caserio
+14.136651216053766,-90.19650487965927,Santa Rosa,Santa Maria Ixhuatan,El Irayol,Aldea
+14.136651216053766,-90.19650487965927,Santa Rosa,Santa Maria Ixhuatan,El Irayol,Aldea
+14.14629705192721,-90.22481005900647,Santa Rosa,Santa Maria Ixhuatan,El Nuevo Renacimiento,Caserio
+14.112387091140707,-90.57289453631405,Santa Rosa,Taxisco,El Vaticano,Hacienda
+14.128975221691624,-90.58811484634751,Santa Rosa,Taxisco,Miramar,Hacienda
+14.146173827803466,-90.66344077118822,Escuintla,Guanagazapa,Brito,Aldea
+14.228070283170567,-90.37590798539748,Santa Rosa,Cuilapa,El Mario (La Concepcion),Finca
+14.146173827803466,-90.66344077118822,Escuintla,Guanagazapa,Brito,Aldea
+14.146173827803466,-90.66344077118822,Escuintla,Guanagazapa,Brito,Aldea
+14.228070283170567,-90.37590798539748,Santa Rosa,Cuilapa,El Mario (La Concepcion),Finca
+14.429490525019762,-89.47594593417833,Chiquimula,Concepcion Las Minas,Los Alambrados,Caserio
+14.194484041395153,-90.8226451431761,Escuintla,Masagua,Las Acacias,Finca
+14.194484041395153,-90.8226451431761,Escuintla,Masagua,Las Acacias,Finca
+14.119220559061171,-91.55588581252147,Suchitepequez,San Lorenzo,Los Tiestos,Otra
+14.125484195603622,-91.57295925731155,Suchitepequez,Santo Domingo Suchitepequez,La Esperanza,Parcelamiento
+14.278926704370916,-91.71314625968624,Suchitepequez,Cuyotenango,San Mateyito,Labor
+14.28709426804198,-91.68110790356813,Suchitepequez,Cuyotenango,La Ilusiones,Labor
+14.534465279585886,-91.11933803391089,Solola,San  Lucas Toliman,Cacahute,Finca
+14.534465279585886,-91.11933803391089,Solola,San  Lucas Toliman,Cacahute,Finca
+14.537600238470977,-91.12654613183764,Solola,San  Lucas Toliman,San Jose Cacahuate,Finca
+15.034409275421453,-89.42936396725662,Zacapa,Zacapa,Quinteros,Aldea
+15.06236816356758,-89.40954617049883,Zacapa,Gualan,El Sauce,Caserio
+15.06236816356758,-89.40954617049883,Zacapa,Gualan,El Sauce,Caserio
+15.06236816356758,-89.40954617049883,Zacapa,Gualan,El Sauce,Caserio
+15.06236816356758,-89.40954617049883,Zacapa,Gualan,El Sauce,Caserio
+14.567828890043065,-91.98142063454668,Quetzaltenango,Coatepeque,Santa Fe,Finca
+15.064224885937456,-89.57617369292032,Zacapa,Rio Hondo,Chanchan,Aldea
+14.70940404902539,-92.09109423480196,San Marcos,Pajapita,Las Vegas,Hacienda
+14.732319990927474,-92.08651262266565,San Marcos,Ayutla,San Joaquin Melendrez,Finca
+14.732319990927474,-92.08651262266565,San Marcos,Ayutla,San Joaquin Melendrez,Finca
+15.319021440592342,-92.03527986303862,Huehuetenango,Tectitan,Guayabal,Caserio
+16.067706376066745,-89.71742464346049,Peten,San Luis,Cooperativa El Zapote,Caserio
+16.067706376066745,-89.71742464346049,Peten,San Luis,Cooperativa El Zapote,Caserio
+16.695069408636943,-89.20922375429979,Peten,Dolores,Nueva Armenia,Caserio
+16.97383912615152,-89.65189607601455,Peten,Flores,Bonanza,Finca
+16.92175829247004,-89.79550934274228,Peten,Flores,Michoacan,Otra
+16.97383912615152,-89.65189607601455,Peten,Flores,Bonanza,Finca
+16.96583429142398,-89.64108695494471,Peten,Flores,Macanche,Caserio
+16.92175829247004,-89.79550934274228,Peten,Flores,Michoacan,Otra
+17.061752241819452,-89.31232966968764,Peten,Melchor De Mencos,La Coloradita,Paraje
+17.061752241819452,-89.31232966968764,Peten,Melchor De Mencos,La Coloradita,Paraje
+17.061752241819452,-89.31232966968764,Peten,Melchor De Mencos,La Coloradita,Paraje
+17.061752241819452,-89.31232966968764,Peten,Melchor De Mencos,La Coloradita,Paraje
+17.058289238072632,-89.49269991338689,Peten,Flores,San Clemente Uno,Otra
