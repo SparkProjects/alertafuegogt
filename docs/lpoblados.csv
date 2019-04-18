@@ -1,210 +1,40 @@
 lat,lng,departamento,municipio,admin3,admin4
-17.133866131088965,-90.24947555965305,Peten,San Andres,Centro Campesino,Caserio
-17.17981632445382,-90.10048895606306,Peten,San Andres,La Caoba,Caserio
-17.17981632445382,-90.10048895606306,Peten,San Andres,La Caoba,Caserio
-17.17981632445382,-90.10048895606306,Peten,San Andres,La Caoba,Caserio
-17.259793196137306,-90.2373988492504,Peten,San Andres,Paso Caballos,Aldea
-17.259793196137306,-90.2373988492504,Peten,San Andres,Paso Caballos,Aldea
-17.259793196137306,-90.2373988492504,Peten,San Andres,Paso Caballos,Aldea
-17.32679135508761,-90.022152253537,Peten,San Andres,El Corozal,Caserio
-17.397836619974687,-90.01352714104453,Peten,San Andres,Cruce La Colorada,Caserio
-14.041115949472047,-90.13031891195956,Santa Rosa,Oratorio,Don Melchor,Finca
-13.949494554049725,-90.88370016176238,Escuintla,San Jose,Santa Juliana,Finca
-14.047902017138332,-90.259797847896,Santa Rosa,San Juan Tecuaco,Margaritas,Caserio
-14.037719931467135,-90.34398120383797,Santa Rosa,Chiquimulilla,El Obispo,Finca
-14.09077420707932,-90.11801586878552,Santa Rosa,Oratorio,La Merced,Finca
-14.170643137126277,-90.09119963368093,Santa Rosa,Oratorio,Ceiba Gacha,Caserio
-14.14629705192721,-90.22481005900647,Santa Rosa,Santa Maria Ixhuatan,El Nuevo Renacimiento,Caserio
-14.084333466831518,-90.89998024200652,Escuintla,Masagua,La Flor,Hacienda
-14.274662054786944,-89.77108854936505,Jutiapa,Asuncion Mita,Las Pozas,Aldea
-14.274662054786944,-89.77108854936505,Jutiapa,Asuncion Mita,Las Pozas,Aldea
-14.259371971109985,-89.98906045067919,Jutiapa,Jutiapa,El Calvario,Caserio
-14.296952918983926,-89.8169800386317,Jutiapa,Jutiapa,Lagunita,Caserio
-14.259371971109985,-89.98906045067919,Jutiapa,Jutiapa,El Calvario,Caserio
-14.286336295393594,-89.76302258560996,Jutiapa,Asuncion Mita,Aguas Finas,Caserio
-14.286336295393594,-89.76302258560996,Jutiapa,Asuncion Mita,Aguas Finas,Caserio
-14.245173963452952,-90.31352437271227,Santa Rosa,Cuilapa,El Jute (Los Esclavos),Finca
-14.23628253414558,-90.5404251531875,Santa Rosa,Pueblo Nuevo Vinas,Monte Redondo,Caserio
-14.248520050223219,-90.55353040744819,Santa Rosa,Pueblo Nuevo Vinas,Los Aposentos,Finca
-14.353641042358191,-89.76271650756976,Jutiapa,Asuncion Mita,Guevara,Aldea
-14.275233861086653,-90.71298291016484,Escuintla,San Vicente Pacaya,Las Pascuas,Lotificacion
-14.339380515113456,-90.480734277899,Santa Rosa,Barberena,La Esmeralda,Finca
-14.282267886987524,-91.65618107507395,Suchitepequez,Cuyotenango,San Miguel,Labor
-14.340332215064812,-91.25696905507166,Suchitepequez,Rio Bravo,San Felipe Costa Rica,Finca
-14.340332215064812,-91.25696905507166,Suchitepequez,Rio Bravo,San Felipe Costa Rica,Finca
-14.272717282222708,-91.79145360581091,Retalhuleu,Champerico,Cuchumatanes,Finca
-14.521167767968015,-90.29447477582177,Guatemala,San Jose Pinula,El Zapote,Caserio
-14.334197341807114,-91.70707746221741,Retalhuleu,Santa Cruz Mulua,San Isidro,Hacienda
-14.679703995549046,-90.36371527603637,Guatemala,Palencia,La Joya,Finca
-14.679703995549046,-90.36371527603637,Guatemala,Palencia,La Joya,Finca
-14.768462792221278,-90.20609623930523,El Progreso,Sanarate,Sonoro,Colonia
-15.028609459588125,-89.20192778893363,Zacapa,Gualan,Achiote,Finca
-14.898072014989229,-90.27162859632789,El Progreso,Morazan,El Rodeo,Aldea
-15.028609459588125,-89.20192778893363,Zacapa,Gualan,Achiote,Finca
-14.923732636034396,-90.29639172838264,Baja Verapaz,Salama,El Perdido,Caserio
-14.923732636034396,-90.29639172838264,Baja Verapaz,Salama,El Perdido,Caserio
-14.898696309371152,-90.59778924176491,Baja Verapaz,Granados,Saltan,Aldea
-14.90311926811638,-90.61100130768672,Baja Verapaz,Granados,La Union,Finca
-14.898696309371152,-90.59778924176491,Baja Verapaz,Granados,Saltan,Aldea
-14.90311926811638,-90.61100130768672,Baja Verapaz,Granados,La Union,Finca
-14.885899011001282,-90.65220249879415,Quiche,Pachalum,San Vicente,Caserio
-14.90311926811638,-90.61100130768672,Baja Verapaz,Granados,La Union,Finca
-15.100714380519864,-89.33009176643138,Zacapa,Gualan,Oaxaca,Caserio
-15.118806680736578,-89.3378612386324,Zacapa,Gualan,Los Limones,Finca
-14.990730471855418,-90.5057919027728,Baja Verapaz,El Chol,Plan Grande,Caserio
-14.99160020466178,-90.5328163943839,Baja Verapaz,El Chol,Balamche,Caserio
-15.030723685566997,-90.49551834202245,Baja Verapaz,Rabinal,Chixim,Caserio
-15.141643752166338,-91.01426171705896,Quiche,Santa Cruz Del  Quiche,Culiom,Caserio
-15.166256481857074,-90.83053684304858,Quiche,Canilla,Papur,Caserio
-15.141643752166338,-91.01426171705896,Quiche,Santa Cruz Del  Quiche,Culiom,Caserio
-15.190331345432678,-91.19516926305874,Quiche,San Pedro Jocopilas,La Campana,Otra
-15.397821119815292,-89.97667404361755,Alta Verapaz,Senahu,San Lucas,Caserio
-15.325094630555615,-90.6203962136946,Quiche,Chicaman,Belejub,Aldea
-15.372217446205044,-90.57786104150257,Alta Verapaz,San Cristobal Verapaz,Baleu,Caserio
-15.372217446205044,-90.57786104150257,Alta Verapaz,San Cristobal Verapaz,Baleu,Caserio
-15.372217446205044,-90.57786104150257,Alta Verapaz,San Cristobal Verapaz,Baleu,Caserio
-15.372217446205044,-90.57786104150257,Alta Verapaz,San Cristobal Verapaz,Baleu,Caserio
-15.361170554457676,-90.69833024351962,Quiche,Chicaman,El Jocote,Caserio
-15.361170554457676,-90.69833024351962,Quiche,Chicaman,El Jocote,Caserio
-15.388791041274649,-90.68043954440323,Alta Verapaz,San Cristobal Verapaz,Panjush,Caserio
-15.388791041274649,-90.68043954440323,Alta Verapaz,San Cristobal Verapaz,Panjush,Caserio
-15.388791041274649,-90.68043954440323,Alta Verapaz,San Cristobal Verapaz,Panjush,Caserio
-15.45937956858581,-90.62082048920071,Alta Verapaz,San Cristobal Verapaz,El Baldio,Caserio
-15.45937956858581,-90.62082048920071,Alta Verapaz,San Cristobal Verapaz,El Baldio,Caserio
-15.480091332521097,-90.48622945025794,Alta Verapaz,Coban,Comunidad Tzimajil,Finca
-15.548051975939716,-90.0454001375763,Alta Verapaz,Lanquin,Rancheria Chibatz,Finca
-15.722204085118554,-89.98050463573009,Alta Verapaz,San Pedro Carcha,Comunidad Yalsaqkar,Caserio
-15.635262844529313,-90.74102672195833,Quiche,Uspantan,La Pava,Caserio
-15.635262844529313,-90.74102672195833,Quiche,Uspantan,La Pava,Caserio
-15.722204085118554,-89.98050463573009,Alta Verapaz,San Pedro Carcha,Comunidad Yalsaqkar,Caserio
-15.722204085118554,-89.98050463573009,Alta Verapaz,San Pedro Carcha,Comunidad Yalsaqkar,Caserio
-15.53875827606452,-91.72275905769344,Huehuetenango,Santiago Chimaltenang,Tuipoj,Otra
-15.722204085118554,-89.98050463573009,Alta Verapaz,San Pedro Carcha,Comunidad Yalsaqkar,Caserio
-15.722204085118554,-89.98050463573009,Alta Verapaz,San Pedro Carcha,Comunidad Yalsaqkar,Caserio
-15.740137203348855,-90.0231595159895,Alta Verapaz,Chisec,Guapinol,Finca
-15.654675572838135,-90.90477627144007,Quiche,Uspantan,Santo Cristo Buena Vista,Caserio
-15.654675572838135,-90.90477627144007,Quiche,Uspantan,Santo Cristo Buena Vista,Caserio
-15.654675572838135,-90.90477627144007,Quiche,Uspantan,Santo Cristo Buena Vista,Caserio
-15.654675572838135,-90.90477627144007,Quiche,Uspantan,Santo Cristo Buena Vista,Caserio
-15.701097710972157,-90.8751152370806,Quiche,Ixcan,Santa Marta Copon,Finca
-15.705420637817664,-90.87788752489601,Quiche,Ixcan,Santa Elena Copon,Caserio
-15.705420637817664,-90.87788752489601,Quiche,Ixcan,Santa Elena Copon,Caserio
-15.72767633134514,-91.02887185031689,Quiche,Chajul,Santa Clara,Caserio
-15.72767633134514,-91.02887185031689,Quiche,Chajul,Santa Clara,Caserio
-15.72767633134514,-91.02887185031689,Quiche,Chajul,Santa Clara,Caserio
-15.664391102576742,-91.66547563844888,Huehuetenango,Jacaltenango,Aq'Oma',Caserio
-15.664391102576742,-91.66547563844888,Huehuetenango,Jacaltenango,Aq'Oma',Caserio
-15.80468389011341,-90.58406825591672,Alta Verapaz,Coban,Comunidad Faisan La Laguna Ii,Caserio
-15.685887267782263,-91.68279430414118,Huehuetenango,Jacaltenango,Ch'Ella',Caserio
-15.941002111770922,-89.84266963007539,Peten,San Luis,Nimlaja,Caserio
-15.686289733201063,-91.88818039237289,Huehuetenango,Santa Ana Huista,Coyolar Grande,Caserio
-15.944341307611442,-89.9059115734913,Alta Verapaz,Fray Bartolome De Las Casas,Santa Isabel,Caserio
-15.837232692758027,-90.80174127161854,Quiche,Ixcan,Machaquila I,Caserio
-15.849313093468105,-90.77160812199956,Quiche,Ixcan,Villa Hermosa Chatita,Finca
-15.837232692758027,-90.80174127161854,Quiche,Ixcan,Machaquila I,Caserio
-15.73499925946807,-91.69812181754367,Huehuetenango,San Miguel Acatan,Petamchim,Caserio
-15.962765485998924,-90.11428393669105,Alta Verapaz,Chisec,San Jose El Tesoro,Caserio
-15.849313093468105,-90.77160812199956,Quiche,Ixcan,Villa Hermosa Chatita,Finca
-15.962765485998924,-90.11428393669105,Alta Verapaz,Chisec,San Jose El Tesoro,Caserio
-15.919550025926588,-90.51825823279489,Alta Verapaz,Chisec,Pozo Seco,Caserio
-15.748804261937574,-91.7774461990547,Huehuetenango,Jacaltenango,Nubila,Otra
-15.748804261937574,-91.7774461990547,Huehuetenango,Jacaltenango,Nubila,Otra
-15.972720248027253,-90.5846820109422,Alta Verapaz,Coban,Las Tortugas,Caserio
-15.972720248027253,-90.5846820109422,Alta Verapaz,Coban,Las Tortugas,Caserio
-15.952060267220494,-90.75494943261866,Quiche,Ixcan,Armenia,Caserio
-15.805998357440336,-91.79005875475163,Huehuetenango,Nenton,Santa Rosa,Caserio
-16.05938141047758,-90.13836128515547,Peten,Sayaxche,Cetul,Caserio
-15.852148776609033,-91.64136415314469,Huehuetenango,Nenton,Patictenan,Caserio
-15.852148776609033,-91.64136415314469,Huehuetenango,Nenton,Patictenan,Caserio
-16.05938141047758,-90.13836128515547,Peten,Sayaxche,Cetul,Caserio
-16.05938141047758,-90.13836128515547,Peten,Sayaxche,Cetul,Caserio
-16.000746596505337,-90.57981767038191,Alta Verapaz,Coban,Comunidad Las Brisas,Caserio
-16.138705979024675,-89.46570083252054,Peten,San Luis,La Caoba,Caserio
-15.946440447717766,-91.08809018511691,Huehuetenango,Barillas,Zunil,Caserio
-16.154404865279755,-89.78229072953918,Peten,San Luis,Chile Verde O Quebrada Seca,Caserio
-16.154404865279755,-89.78229072953918,Peten,San Luis,Chile Verde O Quebrada Seca,Caserio
-16.01680426991533,-90.78939146712865,Quiche,Ixcan,Virginia,Caserio
-16.161995657274336,-89.55954188822443,Peten,San Luis,Sexta Linea,Finca
-16.019956542349053,-90.850097732287,Quiche,Ixcan,El Quetzal,Caserio
-15.894740364566264,-91.79083758885878,Huehuetenango,Nenton,Los Cimientos,Hacienda
-15.913899084678786,-91.62208588185001,Huehuetenango,Nenton,Palegua,Caserio
-16.053765419701165,-90.75805162036612,Quiche,Ixcan,Esija,Caserio
-16.160893090342608,-89.63908199794527,Peten,San Luis,Nueva Cadenita,Caserio
-16.20535266837223,-89.7093114606113,Peten,San Luis,Esquipulas Espolon,Otra
-15.922458591248889,-91.77529858281086,Huehuetenango,Nenton,La Union,Caserio
-16.24212840116917,-89.60250914102134,Peten,San Luis,La Quinta Linea,Caserio
-15.922458591248889,-91.77529858281086,Huehuetenango,Nenton,La Union,Caserio
-16.24212840116917,-89.60250914102134,Peten,San Luis,La Quinta Linea,Caserio
-15.922458591248889,-91.77529858281086,Huehuetenango,Nenton,La Union,Caserio
-16.24212840116917,-89.60250914102134,Peten,San Luis,La Quinta Linea,Caserio
-16.206120640948125,-89.80109666007044,Peten,San Luis,Santa Amelia Eloyan,Caserio
-16.019993347679208,-91.68379694129497,Huehuetenango,Nenton,La Trinidad,Finca
-16.018967934930316,-91.74489483505485,Huehuetenango,Nenton,San Antonio,Otra
-16.26171723176349,-89.7331904319602,Peten,San Luis,Ovelar,Otra
-16.263785345884482,-89.9893578458783,Peten,Dolores,San Marcos El Limon,Otra
-16.25703473242549,-90.19661414307399,Peten,Sayaxche,El Porvenir I,Caserio
-16.263785345884482,-89.9893578458783,Peten,Dolores,San Marcos El Limon,Otra
-16.251615167233485,-90.1808340279664,Peten,Sayaxche,Las Camelias,Caserio
-16.346188118976837,-89.40556472255415,Peten,Poptun,San Pedro,Otra
-16.338955862620367,-89.68617869677182,Peten,Poptun,Los Patos,Otra
-16.329840939699732,-89.73524284174138,Peten,Poptun,San Miguel,Caserio
-16.381170152702488,-89.29607906800037,Peten,Poptun,El Rosario,Hacienda
-16.413377592626937,-89.23392100677182,Peten,Poptun,El Carrizal,Caserio
-16.39024051868938,-89.80130341040076,Peten,Poptun,Santa Marta  El Mirador,Caserio
-16.5067425010811,-89.33477281730521,Peten,Dolores,Suculte,Caserio
-16.39024051868938,-89.80130341040076,Peten,Poptun,Santa Marta  El Mirador,Caserio
-16.367505399403207,-90.24382669020835,Peten,Sayaxche,Arroyo El Quetzalito,Caserio
-16.45929051124298,-89.6913134205313,Peten,Dolores,Guadalupe,Caserio
-16.429387414100876,-90.20339114820555,Peten,Sayaxche,Escarbado,Caserio
-16.413594202160194,-90.38851407610139,Peten,Sayaxche,Lo Veremos,Caserio
-16.445241934804034,-89.98860353248544,Peten,San Francisco,Santa Monica,Otra
-16.549282996203548,-89.93957764298735,Peten,San Francisco,Jordan,Otra
-16.449171463567836,-90.233533353214,Peten,Sayaxche,Petexbatun,Otra
-16.585684544882096,-89.50183208637684,Peten,Dolores,Sabaneta,Otra
-16.585684544882096,-89.50183208637684,Peten,Dolores,Sabaneta,Otra
-16.585684544882096,-89.50183208637684,Peten,Dolores,Sabaneta,Otra
+16.96847493648879,-89.6213729018749,Peten,Flores,Lagunta Macanche,Finca
+16.86544700005423,-89.25164626650856,Peten,Melchor De Mencos,Alta Gracia,Finca
+16.86544700005423,-89.25164626650856,Peten,Melchor De Mencos,Alta Gracia,Finca
+16.777296685660797,-89.2122471147597,Peten,Dolores,Puerta Del Cielo,Caserio
+16.77118541793415,-89.30771986480016,Peten,Dolores,El Milagro,Finca
+16.695069408636943,-89.20922375429979,Peten,Dolores,Nueva Armenia,Caserio
+16.695069408636943,-89.20922375429979,Peten,Dolores,Nueva Armenia,Caserio
+16.695069408636943,-89.20922375429979,Peten,Dolores,Nueva Armenia,Caserio
+16.695069408636943,-89.20922375429979,Peten,Dolores,Nueva Armenia,Caserio
 16.553890580361124,-89.18767585033703,Peten,Dolores,Monte De Los Olivos,Caserio
-16.695069408636943,-89.20922375429979,Peten,Dolores,Nueva Armenia,Caserio
-16.695069408636943,-89.20922375429979,Peten,Dolores,Nueva Armenia,Caserio
-16.695069408636943,-89.20922375429979,Peten,Dolores,Nueva Armenia,Caserio
-16.537883668580932,-90.2710888080302,Peten,Sayaxche,El Mangal,Caserio
-16.581661897796128,-90.03514619075725,Peten,Sayaxche,Herencia Maya,Caserio
-16.581661897796128,-90.03514619075725,Peten,Sayaxche,Herencia Maya,Caserio
-16.581661897796128,-90.03514619075725,Peten,Sayaxche,Herencia Maya,Caserio
-16.639570703308873,-89.92451809792998,Peten,San Francisco,Parcela Tres Arroyos,Finca
-16.77118541793415,-89.30771986480016,Peten,Dolores,El Milagro,Finca
-16.77118541793415,-89.30771986480016,Peten,Dolores,El Milagro,Finca
-16.771035398232517,-89.31027053093518,Peten,Dolores,Gladis,Finca
-16.644555880874844,-90.22599250148417,Peten,La Libertad,Nuevo Progreso,Caserio
-16.771035398232517,-89.31027053093518,Peten,Dolores,Gladis,Finca
-16.77118541793415,-89.30771986480016,Peten,Dolores,El Milagro,Finca
-16.77118541793415,-89.30771986480016,Peten,Dolores,El Milagro,Finca
-16.644555880874844,-90.22599250148417,Peten,La Libertad,Nuevo Progreso,Caserio
-16.77118541793415,-89.30771986480016,Peten,Dolores,El Milagro,Finca
-16.771035398232517,-89.31027053093518,Peten,Dolores,Gladis,Finca
-16.776586095489552,-89.30666959252235,Peten,Dolores,Los Angeles,Finca
-16.771035398232517,-89.31027053093518,Peten,Dolores,Gladis,Finca
-16.73038840236334,-89.96226254286795,Peten,San Francisco,La Cueva,Otra
-16.776586095489552,-89.30666959252235,Peten,Dolores,Los Angeles,Finca
-16.74244204662666,-89.73973324556498,Peten,Santa Ana,La Pita,Caserio
-16.6996807270391,-89.91931271176783,Peten,San Francisco,Santa Monica,Finca
-16.873312176180026,-89.24760301191311,Peten,Melchor De Mencos,La Esperanza,Caserio
-16.893512838495646,-89.45348724534794,Peten,Melchor De Mencos,La Blanca,Aldea
-16.893512838495646,-89.45348724534794,Peten,Melchor De Mencos,La Blanca,Aldea
-16.893512838495646,-89.45348724534794,Peten,Melchor De Mencos,La Blanca,Aldea
-16.893512838495646,-89.45348724534794,Peten,Melchor De Mencos,La Blanca,Aldea
-16.893512838495646,-89.45348724534794,Peten,Melchor De Mencos,La Blanca,Aldea
-16.893512838495646,-89.45348724534794,Peten,Melchor De Mencos,La Blanca,Aldea
-16.893512838495646,-89.45348724534794,Peten,Melchor De Mencos,La Blanca,Aldea
-16.872598397837873,-89.98727218398258,Peten,San Benito,San Antonio,Aldea
-16.84419957228022,-90.2013761812371,Peten,La Libertad,El Murcielago O Chapin,Finca
-16.833095786513532,-90.28680733213092,Peten,La Libertad,Valle Nuevo El Toro,Caserio
-16.833095786513532,-90.28680733213092,Peten,La Libertad,Valle Nuevo El Toro,Caserio
-16.86447176883183,-90.42892365384311,Peten,La Libertad,La Mula,Parcelamiento
-16.869197518985356,-90.46198048082746,Peten,La Libertad,Tierra Linda,Caserio
-16.869197518985356,-90.46198048082746,Peten,La Libertad,Tierra Linda,Caserio
-16.869197518985356,-90.46198048082746,Peten,La Libertad,Tierra Linda,Caserio
-16.941355345937513,-90.41886995721103,Peten,La Libertad,El Triunfo,Caserio
-16.941355345937513,-90.41886995721103,Peten,La Libertad,El Triunfo,Caserio
-16.941355345937513,-90.41886995721103,Peten,La Libertad,El Triunfo,Caserio
-17.050012399452456,-90.42397139641558,Peten,La Libertad,Cerritos,Caserio
+16.579157318548972,-90.09529326124037,Peten,Sayaxche,Nueva Libertad,Caserio
+16.380357642554543,-89.61443292806943,Peten,Poptun,El Limon,Caserio
+16.384691494219535,-89.73668961644587,Peten,Poptun,Belen,Caserio
+16.248060200672807,-89.69939790942813,Peten,Poptun,El Espolon,Finca
+15.085764154118277,-89.66676428638289,Zacapa,Rio Hondo,San Lorenzo,Caserio
+15.085764154118277,-89.66676428638289,Zacapa,Rio Hondo,San Lorenzo,Caserio
+15.085764154118277,-89.66676428638289,Zacapa,Rio Hondo,San Lorenzo,Caserio
+15.085764154118277,-89.66676428638289,Zacapa,Rio Hondo,San Lorenzo,Caserio
+15.085764154118277,-89.66676428638289,Zacapa,Rio Hondo,San Lorenzo,Caserio
+14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
+14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
+14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra
+14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
+14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
+14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
+14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra
+14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra
+14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
+14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
+14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra
+14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra
+14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
+14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
+14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
+14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
+14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
+14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
+14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
+14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
