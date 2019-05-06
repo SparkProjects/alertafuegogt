@@ -1,9 +1,83 @@
 lat,lng,departamento,municipio,admin3,admin4
+14.060029122369027,-89.84682122640037,Jutiapa,Zapotitlan,El Cobano,Caserio
+13.966002548260684,-90.85269129704892,Escuintla,San Jose,La Libertad,Colonia
+14.164706630911565,-89.87464420203447,Jutiapa,Zapotitlan,Rio Chiquito,Caserio
+14.17327189338338,-89.8588554396216,Jutiapa,El Adelanto,El Saron,Aldea
+14.131414479537321,-90.06568370403194,Jutiapa,Jalpatagua,Laguna Recinos,Paraje
+13.980655567650937,-90.87278081701601,Escuintla,San Jose,Puentes Cuaches,Labor
+14.22843257226776,-89.85732593791741,Jutiapa,Jutiapa,El Silencio,Caserio
+14.291726701746695,-89.79376847499705,Jutiapa,Jutiapa,Velasquez,Caserio
+14.417859259201977,-89.58657489386803,Jutiapa,Agua Blanca,Piñuelas,Aldea
+14.482811117303152,-89.33439265101394,Chiquimula,Esquipulas,El Olvido,Caserio
+14.417859259201977,-89.58657489386803,Jutiapa,Agua Blanca,Piñuelas,Aldea
+14.169670475194225,-91.10306585591373,Escuintla,Santa Lucia Cotzumalguapa,Tehuantepec,Finca
+14.17688026216421,-91.12096850558223,Escuintla,Santa Lucia Cotzumalguapa,El Retiro,Otra
+14.254960969155906,-91.14653224470422,Escuintla,Santa Lucia Cotzumalguapa,San Miguel Mapan,Hacienda
+14.244937951330991,-91.162727484919,Escuintla,Santa Lucia Cotzumalguapa,El Jabali,Hacienda
+14.244937951330991,-91.162727484919,Escuintla,Santa Lucia Cotzumalguapa,El Jabali,Hacienda
+14.618310807171765,-89.32724026527374,Chiquimula,Esquipulas,San Juan,Caserio
+14.303518892789834,-91.33126854201338,Escuintla,Tiquisate,San Jose El Carmen,Finca
+14.303518892789834,-91.33126854201338,Escuintla,Tiquisate,San Jose El Carmen,Finca
+14.303518892789834,-91.33126854201338,Escuintla,Tiquisate,San Jose El Carmen,Finca
+14.312627879582204,-91.31900139758909,Escuintla,Tiquisate,La Comarca,Finca
+14.324359922912025,-91.26218181590525,Suchitepequez,Patulul,Santa Marta,Finca
+14.221263529913557,-91.79646902721852,Retalhuleu,Retalhuleu,Cuchupan,Finca
+14.43325590557564,-90.9354287796822,Chimaltenango,Yepocapa,San Francisco Panimache,Finca
+14.43325590557564,-90.9354287796822,Chimaltenango,Yepocapa,San Francisco Panimache,Finca
 14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
-14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
-14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
-14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio
-14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
-14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
-14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
-14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea
+14.445780174970382,-90.94697450167511,Chimaltenango,Yepocapa,Panimache Ii,Caserio
+14.43325590557564,-90.9354287796822,Chimaltenango,Yepocapa,San Francisco Panimache,Finca
+14.738259732970056,-89.51485110504859,Chiquimula,Chiquimula,Paija,Caserio
+14.750767390333706,-89.51831128556005,Chiquimula,Chiquimula,San Esteban,Aldea
+14.435607921427527,-91.29022852907985,Suchitepequez,Rio Bravo,Palmeras,Finca
+14.765031514325404,-90.0281437943796,Jalapa,Jalapa,El Incienso,Finca
+14.823956342905547,-89.74242355677644,Zacapa,San Diego,San Antonio Las Lomas,Aldea
+14.765031514325404,-90.0281437943796,Jalapa,Jalapa,El Incienso,Finca
+14.823956342905547,-89.74242355677644,Zacapa,San Diego,San Antonio Las Lomas,Aldea
+14.553147509256341,-91.4884829427241,Suchitepequez,Mazatenango,El Cafetal,Finca
+15.066768566177185,-89.28653136026936,Zacapa,Gualan,Amatillo,Caserio
+14.864326598129534,-90.46134801161493,Guatemala,Chuarrancho,El Amatillo,Finca
+15.108749091128404,-90.10843732725155,Baja Verapaz,San Jeronimo,Ceibillal,Otra
+15.236318654858705,-89.76283262113267,Alta Verapaz,Santa Catalina La Tinta,San Vicente,Caserio
+15.323533408493667,-89.32966942042877,Izabal,El Estor,El Naranjal,Caserio
+15.323533408493667,-89.32966942042877,Izabal,El Estor,El Naranjal,Caserio
+15.234865423502788,-89.98406167859999,Baja Verapaz,Purulha,Calija,Finca
+15.291580495890873,-90.02504347236876,Alta Verapaz,Tucuru,Libertad 2002,Caserio
+15.270205845274651,-90.10220045020098,Alta Verapaz,Tucuru,La Esperanza Tucuru,Finca
+15.291724468966514,-90.05784007296343,Alta Verapaz,Tucuru,Pantoc,Caserio
+15.27799405255798,-90.13346894620713,Alta Verapaz,Tucuru,San Jose Concepcion,Caserio
+15.270205845274651,-90.10220045020098,Alta Verapaz,Tucuru,La Esperanza Tucuru,Finca
+15.291724468966514,-90.05784007296343,Alta Verapaz,Tucuru,Pantoc,Caserio
+15.291724468966514,-90.05784007296343,Alta Verapaz,Tucuru,Pantoc,Caserio
+15.27799405255798,-90.13346894620713,Alta Verapaz,Tucuru,San Jose Concepcion,Caserio
+15.502164160694157,-90.03102289357763,Alta Verapaz,Senahu,Comunidad Nuevo Amanecer,Caserio
+15.452148530197455,-90.66936924140933,Quiche,Chicaman,Tiritibol,Aldea
+15.595995186782122,-90.02285525460286,Alta Verapaz,Lanquin,Pejmo,Caserio
+15.612873624085076,-89.98263318706618,Alta Verapaz,Lanquin,Santa Maria Chaquel,Caserio
+15.612633486790903,-90.00861944858647,Alta Verapaz,Lanquin,Chinama,Finca
+15.668687070491744,-89.91896881414458,Alta Verapaz,Cahabon,Semuc Norte,Caserio
+15.66430570235905,-89.98259886250352,Alta Verapaz,San Pedro Carcha,Yuxacte,Caserio
+15.763289197120997,-89.96734089067645,Alta Verapaz,Chisec,Semax,Caserio
+15.763289197120997,-89.96734089067645,Alta Verapaz,Chisec,Semax,Caserio
+15.72967499955669,-90.10033837166516,Alta Verapaz,San Pedro Carcha,Secacao Rubelsaconac,Aldea
+15.742218858324051,-90.10798734190244,Alta Verapaz,San Pedro Carcha,Sejulha,Caserio
+15.72967499955669,-90.10033837166516,Alta Verapaz,San Pedro Carcha,Secacao Rubelsaconac,Aldea
+15.763289197120997,-89.96734089067645,Alta Verapaz,Chisec,Semax,Caserio
+15.742218858324051,-90.10798734190244,Alta Verapaz,San Pedro Carcha,Sejulha,Caserio
+15.827668594704015,-89.67087934544718,Alta Verapaz,Fray Bartolome De Las Casas,Villa Nueva Guadalupe,Caserio
+15.881769580014996,-89.78921334043505,Alta Verapaz,Fray Bartolome De Las Casas,Cruce Calle 4,Caserio
+15.894682314743667,-89.7504125951418,Alta Verapaz,Fray Bartolome De Las Casas,Yaxa,Aldea
+15.886488200170525,-89.85093475659093,Alta Verapaz,Fray Bartolome De Las Casas,El Porvenir,Caserio
+15.977940080811935,-89.38790148972532,Peten,San Luis,Secanche,Otra
+15.894682314743667,-89.7504125951418,Alta Verapaz,Fray Bartolome De Las Casas,Yaxa,Aldea
+15.894682314743667,-89.7504125951418,Alta Verapaz,Fray Bartolome De Las Casas,Yaxa,Aldea
+15.886488200170525,-89.85093475659093,Alta Verapaz,Fray Bartolome De Las Casas,El Porvenir,Caserio
+15.977940080811935,-89.38790148972532,Peten,San Luis,Secanche,Otra
+16.00962321417133,-89.97065894823984,Peten,Sayaxche,El Rosal,Caserio
+16.07998902865991,-90.01410258381108,Peten,Sayaxche,La Argentina,Caserio
+15.727193422864417,-91.7600647165695,Huehuetenango,Jacaltenango,Yinchenguex,Aldea
+16.13041787342797,-89.78363148966048,Peten,San Luis,La Oriental,Finca
+16.154404865279755,-89.78229072953918,Peten,San Luis,Chile Verde O Quebrada Seca,Caserio
+16.13244628390224,-89.92964539374793,Peten,San Luis,Mojarra I,Parcelamiento
+16.295113370424914,-89.83216318906744,Peten,Poptun,La Providencia,Finca
+15.991834632637278,-91.76077409156998,Huehuetenango,Nenton,Tunalito El Espino,Finca
