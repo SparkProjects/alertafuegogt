@@ -32,22 +32,22 @@ id, latitude, longitude, bright_ti4, scan, track, acq_date, acq_time, satelite, 
 374,15.59241,-88.79829,367.0,0.37,0.58,2019-09-01,1830,N,high,1.0NRT,291.3,5.3,D,Izabal,Morales,15.582727890239289,-88.79707742172057,Izabal,Livingston,Los Olivos,Caserio,128,0
 375,15.59307,-88.79503,335.4,0.37,0.58,2019-09-01,1830,N,nominal,1.0NRT,290.7,5.3,D,Izabal,Morales,15.582727890239289,-88.79707742172057,Izabal,Livingston,Los Olivos,Caserio,128,0
 376,16.52779,-90.3847,326.3,0.45,0.63,2019-09-01,1830,N,nominal,1.0NRT,290.6,4.2,D,Petén,Sayaxché,16.55629525395877,-90.3896174422906,Peten,Sayaxche,El Caribe,Otra,128,0
-377,14.3874,-90.60684,309.9,0.58,0.52,2019-09-02,0700,N,nominal,1.0NRT,259.1,4.0,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,103,1
-378,14.38661,-90.60019,315.4,0.58,0.52,2019-09-02,0700,N,nominal,1.0NRT,256.7,2.8,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,103,1
-379,14.3884,-90.60216,319.2,0.58,0.52,2019-09-02,0700,N,nominal,1.0NRT,259.1,1.9,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,103,1
-380,14.38359,-90.60294,305.4,0.58,0.52,2019-09-02,0700,N,nominal,1.0NRT,259.4,2.2,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,103,1
-381,15.55621,-88.70838,343.9,0.73,0.76,2019-09-02,1812,N,nominal,1.0NRT,287.4,10.9,D,Izabal,Morales,15.545307214318706,-88.7035935651106,Izabal,Morales,Cruce Cayuga,Caserio,63,1
-382,14.02942,-91.07174,339.1,0.32,0.55,2019-09-02,1954,N,nominal,1.0NRT,294.9,1.9,D,Escuintla,La Gomera,14.031403780299334,-91.07025885630172,Escuintla,La Gomera,Carolina,Hacienda,56,1
-383,14.0345,-91.07236,329.9,0.32,0.55,2019-09-02,1954,N,nominal,1.0NRT,293.9,1.7,D,Escuintla,La Gomera,14.033566391261093,-91.0709234180598,Escuintla,La Gomera,Carolina,Finca,56,1
-384,15.3782,-88.84676,333.6,0.47,0.64,2019-09-02,1954,N,nominal,1.0NRT,288.6,2.0,D,Izabal,Morales,15.36859662930253,-88.86956038168431,Izabal,Morales,El Real O Ramal Bobos,Finca,56,1
-385,15.55338,-88.70145,330.0,0.49,0.65,2019-09-02,1954,N,nominal,1.0NRT,290.6,3.6,D,Izabal,Morales,15.545307214318706,-88.7035935651106,Izabal,Morales,Cruce Cayuga,Caserio,56,1
-386,15.94687,-89.68709,335.9,0.42,0.61,2019-09-02,1954,N,nominal,1.0NRT,291.6,5.0,D,Alta Verapaz,Fray Bartolomé De Las Casas,15.936673679629754,-89.69327533224953,Alta Verapaz,Fray Bartolome De Las Casas,Chinahococ,Caserio,56,1
-387,15.94642,-89.69106,344.3,0.42,0.61,2019-09-02,1954,N,nominal,1.0NRT,291.8,5.0,D,Alta Verapaz,Fray Bartolomé De Las Casas,15.936673679629754,-89.69327533224953,Alta Verapaz,Fray Bartolome De Las Casas,Chinahococ,Caserio,56,1
-388,15.94832,-89.68825,345.8,0.42,0.61,2019-09-02,1954,N,nominal,1.0NRT,292.2,5.1,D,Alta Verapaz,Fray Bartolomé De Las Casas,15.936673679629754,-89.69327533224953,Alta Verapaz,Fray Bartolome De Las Casas,Chinahococ,Caserio,56,1
-389,15.9479,-89.69224,334.1,0.42,0.61,2019-09-02,1954,N,nominal,1.0NRT,292.0,5.1,D,Alta Verapaz,Fray Bartolomé De Las Casas,15.936673679629754,-89.69327533224953,Alta Verapaz,Fray Bartolome De Las Casas,Chinahococ,Caserio,56,1
-390,16.51354,-90.20027,332.6,0.4,0.6,2019-09-02,1954,N,nominal,1.0NRT,291.2,2.8,D,Petén,Sayaxché,16.51792508945154,-90.20906884302518,Peten,Sayaxche,La Caoba,Caserio,56,1
-391,16.51232,-90.19981,336.2,0.4,0.6,2019-09-02,1954,N,nominal,1.0NRT,291.2,3.1,D,Petén,Sayaxché,16.51792508945154,-90.20906884302518,Peten,Sayaxche,La Caoba,Caserio,56,1
-392,16.68163,-89.17492,355.3,0.47,0.64,2019-09-02,1954,N,nominal,1.0NRT,290.2,11.3,D,Petén,Dolores,16.695069408636943,-89.20922375429979,Peten,Dolores,Nueva Armenia,Caserio,56,1
-393,16.66739,-90.05359,338.9,0.41,0.61,2019-09-02,1954,N,nominal,1.0NRT,290.9,5.6,D,Petén,San Francisco,16.679593597658275,-90.05448468471005,Peten,San Francisco,La Pampa,Finca,56,1
-394,16.97907,-90.31889,330.1,0.4,0.6,2019-09-02,1954,N,nominal,1.0NRT,290.3,4.0,D,Petén,La Libertad,16.976912664051344,-90.33920420841638,Peten,La Libertad,Nuevo Porvenir,Finca,56,1
-395,17.09933,-90.23798,338.4,0.4,0.6,2019-09-02,1954,N,nominal,1.0NRT,291.7,4.6,D,Petén,La Libertad,17.133866131088965,-90.24947555965305,Peten,San Andres,Centro Campesino,Caserio,56,1
+377,14.3874,-90.60684,309.9,0.58,0.52,2019-09-02,0700,N,nominal,1.0NRT,259.1,4.0,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,104,1
+378,14.38661,-90.60019,315.4,0.58,0.52,2019-09-02,0700,N,nominal,1.0NRT,256.7,2.8,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,104,1
+379,14.3884,-90.60216,319.2,0.58,0.52,2019-09-02,0700,N,nominal,1.0NRT,259.1,1.9,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,104,1
+380,14.38359,-90.60294,305.4,0.58,0.52,2019-09-02,0700,N,nominal,1.0NRT,259.4,2.2,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,104,1
+381,15.55621,-88.70838,343.9,0.73,0.76,2019-09-02,1812,N,nominal,1.0NRT,287.4,10.9,D,Izabal,Morales,15.545307214318706,-88.7035935651106,Izabal,Morales,Cruce Cayuga,Caserio,64,1
+382,14.02942,-91.07174,339.1,0.32,0.55,2019-09-02,1954,N,nominal,1.0NRT,294.9,1.9,D,Escuintla,La Gomera,14.031403780299334,-91.07025885630172,Escuintla,La Gomera,Carolina,Hacienda,57,1
+383,14.0345,-91.07236,329.9,0.32,0.55,2019-09-02,1954,N,nominal,1.0NRT,293.9,1.7,D,Escuintla,La Gomera,14.033566391261093,-91.0709234180598,Escuintla,La Gomera,Carolina,Finca,57,1
+384,15.3782,-88.84676,333.6,0.47,0.64,2019-09-02,1954,N,nominal,1.0NRT,288.6,2.0,D,Izabal,Morales,15.36859662930253,-88.86956038168431,Izabal,Morales,El Real O Ramal Bobos,Finca,57,1
+385,15.55338,-88.70145,330.0,0.49,0.65,2019-09-02,1954,N,nominal,1.0NRT,290.6,3.6,D,Izabal,Morales,15.545307214318706,-88.7035935651106,Izabal,Morales,Cruce Cayuga,Caserio,57,1
+386,15.94687,-89.68709,335.9,0.42,0.61,2019-09-02,1954,N,nominal,1.0NRT,291.6,5.0,D,Alta Verapaz,Fray Bartolomé De Las Casas,15.936673679629754,-89.69327533224953,Alta Verapaz,Fray Bartolome De Las Casas,Chinahococ,Caserio,57,1
+387,15.94642,-89.69106,344.3,0.42,0.61,2019-09-02,1954,N,nominal,1.0NRT,291.8,5.0,D,Alta Verapaz,Fray Bartolomé De Las Casas,15.936673679629754,-89.69327533224953,Alta Verapaz,Fray Bartolome De Las Casas,Chinahococ,Caserio,57,1
+388,15.94832,-89.68825,345.8,0.42,0.61,2019-09-02,1954,N,nominal,1.0NRT,292.2,5.1,D,Alta Verapaz,Fray Bartolomé De Las Casas,15.936673679629754,-89.69327533224953,Alta Verapaz,Fray Bartolome De Las Casas,Chinahococ,Caserio,57,1
+389,15.9479,-89.69224,334.1,0.42,0.61,2019-09-02,1954,N,nominal,1.0NRT,292.0,5.1,D,Alta Verapaz,Fray Bartolomé De Las Casas,15.936673679629754,-89.69327533224953,Alta Verapaz,Fray Bartolome De Las Casas,Chinahococ,Caserio,57,1
+390,16.51354,-90.20027,332.6,0.4,0.6,2019-09-02,1954,N,nominal,1.0NRT,291.2,2.8,D,Petén,Sayaxché,16.51792508945154,-90.20906884302518,Peten,Sayaxche,La Caoba,Caserio,57,1
+391,16.51232,-90.19981,336.2,0.4,0.6,2019-09-02,1954,N,nominal,1.0NRT,291.2,3.1,D,Petén,Sayaxché,16.51792508945154,-90.20906884302518,Peten,Sayaxche,La Caoba,Caserio,57,1
+392,16.68163,-89.17492,355.3,0.47,0.64,2019-09-02,1954,N,nominal,1.0NRT,290.2,11.3,D,Petén,Dolores,16.695069408636943,-89.20922375429979,Peten,Dolores,Nueva Armenia,Caserio,57,1
+393,16.66739,-90.05359,338.9,0.41,0.61,2019-09-02,1954,N,nominal,1.0NRT,290.9,5.6,D,Petén,San Francisco,16.679593597658275,-90.05448468471005,Peten,San Francisco,La Pampa,Finca,57,1
+394,16.97907,-90.31889,330.1,0.4,0.6,2019-09-02,1954,N,nominal,1.0NRT,290.3,4.0,D,Petén,La Libertad,16.976912664051344,-90.33920420841638,Peten,La Libertad,Nuevo Porvenir,Finca,57,1
+395,17.09933,-90.23798,338.4,0.4,0.6,2019-09-02,1954,N,nominal,1.0NRT,291.7,4.6,D,Petén,La Libertad,17.133866131088965,-90.24947555965305,Peten,San Andres,Centro Campesino,Caserio,57,1
