@@ -124,13 +124,13 @@ id, latitude, longitude, bright_ti4, scan, track, acq_date, acq_time, satelite, 
 466,14.81272,-90.2774,305.3,0.4,0.37,2019-09-06,0730,N,nominal,1.0NRT,279.5,1.1,N,El Progreso,Sanarate,14.804342785500927,-90.27858335990369,El Progreso,Sanarate,Sinaca,Aldea,96,0
 467,14.73962,-91.56818,311.3,0.43,0.38,2019-09-06,0730,N,nominal,1.0NRT,283.8,2.8,N,Quetzaltenango,El Palmar,14.77331479727794,-91.5550714680634,Quetzaltenango,Quetzaltenango,Chuipach,Otra,96,0
 468,15.53831,-91.14358,330.2,0.41,0.61,2019-09-06,1836,N,nominal,1.0NRT,280.2,7.6,D,Quiché,Nebaj,15.55187091865015,-91.15060598179943,Quiche,Nebaj,Xecalitza,Caserio,96,0
-469,14.74017,-91.56966,299.9,0.53,0.5,2019-09-07,0712,N,nominal,1.0NRT,282.1,1.3,N,Quetzaltenango,El Palmar,14.77331479727794,-91.5550714680634,Quetzaltenango,Quetzaltenango,Chuipach,Otra,121,1
-470,14.38403,-90.59901,341.3,0.45,0.63,2019-09-07,2000,N,nominal,1.0NRT,280.7,12.3,D,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,93,1
-471,14.47649,-90.92271,296.8,0.5,0.66,2019-09-08,0648,N,nominal,1.0NRT,270.7,1.2,N,Chimaltenango,Yepocapa,14.49674520116619,-90.95192948745368,Chimaltenango,Yepocapa,Monte De Los Olivos,Caserio,49,1
-472,14.47547,-90.91533,305.5,0.5,0.66,2019-09-08,0648,N,nominal,1.0NRT,269.5,1.0,N,Chimaltenango,Yepocapa,14.503226142188892,-90.94718655356026,Chimaltenango,Yepocapa,La Cabana,Caserio,49,1
-473,14.45868,-90.82148,334.3,0.75,0.77,2019-09-08,0830,N,nominal,1.0NRT,272.6,7.7,N,Sacatepéquez,Alotenango,14.46023177052503,-90.81363671005684,Sacatepequez,Alotenango,Amaton,Finca,41,1
-474,14.4609,-90.8313,312.6,0.74,0.76,2019-09-08,0830,N,nominal,1.0NRT,272.7,7.7,N,Sacatepéquez,Alotenango,14.46023177052503,-90.81363671005684,Sacatepequez,Alotenango,Amaton,Finca,41,1
-475,14.46357,-90.82838,331.8,0.75,0.77,2019-09-08,0830,N,nominal,1.0NRT,273.4,13.0,N,Sacatepéquez,Alotenango,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,41,1
-476,14.46147,-90.81879,318.7,0.75,0.77,2019-09-08,0830,N,nominal,1.0NRT,271.2,8.0,N,Sacatepéquez,Alotenango,14.46023177052503,-90.81363671005684,Sacatepequez,Alotenango,Amaton,Finca,41,1
-477,15.07283,-89.2988,332.8,0.54,0.51,2019-09-08,1942,N,nominal,1.0NRT,286.2,7.4,D,Zacapa,Gualán,15.072672221384229,-89.2945102556305,Zacapa,Gualan,Amatillo,Paraje,1,1
-478,15.07229,-89.30319,338.8,0.54,0.51,2019-09-08,1942,N,nominal,1.0NRT,286.3,6.2,D,Zacapa,Gualán,15.064458925887658,-89.30286943851988,Zacapa,Gualan,Tajapa,Caserio,1,1
+469,14.74017,-91.56966,299.9,0.53,0.5,2019-09-07,0712,N,nominal,1.0NRT,282.1,1.3,N,Quetzaltenango,El Palmar,14.77331479727794,-91.5550714680634,Quetzaltenango,Quetzaltenango,Chuipach,Otra,122,1
+470,14.38403,-90.59901,341.3,0.45,0.63,2019-09-07,2000,N,nominal,1.0NRT,280.7,12.3,D,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,94,1
+471,14.47649,-90.92271,296.8,0.5,0.66,2019-09-08,0648,N,nominal,1.0NRT,270.7,1.2,N,Chimaltenango,Yepocapa,14.49674520116619,-90.95192948745368,Chimaltenango,Yepocapa,Monte De Los Olivos,Caserio,50,1
+472,14.47547,-90.91533,305.5,0.5,0.66,2019-09-08,0648,N,nominal,1.0NRT,269.5,1.0,N,Chimaltenango,Yepocapa,14.503226142188892,-90.94718655356026,Chimaltenango,Yepocapa,La Cabana,Caserio,50,1
+473,14.45868,-90.82148,334.3,0.75,0.77,2019-09-08,0830,N,nominal,1.0NRT,272.6,7.7,N,Sacatepéquez,Alotenango,14.46023177052503,-90.81363671005684,Sacatepequez,Alotenango,Amaton,Finca,42,1
+474,14.4609,-90.8313,312.6,0.74,0.76,2019-09-08,0830,N,nominal,1.0NRT,272.7,7.7,N,Sacatepéquez,Alotenango,14.46023177052503,-90.81363671005684,Sacatepequez,Alotenango,Amaton,Finca,42,1
+475,14.46357,-90.82838,331.8,0.75,0.77,2019-09-08,0830,N,nominal,1.0NRT,273.4,13.0,N,Sacatepéquez,Alotenango,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,42,1
+476,14.46147,-90.81879,318.7,0.75,0.77,2019-09-08,0830,N,nominal,1.0NRT,271.2,8.0,N,Sacatepéquez,Alotenango,14.46023177052503,-90.81363671005684,Sacatepequez,Alotenango,Amaton,Finca,42,1
+477,15.07283,-89.2988,332.8,0.54,0.51,2019-09-08,1942,N,nominal,1.0NRT,286.2,7.4,D,Zacapa,Gualán,15.072672221384229,-89.2945102556305,Zacapa,Gualan,Amatillo,Paraje,2,1
+478,15.07229,-89.30319,338.8,0.54,0.51,2019-09-08,1942,N,nominal,1.0NRT,286.3,6.2,D,Zacapa,Gualán,15.064458925887658,-89.30286943851988,Zacapa,Gualan,Tajapa,Caserio,2,1
