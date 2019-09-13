@@ -160,16 +160,16 @@ id, latitude, longitude, bright_ti4, scan, track, acq_date, acq_time, satelite, 
 502,13.99572,-90.38488,343.2,0.62,0.54,2019-09-11,1842,N,nominal,1.0NRT,291.2,5.5,D,Santa Rosa,Chiquimulilla,13.991997838619799,-90.38680139154334,Santa Rosa,Chiquimulilla,El Porvenir,Finca,129,0
 503,15.00143,-89.33504,330.7,0.51,0.49,2019-09-11,1842,N,nominal,1.0NRT,291.5,3.7,D,Zacapa,Zacapa,15.003883985017028,-89.3301002198572,Zacapa,Gualan,Las Canas,Caserio,129,0
 504,15.09711,-89.30173,328.7,0.5,0.49,2019-09-11,1842,N,nominal,1.0NRT,288.7,4.6,D,Zacapa,Gualán,15.09900933370226,-89.30451825304772,Zacapa,Gualan,Los Jutes,Aldea,129,0
-505,14.73762,-91.57248,301.1,0.42,0.45,2019-09-12,0718,N,nominal,1.0NRT,270.8,1.1,N,Quetzaltenango,El Palmar,14.699289802466105,-91.56956901877453,Quetzaltenango,El Palmar,San Jose,Finca,130,1
-506,14.73705,-91.56817,298.4,0.42,0.45,2019-09-12,0718,N,nominal,1.0NRT,271.0,1.4,N,Quetzaltenango,El Palmar,14.699289802466105,-91.56956901877453,Quetzaltenango,El Palmar,San Jose,Finca,130,1
-507,14.47652,-90.88686,329.4,0.57,0.43,2019-09-12,0718,N,nominal,1.0NRT,284.8,10.2,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,130,1
-508,14.47565,-90.88055,296.9,0.57,0.43,2019-09-12,0718,N,nominal,1.0NRT,274.0,3.9,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,130,1
-509,14.47259,-90.88783,327.9,0.57,0.43,2019-09-12,0718,N,nominal,1.0NRT,276.1,10.2,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,130,1
-510,14.47173,-90.88152,307.3,0.57,0.43,2019-09-12,0718,N,nominal,1.0NRT,275.8,3.9,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,130,1
-511,14.38958,-90.60435,311.3,0.55,0.43,2019-09-12,0718,N,nominal,1.0NRT,271.1,5.4,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,130,1
-512,14.38566,-90.60484,330.7,0.55,0.43,2019-09-12,0718,N,nominal,1.0NRT,276.6,5.4,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,130,1
-513,14.38494,-90.59947,300.5,0.55,0.43,2019-09-12,0718,N,nominal,1.0NRT,272.8,5.4,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,130,1
-514,14.38179,-90.60571,306.5,0.55,0.43,2019-09-12,0718,N,nominal,1.0NRT,271.2,1.5,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,130,1
-515,17.12286,-89.25098,340.4,0.47,0.64,2019-09-12,1824,N,nominal,1.0NRT,285.9,6.4,D,Petén,Melchor De Mencos,17.103590285009098,-89.2005680752095,Peten,Melchor De Mencos,Manantial,Otra,90,1
-516,15.92819,-90.61351,327.2,0.59,0.7,2019-09-12,2006,N,nominal,1.0NRT,289.7,3.5,D,Alta Verapaz,Cobán,15.910174695261592,-90.60713841686687,Alta Verapaz,Coban,Comunidad Tzetoc,Caserio,82,1
-517,14.47831,-90.90584,355.0,0.39,0.59,2019-09-13,0654,N,nominal,1.0NRT,255.8,20.7,N,Chimaltenango,Yepocapa,14.503226142188892,-90.94718655356026,Chimaltenango,Yepocapa,La Cabana,Caserio,38,1
+505,14.73762,-91.57248,301.1,0.42,0.45,2019-09-12,0718,N,nominal,1.0NRT,270.8,1.1,N,Quetzaltenango,El Palmar,14.699289802466105,-91.56956901877453,Quetzaltenango,El Palmar,San Jose,Finca,131,1
+506,14.73705,-91.56817,298.4,0.42,0.45,2019-09-12,0718,N,nominal,1.0NRT,271.0,1.4,N,Quetzaltenango,El Palmar,14.699289802466105,-91.56956901877453,Quetzaltenango,El Palmar,San Jose,Finca,131,1
+507,14.47652,-90.88686,329.4,0.57,0.43,2019-09-12,0718,N,nominal,1.0NRT,284.8,10.2,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,131,1
+508,14.47565,-90.88055,296.9,0.57,0.43,2019-09-12,0718,N,nominal,1.0NRT,274.0,3.9,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,131,1
+509,14.47259,-90.88783,327.9,0.57,0.43,2019-09-12,0718,N,nominal,1.0NRT,276.1,10.2,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,131,1
+510,14.47173,-90.88152,307.3,0.57,0.43,2019-09-12,0718,N,nominal,1.0NRT,275.8,3.9,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,131,1
+511,14.38958,-90.60435,311.3,0.55,0.43,2019-09-12,0718,N,nominal,1.0NRT,271.1,5.4,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,131,1
+512,14.38566,-90.60484,330.7,0.55,0.43,2019-09-12,0718,N,nominal,1.0NRT,276.6,5.4,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,131,1
+513,14.38494,-90.59947,300.5,0.55,0.43,2019-09-12,0718,N,nominal,1.0NRT,272.8,5.4,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,131,1
+514,14.38179,-90.60571,306.5,0.55,0.43,2019-09-12,0718,N,nominal,1.0NRT,271.2,1.5,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,131,1
+515,17.12286,-89.25098,340.4,0.47,0.64,2019-09-12,1824,N,nominal,1.0NRT,285.9,6.4,D,Petén,Melchor De Mencos,17.103590285009098,-89.2005680752095,Peten,Melchor De Mencos,Manantial,Otra,91,1
+516,15.92819,-90.61351,327.2,0.59,0.7,2019-09-12,2006,N,nominal,1.0NRT,289.7,3.5,D,Alta Verapaz,Cobán,15.910174695261592,-90.60713841686687,Alta Verapaz,Coban,Comunidad Tzetoc,Caserio,83,1
+517,14.47831,-90.90584,355.0,0.39,0.59,2019-09-13,0654,N,nominal,1.0NRT,255.8,20.7,N,Chimaltenango,Yepocapa,14.503226142188892,-90.94718655356026,Chimaltenango,Yepocapa,La Cabana,Caserio,39,1
