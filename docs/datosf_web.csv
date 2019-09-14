@@ -172,7 +172,7 @@ id, latitude, longitude, bright_ti4, scan, track, acq_date, acq_time, satelite, 
 514,14.38179,-90.60571,306.5,0.55,0.43,2019-09-12,0718,N,nominal,1.0NRT,271.2,1.5,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,169,0
 515,17.12286,-89.25098,340.4,0.47,0.64,2019-09-12,1824,N,nominal,1.0NRT,285.9,6.4,D,Petén,Melchor De Mencos,17.103590285009098,-89.2005680752095,Peten,Melchor De Mencos,Manantial,Otra,129,0
 516,15.92819,-90.61351,327.2,0.59,0.7,2019-09-12,2006,N,nominal,1.0NRT,289.7,3.5,D,Alta Verapaz,Cobán,15.910174695261592,-90.60713841686687,Alta Verapaz,Coban,Comunidad Tzetoc,Caserio,121,0
-517,14.47831,-90.90584,355.0,0.39,0.59,2019-09-13,0654,N,nominal,1.0NRT,255.8,20.7,N,Chimaltenango,Yepocapa,14.503226142188892,-90.94718655356026,Chimaltenango,Yepocapa,La Cabana,Caserio,111,1
-518,14.02957,-90.37458,332.8,0.56,0.52,2019-09-13,1948,N,nominal,1.0NRT,292.8,9.6,D,Santa Rosa,Chiquimulilla,14.036455520045275,-90.37508172679544,Santa Rosa,Chiquimulilla,San Jeronimo,Finca,59,1
-519,15.15203,-89.47811,338.4,0.33,0.56,2019-09-13,1948,N,nominal,1.0NRT,292.5,4.7,D,Zacapa,Río Hondo,15.151520720898981,-89.48492147467596,Zacapa,Rio Hondo,Moran,Aldea,59,1
-520,15.14896,-89.47839,344.0,0.33,0.56,2019-09-13,1948,N,nominal,1.0NRT,293.6,5.0,D,Zacapa,Río Hondo,15.151520720898981,-89.48492147467596,Zacapa,Rio Hondo,Moran,Aldea,59,1
+517,14.47831,-90.90584,355.0,0.39,0.59,2019-09-13,0654,N,nominal,1.0NRT,255.8,20.7,N,Chimaltenango,Yepocapa,14.503226142188892,-90.94718655356026,Chimaltenango,Yepocapa,La Cabana,Caserio,112,1
+518,14.02957,-90.37458,332.8,0.56,0.52,2019-09-13,1948,N,nominal,1.0NRT,292.8,9.6,D,Santa Rosa,Chiquimulilla,14.036455520045275,-90.37508172679544,Santa Rosa,Chiquimulilla,San Jeronimo,Finca,60,1
+519,15.15203,-89.47811,338.4,0.33,0.56,2019-09-13,1948,N,nominal,1.0NRT,292.5,4.7,D,Zacapa,Río Hondo,15.151520720898981,-89.48492147467596,Zacapa,Rio Hondo,Moran,Aldea,60,1
+520,15.14896,-89.47839,344.0,0.33,0.56,2019-09-13,1948,N,nominal,1.0NRT,293.6,5.0,D,Zacapa,Río Hondo,15.151520720898981,-89.48492147467596,Zacapa,Rio Hondo,Moran,Aldea,60,1
