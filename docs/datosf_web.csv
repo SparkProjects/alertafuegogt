@@ -176,21 +176,21 @@ id, latitude, longitude, bright_ti4, scan, track, acq_date, acq_time, satelite, 
 518,14.02957,-90.37458,332.8,0.56,0.52,2019-09-13,1948,N,nominal,1.0NRT,292.8,9.6,D,Santa Rosa,Chiquimulilla,14.036455520045275,-90.37508172679544,Santa Rosa,Chiquimulilla,San Jeronimo,Finca,121,0
 519,15.15203,-89.47811,338.4,0.33,0.56,2019-09-13,1948,N,nominal,1.0NRT,292.5,4.7,D,Zacapa,Río Hondo,15.151520720898981,-89.48492147467596,Zacapa,Rio Hondo,Moran,Aldea,121,0
 520,15.14896,-89.47839,344.0,0.33,0.56,2019-09-13,1948,N,nominal,1.0NRT,293.6,5.0,D,Zacapa,Río Hondo,15.151520720898981,-89.48492147467596,Zacapa,Rio Hondo,Moran,Aldea,121,0
-521,14.78644,-90.19141,342.9,0.46,0.39,2019-09-14,1924,N,nominal,1.0NRT,300.8,10.7,D,El Progreso,Sanarate,14.785645049566517,-90.19541323228566,El Progreso,Sanarate,Bellos Horizontes,Colonia,106,1
-522,15.9361,-90.11977,343.2,0.48,0.4,2019-09-14,1924,N,nominal,1.0NRT,293.9,10.7,D,Alta Verapaz,Raxruja,15.940642601509728,-90.12954375339582,Alta Verapaz,Chisec,Nueva Esperanza,Caserio,106,1
-523,15.94646,-90.0983,342.7,0.48,0.4,2019-09-14,1924,N,nominal,1.0NRT,294.6,6.1,D,Alta Verapaz,Raxruja,15.962765485998924,-90.11428393669105,Alta Verapaz,Chisec,San Jose El Tesoro,Caserio,106,1
-524,16.45859,-90.23826,339.8,0.48,0.4,2019-09-14,1930,N,nominal,1.0NRT,298.4,7.1,D,Petén,Sayaxché,16.449171463567836,-90.233533353214,Peten,Sayaxche,Petexbatun,Otra,106,1
-525,17.03811,-89.83517,333.1,0.51,0.41,2019-09-14,1930,N,nominal,1.0NRT,296.0,2.0,D,Petén,Flores,17.037663050303433,-89.83545577599419,Peten,San Jose,El Arroyo,Otra,106,1
-526,17.03791,-89.8336,334.7,0.51,0.41,2019-09-14,1930,N,nominal,1.0NRT,296.2,4.3,D,Petén,Flores,17.037663050303433,-89.83545577599419,Peten,San Jose,El Arroyo,Otra,106,1
-527,14.73807,-91.56508,312.3,0.4,0.45,2019-09-15,0800,N,nominal,1.0NRT,285.0,2.1,N,Quetzaltenango,El Palmar,14.77331479727794,-91.5550714680634,Quetzaltenango,Quetzaltenango,Chuipach,Otra,51,1
-528,14.47631,-90.87959,343.1,0.45,0.47,2019-09-15,0800,N,nominal,1.0NRT,288.0,17.8,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,51,1
-529,14.47511,-90.87327,329.5,0.45,0.47,2019-09-15,0800,N,nominal,1.0NRT,280.6,17.8,N,Sacatepéquez,Alotenango,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,51,1
-530,14.477,-90.88326,295.6,0.45,0.47,2019-09-15,0800,N,nominal,1.0NRT,276.5,2.9,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,51,1
-531,14.47197,-90.88002,352.4,0.45,0.47,2019-09-15,0800,N,nominal,1.0NRT,289.2,17.8,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,51,1
-532,14.4709,-90.87434,335.1,0.45,0.47,2019-09-15,0800,N,nominal,1.0NRT,278.0,17.8,N,Sacatepéquez,Alotenango,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,51,1
-533,14.47375,-90.87783,344.4,0.45,0.47,2019-09-15,0800,N,nominal,1.0NRT,302.6,29.6,N,Chimaltenango,Yepocapa,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,51,1
-534,14.47453,-90.88214,311.6,0.45,0.47,2019-09-15,0800,N,nominal,1.0NRT,279.4,5.3,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,51,1
-535,14.47017,-90.88239,324.6,0.45,0.47,2019-09-15,0800,N,nominal,1.0NRT,280.8,5.3,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,51,1
-536,14.46936,-90.87791,319.1,0.45,0.47,2019-09-15,0800,N,nominal,1.0NRT,277.2,29.6,N,Chimaltenango,Yepocapa,14.436773600877938,-90.82829282738564,Sacatepequez,Alotenango,La Reunion,Finca,51,1
-537,14.46625,-90.88506,302.3,0.45,0.47,2019-09-15,0800,N,nominal,1.0NRT,277.5,0.5,N,Chimaltenango,Yepocapa,14.406425586529087,-90.88405036712392,Escuintla,Escuintla,La Rochela,Finca,51,1
-538,14.46235,-90.8878,297.2,0.45,0.47,2019-09-15,0800,N,nominal,1.0NRT,277.7,0.8,N,Chimaltenango,Yepocapa,14.43325590557564,-90.9354287796822,Chimaltenango,Yepocapa,San Francisco Panimache,Finca,51,1
+521,14.78644,-90.19141,342.9,0.46,0.39,2019-09-14,1924,N,nominal,1.0NRT,300.8,10.7,D,El Progreso,Sanarate,14.785645049566517,-90.19541323228566,El Progreso,Sanarate,Bellos Horizontes,Colonia,107,1
+522,15.9361,-90.11977,343.2,0.48,0.4,2019-09-14,1924,N,nominal,1.0NRT,293.9,10.7,D,Alta Verapaz,Raxruja,15.940642601509728,-90.12954375339582,Alta Verapaz,Chisec,Nueva Esperanza,Caserio,107,1
+523,15.94646,-90.0983,342.7,0.48,0.4,2019-09-14,1924,N,nominal,1.0NRT,294.6,6.1,D,Alta Verapaz,Raxruja,15.962765485998924,-90.11428393669105,Alta Verapaz,Chisec,San Jose El Tesoro,Caserio,107,1
+524,16.45859,-90.23826,339.8,0.48,0.4,2019-09-14,1930,N,nominal,1.0NRT,298.4,7.1,D,Petén,Sayaxché,16.449171463567836,-90.233533353214,Peten,Sayaxche,Petexbatun,Otra,107,1
+525,17.03811,-89.83517,333.1,0.51,0.41,2019-09-14,1930,N,nominal,1.0NRT,296.0,2.0,D,Petén,Flores,17.037663050303433,-89.83545577599419,Peten,San Jose,El Arroyo,Otra,107,1
+526,17.03791,-89.8336,334.7,0.51,0.41,2019-09-14,1930,N,nominal,1.0NRT,296.2,4.3,D,Petén,Flores,17.037663050303433,-89.83545577599419,Peten,San Jose,El Arroyo,Otra,107,1
+527,14.73807,-91.56508,312.3,0.4,0.45,2019-09-15,0800,N,nominal,1.0NRT,285.0,2.1,N,Quetzaltenango,El Palmar,14.77331479727794,-91.5550714680634,Quetzaltenango,Quetzaltenango,Chuipach,Otra,52,1
+528,14.47631,-90.87959,343.1,0.45,0.47,2019-09-15,0800,N,nominal,1.0NRT,288.0,17.8,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,52,1
+529,14.47511,-90.87327,329.5,0.45,0.47,2019-09-15,0800,N,nominal,1.0NRT,280.6,17.8,N,Sacatepéquez,Alotenango,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,52,1
+530,14.477,-90.88326,295.6,0.45,0.47,2019-09-15,0800,N,nominal,1.0NRT,276.5,2.9,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,52,1
+531,14.47197,-90.88002,352.4,0.45,0.47,2019-09-15,0800,N,nominal,1.0NRT,289.2,17.8,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,52,1
+532,14.4709,-90.87434,335.1,0.45,0.47,2019-09-15,0800,N,nominal,1.0NRT,278.0,17.8,N,Sacatepéquez,Alotenango,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,52,1
+533,14.47375,-90.87783,344.4,0.45,0.47,2019-09-15,0800,N,nominal,1.0NRT,302.6,29.6,N,Chimaltenango,Yepocapa,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,52,1
+534,14.47453,-90.88214,311.6,0.45,0.47,2019-09-15,0800,N,nominal,1.0NRT,279.4,5.3,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,52,1
+535,14.47017,-90.88239,324.6,0.45,0.47,2019-09-15,0800,N,nominal,1.0NRT,280.8,5.3,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,52,1
+536,14.46936,-90.87791,319.1,0.45,0.47,2019-09-15,0800,N,nominal,1.0NRT,277.2,29.6,N,Chimaltenango,Yepocapa,14.436773600877938,-90.82829282738564,Sacatepequez,Alotenango,La Reunion,Finca,52,1
+537,14.46625,-90.88506,302.3,0.45,0.47,2019-09-15,0800,N,nominal,1.0NRT,277.5,0.5,N,Chimaltenango,Yepocapa,14.406425586529087,-90.88405036712392,Escuintla,Escuintla,La Rochela,Finca,52,1
+538,14.46235,-90.8878,297.2,0.45,0.47,2019-09-15,0800,N,nominal,1.0NRT,277.7,0.8,N,Chimaltenango,Yepocapa,14.43325590557564,-90.9354287796822,Chimaltenango,Yepocapa,San Francisco Panimache,Finca,52,1
