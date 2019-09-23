@@ -297,7 +297,7 @@ id, latitude, longitude, bright_ti4, scan, track, acq_date, acq_time, satelite, 
 639,16.63852,-90.09006,332.4,0.51,0.41,2019-09-21,1854,N,nominal,1.0NRT,298.0,3.2,D,Petén,San Francisco,16.649808315918623,-90.10350746622525,Peten,San Francisco,San Martin Monterrey,Finca,124,0
 640,16.64228,-90.09086,332.2,0.51,0.41,2019-09-21,1854,N,nominal,1.0NRT,296.8,3.2,D,Petén,San Francisco,16.649808315918623,-90.10350746622525,Peten,San Francisco,San Martin Monterrey,Finca,124,0
 641,16.60633,-90.30009,332.5,0.53,0.42,2019-09-21,1854,N,nominal,1.0NRT,297.5,2.7,D,Petén,La Libertad,16.616082959608622,-90.28412410244194,Peten,La Libertad,Santa Isabel,Finca,124,0
-642,15.79926,-89.60741,350.1,0.33,0.55,2019-09-22,1836,N,nominal,1.0NRT,290.1,5.6,D,Alta Verapaz,Chahal,15.801347007477428,-89.61709438590707,Alta Verapaz,Fray Bartolome De Las Casas,Nima,Finca,89,1
-643,16.60631,-90.29444,348.9,0.35,0.57,2019-09-22,1836,N,nominal,1.0NRT,290.0,10.7,D,Petén,La Libertad,16.616082959608622,-90.28412410244194,Peten,La Libertad,Santa Isabel,Finca,89,1
-644,16.60565,-90.29771,329.8,0.35,0.57,2019-09-22,1836,N,nominal,1.0NRT,287.0,4.4,D,Petén,La Libertad,16.616082959608622,-90.28412410244194,Peten,La Libertad,Santa Isabel,Finca,89,1
-645,16.605,-90.30097,330.7,0.35,0.57,2019-09-22,1836,N,nominal,1.0NRT,287.0,4.4,D,Petén,La Libertad,16.616082959608622,-90.28412410244194,Peten,La Libertad,Santa Isabel,Finca,89,1
+642,15.79926,-89.60741,350.1,0.33,0.55,2019-09-22,1836,N,nominal,1.0NRT,290.1,5.6,D,Alta Verapaz,Chahal,15.801347007477428,-89.61709438590707,Alta Verapaz,Fray Bartolome De Las Casas,Nima,Finca,90,1
+643,16.60631,-90.29444,348.9,0.35,0.57,2019-09-22,1836,N,nominal,1.0NRT,290.0,10.7,D,Petén,La Libertad,16.616082959608622,-90.28412410244194,Peten,La Libertad,Santa Isabel,Finca,90,1
+644,16.60565,-90.29771,329.8,0.35,0.57,2019-09-22,1836,N,nominal,1.0NRT,287.0,4.4,D,Petén,La Libertad,16.616082959608622,-90.28412410244194,Peten,La Libertad,Santa Isabel,Finca,90,1
+645,16.605,-90.30097,330.7,0.35,0.57,2019-09-22,1836,N,nominal,1.0NRT,287.0,4.4,D,Petén,La Libertad,16.616082959608622,-90.28412410244194,Peten,La Libertad,Santa Isabel,Finca,90,1
