@@ -318,14 +318,14 @@ id, latitude, longitude, bright_ti4, scan, track, acq_date, acq_time, satelite, 
 660,17.28833,-90.00397,336.3,0.42,0.38,2019-09-25,1918,N,nominal,1.0NRT,293.4,7.6,D,Petén,San Andrés,17.28348351234501,-90.00462746533772,Peten,San Andres,El Chapayal,Otra,125,0
 661,17.28954,-90.00417,338.0,0.43,0.38,2019-09-25,1918,N,nominal,1.0NRT,292.3,7.6,D,Petén,San Andrés,17.28348351234501,-90.00462746533772,Peten,San Andres,El Chapayal,Otra,125,0
 662,17.29649,-90.00518,331.6,0.43,0.38,2019-09-25,1918,N,nominal,1.0NRT,292.0,3.0,D,Petén,San Andrés,17.28348351234501,-90.00462746533772,Peten,San Andres,El Chapayal,Otra,125,0
-663,14.81542,-90.27873,303.5,0.39,0.44,2019-09-26,0754,N,nominal,1.0NRT,284.2,0.7,N,El Progreso,Sanarate,14.816622941731774,-90.28629593167534,El Progreso,Sanarate,San Miguel Rio Abajo,Finca,71,1
-664,14.81415,-90.27834,306.3,0.39,0.44,2019-09-26,0754,N,nominal,1.0NRT,284.1,1.1,N,El Progreso,Sanarate,14.816622941731774,-90.28629593167534,El Progreso,Sanarate,San Miguel Rio Abajo,Finca,71,1
-665,14.73687,-91.56527,309.5,0.49,0.4,2019-09-26,0754,N,nominal,1.0NRT,286.1,2.0,N,Quetzaltenango,El Palmar,14.699289802466105,-91.56956901877453,Quetzaltenango,El Palmar,San Jose,Finca,71,1
-666,14.47362,-90.87989,352.6,0.54,0.42,2019-09-26,0754,N,nominal,1.0NRT,281.8,7.1,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,71,1
-667,14.47442,-90.88442,297.2,0.54,0.42,2019-09-26,0754,N,nominal,1.0NRT,269.8,7.1,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,71,1
-668,14.46968,-90.88008,312.6,0.54,0.42,2019-09-26,0754,N,nominal,1.0NRT,271.2,7.1,N,Chimaltenango,Yepocapa,14.436773600877938,-90.82829282738564,Sacatepequez,Alotenango,La Reunion,Finca,71,1
-669,14.38903,-90.60487,297.6,0.56,0.43,2019-09-26,0754,N,nominal,1.0NRT,271.1,0.9,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,71,1
-670,14.38425,-90.60081,346.7,0.56,0.43,2019-09-26,0754,N,nominal,1.0NRT,275.4,15.6,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,71,1
-671,14.3851,-90.60559,318.8,0.56,0.43,2019-09-26,0754,N,nominal,1.0NRT,272.3,7.1,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,71,1
-672,15.39686,-88.7617,335.1,0.4,0.37,2019-09-26,1900,N,nominal,1.0NRT,296.3,3.3,D,Izabal,Morales,15.388551599860955,-88.76375177164714,Izabal,Morales,Mirador De Quebradas,Caserio,31,1
-673,16.66787,-89.21364,334.4,0.41,0.37,2019-09-26,1900,N,nominal,1.0NRT,293.5,5.6,D,Petén,Dolores,16.695069408636943,-89.20922375429979,Peten,Dolores,Nueva Armenia,Caserio,31,1
+663,14.81542,-90.27873,303.5,0.39,0.44,2019-09-26,0754,N,nominal,1.0NRT,284.2,0.7,N,El Progreso,Sanarate,14.816622941731774,-90.28629593167534,El Progreso,Sanarate,San Miguel Rio Abajo,Finca,72,1
+664,14.81415,-90.27834,306.3,0.39,0.44,2019-09-26,0754,N,nominal,1.0NRT,284.1,1.1,N,El Progreso,Sanarate,14.816622941731774,-90.28629593167534,El Progreso,Sanarate,San Miguel Rio Abajo,Finca,72,1
+665,14.73687,-91.56527,309.5,0.49,0.4,2019-09-26,0754,N,nominal,1.0NRT,286.1,2.0,N,Quetzaltenango,El Palmar,14.699289802466105,-91.56956901877453,Quetzaltenango,El Palmar,San Jose,Finca,72,1
+666,14.47362,-90.87989,352.6,0.54,0.42,2019-09-26,0754,N,nominal,1.0NRT,281.8,7.1,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,72,1
+667,14.47442,-90.88442,297.2,0.54,0.42,2019-09-26,0754,N,nominal,1.0NRT,269.8,7.1,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,72,1
+668,14.46968,-90.88008,312.6,0.54,0.42,2019-09-26,0754,N,nominal,1.0NRT,271.2,7.1,N,Chimaltenango,Yepocapa,14.436773600877938,-90.82829282738564,Sacatepequez,Alotenango,La Reunion,Finca,72,1
+669,14.38903,-90.60487,297.6,0.56,0.43,2019-09-26,0754,N,nominal,1.0NRT,271.1,0.9,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,72,1
+670,14.38425,-90.60081,346.7,0.56,0.43,2019-09-26,0754,N,nominal,1.0NRT,275.4,15.6,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,72,1
+671,14.3851,-90.60559,318.8,0.56,0.43,2019-09-26,0754,N,nominal,1.0NRT,272.3,7.1,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,72,1
+672,15.39686,-88.7617,335.1,0.4,0.37,2019-09-26,1900,N,nominal,1.0NRT,296.3,3.3,D,Izabal,Morales,15.388551599860955,-88.76375177164714,Izabal,Morales,Mirador De Quebradas,Caserio,32,1
+673,16.66787,-89.21364,334.4,0.41,0.37,2019-09-26,1900,N,nominal,1.0NRT,293.5,5.6,D,Petén,Dolores,16.695069408636943,-89.20922375429979,Peten,Dolores,Nueva Armenia,Caserio,32,1
