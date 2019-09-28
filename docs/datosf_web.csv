@@ -329,9 +329,9 @@ id, latitude, longitude, bright_ti4, scan, track, acq_date, acq_time, satelite, 
 671,14.3851,-90.60559,318.8,0.56,0.43,2019-09-26,0754,N,nominal,1.0NRT,272.3,7.1,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,164,0
 672,15.39686,-88.7617,335.1,0.4,0.37,2019-09-26,1900,N,nominal,1.0NRT,296.3,3.3,D,Izabal,Morales,15.388551599860955,-88.76375177164714,Izabal,Morales,Mirador De Quebradas,Caserio,124,0
 673,16.66787,-89.21364,334.4,0.41,0.37,2019-09-26,1900,N,nominal,1.0NRT,293.5,5.6,D,Petén,Dolores,16.695069408636943,-89.20922375429979,Peten,Dolores,Nueva Armenia,Caserio,124,0
-674,14.73973,-91.56883,303.4,0.39,0.36,2019-09-27,0736,N,nominal,1.0NRT,269.8,1.5,N,Quetzaltenango,El Palmar,14.77331479727794,-91.5550714680634,Quetzaltenango,Quetzaltenango,Chuipach,Otra,148,1
-675,14.38724,-90.60366,334.6,0.38,0.36,2019-09-27,0736,N,nominal,1.0NRT,266.8,13.2,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,148,1
-676,14.38669,-90.60012,304.9,0.38,0.36,2019-09-27,0736,N,nominal,1.0NRT,266.7,1.8,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,148,1
-677,14.38339,-90.60067,317.0,0.38,0.36,2019-09-27,0736,N,nominal,1.0NRT,264.8,1.8,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,148,1
-678,14.95357,-89.75732,328.6,0.54,0.51,2019-09-27,1842,N,nominal,1.0NRT,297.5,5.1,D,Zacapa,Usumatlán,14.957248880658637,-89.7568993118159,Zacapa,Usumatlan,Campamento Comagua,Otra,104,1
-679,16.00918,-89.21015,330.5,0.48,0.48,2019-09-27,1842,N,nominal,1.0NRT,288.2,2.6,D,Petén,San Luis,16.010935480390614,-89.22343345039768,Peten,San Luis,Santa Cruz,Otra,104,1
+674,14.73973,-91.56883,303.4,0.39,0.36,2019-09-27,0736,N,nominal,1.0NRT,269.8,1.5,N,Quetzaltenango,El Palmar,14.77331479727794,-91.5550714680634,Quetzaltenango,Quetzaltenango,Chuipach,Otra,149,1
+675,14.38724,-90.60366,334.6,0.38,0.36,2019-09-27,0736,N,nominal,1.0NRT,266.8,13.2,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,149,1
+676,14.38669,-90.60012,304.9,0.38,0.36,2019-09-27,0736,N,nominal,1.0NRT,266.7,1.8,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,149,1
+677,14.38339,-90.60067,317.0,0.38,0.36,2019-09-27,0736,N,nominal,1.0NRT,264.8,1.8,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,149,1
+678,14.95357,-89.75732,328.6,0.54,0.51,2019-09-27,1842,N,nominal,1.0NRT,297.5,5.1,D,Zacapa,Usumatlán,14.957248880658637,-89.7568993118159,Zacapa,Usumatlan,Campamento Comagua,Otra,105,1
+679,16.00918,-89.21015,330.5,0.48,0.48,2019-09-27,1842,N,nominal,1.0NRT,288.2,2.6,D,Petén,San Luis,16.010935480390614,-89.22343345039768,Peten,San Luis,Santa Cruz,Otra,105,1
