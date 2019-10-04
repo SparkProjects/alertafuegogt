@@ -33,13 +33,13 @@ id, latitude, longitude, bright_ti4, scan, track, acq_date, acq_time, satelite, 
 716,16.4074,-90.19924,333.6,0.43,0.46,2019-10-02,1848,N,nominal,1.0NRT,292.8,3.0,D,Petén,Sayaxché,16.429387414100876,-90.20339114820555,Peten,Sayaxche,Escarbado,Caserio,125,0
 717,16.76013,-89.56239,354.0,0.39,0.44,2019-10-02,1848,N,nominal,1.0NRT,297.8,23.6,D,Petén,Dolores,16.759340406987963,-89.54412147537406,Peten,Santa Ana,El Guineo,Caserio,125,0
 718,16.94242,-89.45588,340.7,0.38,0.43,2019-10-02,1848,N,nominal,1.0NRT,296.4,6.2,D,Petén,Santa Ana,16.955922883211514,-89.46206738419289,Peten,Flores,La Sonrisa,Otra,125,0
-719,14.47684,-90.88381,342.6,0.47,0.4,2019-10-03,0724,N,nominal,1.0NRT,281.6,15.7,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,139,1
-720,14.47759,-90.88907,304.6,0.47,0.4,2019-10-03,0724,N,nominal,1.0NRT,277.1,15.7,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,139,1
-721,14.47618,-90.87918,300.2,0.47,0.4,2019-10-03,0724,N,nominal,1.0NRT,275.8,3.6,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,139,1
-722,14.47324,-90.88451,332.9,0.47,0.4,2019-10-03,0724,N,nominal,1.0NRT,293.9,15.7,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,139,1
-723,14.47257,-90.87987,302.6,0.47,0.4,2019-10-03,0724,N,nominal,1.0NRT,278.9,3.6,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,139,1
-724,14.38509,-90.60136,331.5,0.45,0.39,2019-10-03,0724,N,nominal,1.0NRT,281.6,2.8,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,139,1
-725,14.38573,-90.60583,313.9,0.45,0.39,2019-10-03,0724,N,nominal,1.0NRT,281.5,2.7,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,139,1
-726,14.38153,-90.60197,328.5,0.45,0.39,2019-10-03,0724,N,nominal,1.0NRT,281.4,2.8,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,139,1
-727,14.38217,-90.60657,308.0,0.45,0.39,2019-10-03,0724,N,nominal,1.0NRT,280.7,2.7,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,139,1
-728,15.36347,-89.64362,330.3,0.42,0.61,2019-10-03,1830,N,nominal,1.0NRT,287.6,2.2,D,Alta Verapaz,Panzós,15.362832045379118,-89.63889395529169,Alta Verapaz,Panzos,Chicooc,Caserio,99,1
+719,14.47684,-90.88381,342.6,0.47,0.4,2019-10-03,0724,N,nominal,1.0NRT,281.6,15.7,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,140,1
+720,14.47759,-90.88907,304.6,0.47,0.4,2019-10-03,0724,N,nominal,1.0NRT,277.1,15.7,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,140,1
+721,14.47618,-90.87918,300.2,0.47,0.4,2019-10-03,0724,N,nominal,1.0NRT,275.8,3.6,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,140,1
+722,14.47324,-90.88451,332.9,0.47,0.4,2019-10-03,0724,N,nominal,1.0NRT,293.9,15.7,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,140,1
+723,14.47257,-90.87987,302.6,0.47,0.4,2019-10-03,0724,N,nominal,1.0NRT,278.9,3.6,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,140,1
+724,14.38509,-90.60136,331.5,0.45,0.39,2019-10-03,0724,N,nominal,1.0NRT,281.6,2.8,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,140,1
+725,14.38573,-90.60583,313.9,0.45,0.39,2019-10-03,0724,N,nominal,1.0NRT,281.5,2.7,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,140,1
+726,14.38153,-90.60197,328.5,0.45,0.39,2019-10-03,0724,N,nominal,1.0NRT,281.4,2.8,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,140,1
+727,14.38217,-90.60657,308.0,0.45,0.39,2019-10-03,0724,N,nominal,1.0NRT,280.7,2.7,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,140,1
+728,15.36347,-89.64362,330.3,0.42,0.61,2019-10-03,1830,N,nominal,1.0NRT,287.6,2.2,D,Alta Verapaz,Panzós,15.362832045379118,-89.63889395529169,Alta Verapaz,Panzos,Chicooc,Caserio,100,1
