@@ -76,6 +76,6 @@ id, latitude, longitude, bright_ti4, scan, track, acq_date, acq_time, satelite, 
 759,14.47501,-90.87965,337.1,0.54,0.42,2019-10-12,0754,N,nominal,1.0NRT,291.0,19.4,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,56,0
 760,14.4711,-90.88007,319.6,0.54,0.42,2019-10-12,0754,N,nominal,1.0NRT,277.1,19.4,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,56,0
 761,15.16243,-91.2724,328.8,0.51,0.41,2019-10-12,1900,N,nominal,1.0NRT,294.7,3.3,D,Totonicapán,Santa Lucía La Reforma,15.170520394424788,-91.26576636373156,Quiche,San Pedro Jocopilas,Chicacasigeran,Otra,56,0
-762,14.47409,-90.87971,323.1,0.38,0.36,2019-10-13,0736,N,nominal,1.0NRT,226.5,4.1,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,98,1
-763,14.38189,-90.61054,356.3,0.63,0.54,2019-10-13,1842,N,nominal,1.0NRT,287.6,29.8,D,Guatemala,Amatitlán,14.366894288655867,-90.6257411111477,Escuintla,San Vicente Pacaya,El Caracol,Caserio,73,1
-764,14.47251,-90.88608,339.1,0.33,0.55,2019-10-13,1842,N,nominal,1.0NRT,282.6,5.9,D,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,73,1
+762,14.47409,-90.87971,323.1,0.38,0.36,2019-10-13,0736,N,nominal,1.0NRT,226.5,4.1,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,99,1
+763,14.38189,-90.61054,356.3,0.63,0.54,2019-10-13,1842,N,nominal,1.0NRT,287.6,29.8,D,Guatemala,Amatitlán,14.366894288655867,-90.6257411111477,Escuintla,San Vicente Pacaya,El Caracol,Caserio,74,1
+764,14.47251,-90.88608,339.1,0.33,0.55,2019-10-13,1842,N,nominal,1.0NRT,282.6,5.9,D,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,74,1
