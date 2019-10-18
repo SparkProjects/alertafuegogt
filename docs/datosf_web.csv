@@ -79,7 +79,7 @@ id, latitude, longitude, bright_ti4, scan, track, acq_date, acq_time, satelite, 
 762,14.47409,-90.87971,323.1,0.38,0.36,2019-10-13,0736,N,nominal,1.0NRT,226.5,4.1,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,149,0
 763,14.38189,-90.61054,356.3,0.63,0.54,2019-10-13,1842,N,nominal,1.0NRT,287.6,29.8,D,Guatemala,Amatitlán,14.366894288655867,-90.6257411111477,Escuintla,San Vicente Pacaya,El Caracol,Caserio,124,0
 764,14.47251,-90.88608,339.1,0.33,0.55,2019-10-13,1842,N,nominal,1.0NRT,282.6,5.9,D,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,124,0
-765,15.89377,-89.95435,337.2,0.49,0.4,2019-10-16,1924,N,nominal,1.0NRT,296.6,7.7,D,Alta Verapaz,Fray Bartolomé De Las Casas,15.883055309835532,-89.94989560741375,Alta Verapaz,Fray Bartolome De Las Casas,Raudal Grande,Finca,113,1
-766,16.05578,-90.04422,347.0,0.48,0.4,2019-10-16,1924,N,nominal,1.0NRT,297.2,12.3,D,Petén,San Luis,16.0506518424456,-90.05437279055334,Peten,Sayaxche,La Fortuna,Finca,113,1
-767,16.10379,-89.96778,334.0,0.49,0.4,2019-10-16,1924,N,nominal,1.0NRT,297.4,4.9,D,Petén,San Luis,16.091786441483986,-89.97535274805746,Peten,Sayaxche,El Caoba,Caserio,113,1
-768,16.10317,-89.97236,332.1,0.49,0.4,2019-10-16,1924,N,nominal,1.0NRT,296.4,4.9,D,Petén,San Luis,16.091786441483986,-89.97535274805746,Peten,Sayaxche,El Caoba,Caserio,113,1
+765,15.89377,-89.95435,337.2,0.49,0.4,2019-10-16,1924,N,nominal,1.0NRT,296.6,7.7,D,Alta Verapaz,Fray Bartolomé De Las Casas,15.883055309835532,-89.94989560741375,Alta Verapaz,Fray Bartolome De Las Casas,Raudal Grande,Finca,114,1
+766,16.05578,-90.04422,347.0,0.48,0.4,2019-10-16,1924,N,nominal,1.0NRT,297.2,12.3,D,Petén,San Luis,16.0506518424456,-90.05437279055334,Peten,Sayaxche,La Fortuna,Finca,114,1
+767,16.10379,-89.96778,334.0,0.49,0.4,2019-10-16,1924,N,nominal,1.0NRT,297.4,4.9,D,Petén,San Luis,16.091786441483986,-89.97535274805746,Peten,Sayaxche,El Caoba,Caserio,114,1
+768,16.10317,-89.97236,332.1,0.49,0.4,2019-10-16,1924,N,nominal,1.0NRT,296.4,4.9,D,Petén,San Luis,16.091786441483986,-89.97535274805746,Peten,Sayaxche,El Caoba,Caserio,114,1
