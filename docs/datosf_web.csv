@@ -274,8 +274,8 @@ id, latitude, longitude, bright_ti4, scan, track, acq_date, acq_time, satelite, 
 957,15.9362,-90.95367,326.3,0.39,0.36,2019-10-22,1912,N,nominal,1.0NRT,296.0,3.1,D,Quiché,Ixcán,15.930798176900751,-90.95554180534522,Quiche,Ixcan,Santo Tomas,Parcelamiento,125,0
 958,16.21161,-89.17373,329.8,0.4,0.37,2019-10-22,1912,N,nominal,1.0NRT,297.0,4.3,D,Petén,Dolores,16.186844152535013,-89.2168279928066,Peten,San Luis,Santa Cruz Frontera,Caserio,125,0
 959,16.21633,-89.21244,333.9,0.4,0.37,2019-10-22,1912,N,nominal,1.0NRT,296.4,7.3,D,Petén,San Luis,16.211187427143997,-89.22421941832998,Peten,San Luis,San Francisco Moyejon,Caserio,125,0
-960,14.47743,-90.88203,306.6,0.45,0.39,2019-10-23,0748,N,nominal,1.0NRT,275.8,1.9,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,75,1
-961,14.47672,-90.87789,302.3,0.45,0.39,2019-10-23,0748,N,nominal,1.0NRT,275.1,1.9,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,75,1
-962,14.47386,-90.88254,329.2,0.45,0.39,2019-10-23,0748,N,nominal,1.0NRT,280.3,1.9,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,75,1
-963,14.47315,-90.8784,298.8,0.45,0.39,2019-10-23,0748,N,nominal,1.0NRT,275.9,1.9,N,Chimaltenango,Yepocapa,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,75,1
-964,14.47084,-90.88139,300.9,0.45,0.39,2019-10-23,0748,N,nominal,1.0NRT,276.4,0.9,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,75,1
+960,14.47743,-90.88203,306.6,0.45,0.39,2019-10-23,0748,N,nominal,1.0NRT,275.8,1.9,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,76,1
+961,14.47672,-90.87789,302.3,0.45,0.39,2019-10-23,0748,N,nominal,1.0NRT,275.1,1.9,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,76,1
+962,14.47386,-90.88254,329.2,0.45,0.39,2019-10-23,0748,N,nominal,1.0NRT,280.3,1.9,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,76,1
+963,14.47315,-90.8784,298.8,0.45,0.39,2019-10-23,0748,N,nominal,1.0NRT,275.9,1.9,N,Chimaltenango,Yepocapa,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,76,1
+964,14.47084,-90.88139,300.9,0.45,0.39,2019-10-23,0748,N,nominal,1.0NRT,276.4,0.9,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,76,1
