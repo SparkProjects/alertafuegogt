@@ -279,6 +279,6 @@ id, latitude, longitude, bright_ti4, scan, track, acq_date, acq_time, satelite, 
 962,14.47386,-90.88254,329.2,0.45,0.39,2019-10-23,0748,N,nominal,1.0NRT,280.3,1.9,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,169,0
 963,14.47315,-90.8784,298.8,0.45,0.39,2019-10-23,0748,N,nominal,1.0NRT,275.9,1.9,N,Chimaltenango,Yepocapa,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,169,0
 964,14.47084,-90.88139,300.9,0.45,0.39,2019-10-23,0748,N,nominal,1.0NRT,276.4,0.9,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,169,0
-965,14.47393,-90.88108,316.7,0.41,0.37,2019-10-24,0730,N,nominal,1.0NRT,267.7,1.2,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,81,1
-966,14.38356,-90.60105,328.5,0.4,0.37,2019-10-24,0730,N,nominal,1.0NRT,268.8,2.6,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,81,1
-967,15.7245,-89.02579,335.6,0.6,0.53,2019-10-24,1836,N,nominal,1.0NRT,289.6,5.3,D,Izabal,Livingston,15.728152953846076,-89.0176327357977,Izabal,Livingston,San Humberto,Hacienda,41,1
+965,14.47393,-90.88108,316.7,0.41,0.37,2019-10-24,0730,N,nominal,1.0NRT,267.7,1.2,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,82,1
+966,14.38356,-90.60105,328.5,0.4,0.37,2019-10-24,0730,N,nominal,1.0NRT,268.8,2.6,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,82,1
+967,15.7245,-89.02579,335.6,0.6,0.53,2019-10-24,1836,N,nominal,1.0NRT,289.6,5.3,D,Izabal,Livingston,15.728152953846076,-89.0176327357977,Izabal,Livingston,San Humberto,Hacienda,42,1
