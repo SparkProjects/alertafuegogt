@@ -293,16 +293,16 @@ id, latitude, longitude, bright_ti4, scan, track, acq_date, acq_time, satelite, 
 976,15.60445,-89.29869,344.9,0.56,0.69,2019-10-25,2000,N,nominal,1.0NRT,287.3,6.8,D,Izabal,El Estor,15.59673078953105,-89.29333229621076,Izabal,El Estor,Xalibenque,Otra,121,0
 977,15.60506,-89.30343,331.3,0.56,0.69,2019-10-25,2000,N,nominal,1.0NRT,288.1,6.6,D,Izabal,El Estor,15.61009547563483,-89.30876551033784,Izabal,El Estor,Sin Nombre,Finca,121,0
 978,16.2256,-89.76754,335.1,0.53,0.67,2019-10-25,2000,N,nominal,1.0NRT,290.7,5.2,D,Petén,San Luis,16.206120640948125,-89.80109666007044,Peten,San Luis,Santa Amelia Eloyan,Caserio,121,0
-979,14.73974,-91.56506,303.0,0.32,0.55,2019-10-27,0812,N,nominal,1.0NRT,280.2,1.5,N,Quetzaltenango,El Palmar,14.77331479727794,-91.5550714680634,Quetzaltenango,Quetzaltenango,Chuipach,Otra,34,1
-980,14.47599,-90.8733,342.9,0.37,0.58,2019-10-27,0812,N,nominal,1.0NRT,282.9,9.8,N,Sacatepéquez,Alotenango,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,34,1
-981,14.4736,-90.86158,352.7,0.37,0.58,2019-10-27,0812,N,nominal,1.0NRT,281.4,4.5,N,Sacatepéquez,Alotenango,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,34,1
-982,14.47161,-90.85184,304.6,0.37,0.58,2019-10-27,0812,N,nominal,1.0NRT,276.7,4.5,N,Sacatepéquez,Alotenango,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,34,1
-983,14.47025,-90.84515,297.9,0.37,0.58,2019-10-27,0812,N,nominal,1.0NRT,275.3,0.8,N,Sacatepéquez,Alotenango,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,34,1
-984,14.47468,-90.85822,295.6,0.37,0.58,2019-10-27,0812,N,nominal,1.0NRT,276.6,0.5,N,Sacatepéquez,Alotenango,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,34,1
-985,14.47302,-90.84963,296.5,0.37,0.58,2019-10-27,0812,N,nominal,1.0NRT,276.0,0.5,N,Sacatepéquez,Alotenango,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,34,1
-986,14.47209,-90.8732,367.0,0.37,0.58,2019-10-27,0812,N,high,1.0NRT,293.5,13.0,N,Sacatepéquez,Alotenango,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,34,1
-987,14.46949,-90.85973,353.8,0.37,0.58,2019-10-27,0812,N,nominal,1.0NRT,285.8,9.2,N,Sacatepéquez,Alotenango,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,34,1
-988,14.47339,-90.87989,305.5,0.37,0.58,2019-10-27,0812,N,nominal,1.0NRT,280.1,13.0,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,34,1
-989,14.46767,-90.85036,307.1,0.37,0.58,2019-10-27,0812,N,nominal,1.0NRT,279.1,9.2,N,Sacatepéquez,Alotenango,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,34,1
-990,14.46649,-90.84426,299.5,0.37,0.58,2019-10-27,0812,N,nominal,1.0NRT,279.1,1.3,N,Sacatepéquez,Alotenango,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,34,1
-991,14.38392,-90.59421,307.9,0.38,0.59,2019-10-27,0812,N,nominal,1.0NRT,277.9,1.6,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,34,1
+979,14.73974,-91.56506,303.0,0.32,0.55,2019-10-27,0812,N,nominal,1.0NRT,280.2,1.5,N,Quetzaltenango,El Palmar,14.77331479727794,-91.5550714680634,Quetzaltenango,Quetzaltenango,Chuipach,Otra,35,1
+980,14.47599,-90.8733,342.9,0.37,0.58,2019-10-27,0812,N,nominal,1.0NRT,282.9,9.8,N,Sacatepéquez,Alotenango,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,35,1
+981,14.4736,-90.86158,352.7,0.37,0.58,2019-10-27,0812,N,nominal,1.0NRT,281.4,4.5,N,Sacatepéquez,Alotenango,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,35,1
+982,14.47161,-90.85184,304.6,0.37,0.58,2019-10-27,0812,N,nominal,1.0NRT,276.7,4.5,N,Sacatepéquez,Alotenango,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,35,1
+983,14.47025,-90.84515,297.9,0.37,0.58,2019-10-27,0812,N,nominal,1.0NRT,275.3,0.8,N,Sacatepéquez,Alotenango,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,35,1
+984,14.47468,-90.85822,295.6,0.37,0.58,2019-10-27,0812,N,nominal,1.0NRT,276.6,0.5,N,Sacatepéquez,Alotenango,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,35,1
+985,14.47302,-90.84963,296.5,0.37,0.58,2019-10-27,0812,N,nominal,1.0NRT,276.0,0.5,N,Sacatepéquez,Alotenango,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,35,1
+986,14.47209,-90.8732,367.0,0.37,0.58,2019-10-27,0812,N,high,1.0NRT,293.5,13.0,N,Sacatepéquez,Alotenango,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,35,1
+987,14.46949,-90.85973,353.8,0.37,0.58,2019-10-27,0812,N,nominal,1.0NRT,285.8,9.2,N,Sacatepéquez,Alotenango,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,35,1
+988,14.47339,-90.87989,305.5,0.37,0.58,2019-10-27,0812,N,nominal,1.0NRT,280.1,13.0,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,35,1
+989,14.46767,-90.85036,307.1,0.37,0.58,2019-10-27,0812,N,nominal,1.0NRT,279.1,9.2,N,Sacatepéquez,Alotenango,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,35,1
+990,14.46649,-90.84426,299.5,0.37,0.58,2019-10-27,0812,N,nominal,1.0NRT,279.1,1.3,N,Sacatepéquez,Alotenango,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,35,1
+991,14.38392,-90.59421,307.9,0.38,0.59,2019-10-27,0812,N,nominal,1.0NRT,277.9,1.6,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,35,1
