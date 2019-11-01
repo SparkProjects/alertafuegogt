@@ -1,12 +1,12 @@
 id, latitude, longitude, bright_ti4, scan, track, acq_date, acq_time, satelite, confidence, version, bright_ti5, frp, daynight, departamento, municipio, lugarp_latitud, lugarp_longitud, lugarp_departamento, lugarp_municipio, lugarp_lugar, lugarp_categoria, tiempo_activo, visible
-1015,14.3829,-90.60063,340.9,0.55,0.51,2019-10-31,1948,N,nominal,1.0NRT,294.3,8.6,D,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,45,1
-1016,14.91929,-89.74102,327.7,0.32,0.54,2019-10-31,1948,N,nominal,1.0NRT,295.3,1.5,D,Zacapa,Cabañas,14.919197122132829,-89.75115833843991,Zacapa,Cabañas,El Naranjo,Finca,45,1
-1017,15.29497,-88.97135,332.6,0.36,0.58,2019-10-31,1948,N,nominal,1.0NRT,290.8,4.1,D,Izabal,Los Amates,15.308709003301717,-88.97227631278798,Izabal,Los Amates,Yuma,Finca,45,1
-1018,15.29295,-88.96948,331.7,0.36,0.58,2019-10-31,1948,N,nominal,1.0NRT,290.8,3.2,D,Izabal,Los Amates,15.280553779969818,-88.96819549427136,Izabal,Los Amates,Tepemechines,Caserio,45,1
-1019,15.25205,-89.66843,327.6,0.33,0.55,2019-10-31,1948,N,nominal,1.0NRT,293.2,3.9,D,Alta Verapaz,Panzós,15.24158284326355,-89.65768654919168,Alta Verapaz,Panzos,Rio Chiquito I,Caserio,45,1
-1020,15.31908,-89.44831,335.5,0.34,0.56,2019-10-31,1948,N,nominal,1.0NRT,292.9,2.5,D,Izabal,El Estor,15.320683028643645,-89.45591417224885,Izabal,El Estor,Chinebal,Caserio,45,1
-1021,15.33529,-89.53323,330.3,0.33,0.55,2019-10-31,1948,N,nominal,1.0NRT,290.7,2.2,D,Alta Verapaz,Panzós,15.346709822229533,-89.5399396738079,Alta Verapaz,Panzos,San Lucas,Caserio,45,1
-1022,15.33221,-89.53446,328.2,0.33,0.56,2019-10-31,1948,N,nominal,1.0NRT,293.0,1.6,D,Alta Verapaz,Panzós,15.321750991454019,-89.53405485535232,Izabal,El Estor,San Miguel,Finca,45,1
-1023,16.1572,-89.86826,330.5,0.32,0.55,2019-10-31,1948,N,nominal,1.0NRT,293.7,2.9,D,Petén,San Luis,16.157639794844272,-89.87743758352528,Peten,San Luis,San Jorge,Caserio,45,1
-1024,16.23149,-89.97153,367.0,0.32,0.55,2019-10-31,1948,N,high,1.0NRT,293.6,7.1,D,Petén,San Luis,16.212881474610736,-89.9884780689962,Peten,Sayaxche,Santa Fe,Finca,45,1
-1025,16.49259,-90.07393,327.9,0.64,0.54,2019-10-31,1948,N,nominal,1.0NRT,293.4,4.0,D,Petén,Sayaxché,16.492372852010973,-90.06272051336867,Peten,Sayaxche,El Resbalon,Otra,45,1
+1015,14.3829,-90.60063,340.9,0.55,0.51,2019-10-31,1948,N,nominal,1.0NRT,294.3,8.6,D,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,46,1
+1016,14.91929,-89.74102,327.7,0.32,0.54,2019-10-31,1948,N,nominal,1.0NRT,295.3,1.5,D,Zacapa,Cabañas,14.919197122132829,-89.75115833843991,Zacapa,Cabañas,El Naranjo,Finca,46,1
+1017,15.29497,-88.97135,332.6,0.36,0.58,2019-10-31,1948,N,nominal,1.0NRT,290.8,4.1,D,Izabal,Los Amates,15.308709003301717,-88.97227631278798,Izabal,Los Amates,Yuma,Finca,46,1
+1018,15.29295,-88.96948,331.7,0.36,0.58,2019-10-31,1948,N,nominal,1.0NRT,290.8,3.2,D,Izabal,Los Amates,15.280553779969818,-88.96819549427136,Izabal,Los Amates,Tepemechines,Caserio,46,1
+1019,15.25205,-89.66843,327.6,0.33,0.55,2019-10-31,1948,N,nominal,1.0NRT,293.2,3.9,D,Alta Verapaz,Panzós,15.24158284326355,-89.65768654919168,Alta Verapaz,Panzos,Rio Chiquito I,Caserio,46,1
+1020,15.31908,-89.44831,335.5,0.34,0.56,2019-10-31,1948,N,nominal,1.0NRT,292.9,2.5,D,Izabal,El Estor,15.320683028643645,-89.45591417224885,Izabal,El Estor,Chinebal,Caserio,46,1
+1021,15.33529,-89.53323,330.3,0.33,0.55,2019-10-31,1948,N,nominal,1.0NRT,290.7,2.2,D,Alta Verapaz,Panzós,15.346709822229533,-89.5399396738079,Alta Verapaz,Panzos,San Lucas,Caserio,46,1
+1022,15.33221,-89.53446,328.2,0.33,0.56,2019-10-31,1948,N,nominal,1.0NRT,293.0,1.6,D,Alta Verapaz,Panzós,15.321750991454019,-89.53405485535232,Izabal,El Estor,San Miguel,Finca,46,1
+1023,16.1572,-89.86826,330.5,0.32,0.55,2019-10-31,1948,N,nominal,1.0NRT,293.7,2.9,D,Petén,San Luis,16.157639794844272,-89.87743758352528,Peten,San Luis,San Jorge,Caserio,46,1
+1024,16.23149,-89.97153,367.0,0.32,0.55,2019-10-31,1948,N,high,1.0NRT,293.6,7.1,D,Petén,San Luis,16.212881474610736,-89.9884780689962,Peten,Sayaxche,Santa Fe,Finca,46,1
+1025,16.49259,-90.07393,327.9,0.64,0.54,2019-10-31,1948,N,nominal,1.0NRT,293.4,4.0,D,Petén,Sayaxché,16.492372852010973,-90.06272051336867,Peten,Sayaxche,El Resbalon,Otra,46,1
