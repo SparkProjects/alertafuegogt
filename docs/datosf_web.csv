@@ -32,9 +32,9 @@ id, latitude, longitude, bright_ti4, scan, track, acq_date, acq_time, satelite, 
 1045,14.26228,-91.39814,340.5,0.56,0.52,2019-11-03,1848,N,nominal,1.0NRT,293.2,17.3,D,Suchitepéquez,San José El Idolo,14.277648872576084,-91.39764245823073,Escuintla,Tiquisate,Los Rosales,Caserio,128,0
 1046,14.47129,-90.88636,353.9,0.52,0.5,2019-11-03,1848,N,nominal,1.0NRT,299.2,16.4,D,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,128,0
 1047,14.47586,-90.88705,339.7,0.52,0.5,2019-11-03,1848,N,nominal,1.0NRT,293.2,16.4,D,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,128,0
-1048,14.74059,-91.56861,295.8,0.51,0.41,2019-11-04,0724,N,nominal,1.0NRT,284.9,1.4,N,Quetzaltenango,El Palmar,14.77331479727794,-91.5550714680634,Quetzaltenango,Quetzaltenango,Chuipach,Otra,90,1
-1049,14.73688,-91.5696,313.1,0.51,0.41,2019-11-04,0724,N,nominal,1.0NRT,287.2,1.4,N,Quetzaltenango,El Palmar,14.699289802466105,-91.56956901877453,Quetzaltenango,El Palmar,San Jose,Finca,90,1
-1050,14.47649,-90.88564,339.0,0.47,0.4,2019-11-04,0724,N,nominal,1.0NRT,277.6,8.8,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,90,1
-1051,14.47581,-90.88081,334.3,0.47,0.4,2019-11-04,0724,N,nominal,1.0NRT,283.9,7.9,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,90,1
-1052,14.47289,-90.88638,337.2,0.47,0.4,2019-11-04,0724,N,nominal,1.0NRT,277.0,8.8,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,90,1
-1053,14.47221,-90.88155,337.2,0.47,0.4,2019-11-04,0724,N,nominal,1.0NRT,282.6,7.9,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,90,1
+1048,14.74059,-91.56861,295.8,0.51,0.41,2019-11-04,0724,N,nominal,1.0NRT,284.9,1.4,N,Quetzaltenango,El Palmar,14.77331479727794,-91.5550714680634,Quetzaltenango,Quetzaltenango,Chuipach,Otra,91,1
+1049,14.73688,-91.5696,313.1,0.51,0.41,2019-11-04,0724,N,nominal,1.0NRT,287.2,1.4,N,Quetzaltenango,El Palmar,14.699289802466105,-91.56956901877453,Quetzaltenango,El Palmar,San Jose,Finca,91,1
+1050,14.47649,-90.88564,339.0,0.47,0.4,2019-11-04,0724,N,nominal,1.0NRT,277.6,8.8,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,91,1
+1051,14.47581,-90.88081,334.3,0.47,0.4,2019-11-04,0724,N,nominal,1.0NRT,283.9,7.9,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,91,1
+1052,14.47289,-90.88638,337.2,0.47,0.4,2019-11-04,0724,N,nominal,1.0NRT,277.0,8.8,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,91,1
+1053,14.47221,-90.88155,337.2,0.47,0.4,2019-11-04,0724,N,nominal,1.0NRT,282.6,7.9,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,91,1
