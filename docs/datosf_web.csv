@@ -85,7 +85,7 @@ id, latitude, longitude, bright_ti4, scan, track, acq_date, acq_time, satelite, 
 1098,14.19684,-91.34583,332.4,0.44,0.46,2019-11-08,1854,N,nominal,1.0NRT,300.2,5.8,D,Escuintla,Tiquisate,14.195780081654396,-91.35905024926946,Escuintla,Tiquisate,Concepcion Maria,Hacienda,122,0
 1099,14.47321,-90.88456,342.3,0.41,0.45,2019-11-08,1854,N,nominal,1.0NRT,289.1,10.7,D,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,122,0
 1100,14.8051,-92.08257,333.3,0.48,0.48,2019-11-08,1854,N,nominal,1.0NRT,295.6,6.0,D,San Marcos,Ayutla,14.804414233584465,-92.07359224701462,San Marcos,Catarina,San Juan Melendrez,Aldea,122,0
-1101,14.38542,-90.60185,316.6,0.4,0.37,2019-11-09,0730,N,nominal,1.0NRT,281.3,2.0,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,84,1
-1102,14.38206,-90.60242,329.3,0.4,0.37,2019-11-09,0730,N,nominal,1.0NRT,281.7,2.0,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,84,1
-1103,14.02065,-90.51862,346.8,0.4,0.6,2019-11-09,1836,N,nominal,1.0NRT,296.9,7.4,D,Santa Rosa,Taxisco,14.022529864514597,-90.51422374342307,Santa Rosa,Taxisco,La Beata,Hacienda,39,1
-1104,14.46965,-90.90292,367.0,0.42,0.61,2019-11-09,1836,N,high,1.0NRT,299.1,18.9,D,Chimaltenango,Yepocapa,14.43325590557564,-90.9354287796822,Chimaltenango,Yepocapa,San Francisco Panimache,Finca,39,1
+1101,14.38542,-90.60185,316.6,0.4,0.37,2019-11-09,0730,N,nominal,1.0NRT,281.3,2.0,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,85,1
+1102,14.38206,-90.60242,329.3,0.4,0.37,2019-11-09,0730,N,nominal,1.0NRT,281.7,2.0,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,85,1
+1103,14.02065,-90.51862,346.8,0.4,0.6,2019-11-09,1836,N,nominal,1.0NRT,296.9,7.4,D,Santa Rosa,Taxisco,14.022529864514597,-90.51422374342307,Santa Rosa,Taxisco,La Beata,Hacienda,40,1
+1104,14.46965,-90.90292,367.0,0.42,0.61,2019-11-09,1836,N,high,1.0NRT,299.1,18.9,D,Chimaltenango,Yepocapa,14.43325590557564,-90.9354287796822,Chimaltenango,Yepocapa,San Francisco Panimache,Finca,40,1
