@@ -691,55 +691,55 @@ id, latitude, longitude, bright_ti4, scan, track, acq_date, acq_time, satelite, 
 1889,14.47028,-91.42735,332.9,0.56,0.52,2019-12-21,1848,N,nominal,1.0NRT,295.9,4.9,D,Suchitepéquez,San Antonio Suchitepéquez,14.467607632264377,-91.43220156884242,Suchitepequez,San Antonio Suchitepequez,La Colonia,Finca,132,0
 1890,14.47172,-91.42494,327.7,0.56,0.52,2019-12-21,1848,N,nominal,1.0NRT,294.6,2.4,D,Suchitepéquez,San Antonio Suchitepéquez,14.47516157590734,-91.43020000687355,Suchitepequez,San Jose El Idolo,San Ramon,Aldea,132,0
 1891,14.54025,-91.39857,334.9,0.56,0.51,2019-12-21,1848,N,nominal,1.0NRT,293.2,5.1,D,Suchitepéquez,Chicacao,14.5393582847966,-91.39741774126537,Suchitepequez,San Antonio Suchitepequez,Bella Isla,Finca,132,0
-1892,14.73465,-90.70164,297.7,0.46,0.39,2019-12-22,0718,N,nominal,1.0NRT,282.2,1.0,N,Chimaltenango,San Martín Jilotepeque,14.727912029094655,-90.69702161116032,Guatemala,San Juan Sacatepequez,San Jose Ocana,Otra,148,1
-1893,14.68079,-90.81874,302.6,0.47,0.4,2019-12-22,0718,N,nominal,1.0NRT,283.8,0.8,N,Chimaltenango,Zaragoza,14.69137928825058,-90.82225433319694,Chimaltenango,Chimaltenango,San Rafael,Labor,148,1
-1894,14.74077,-91.56862,295.7,0.51,0.41,2019-12-22,0718,N,nominal,1.0NRT,281.3,1.0,N,Quetzaltenango,El Palmar,14.77331479727794,-91.5550714680634,Quetzaltenango,Quetzaltenango,Chuipach,Otra,148,1
-1895,14.73704,-91.56958,307.2,0.51,0.41,2019-12-22,0718,N,nominal,1.0NRT,282.3,1.0,N,Quetzaltenango,El Palmar,14.699289802466105,-91.56956901877453,Quetzaltenango,El Palmar,San Jose,Finca,148,1
-1896,14.47449,-90.88384,331.3,0.47,0.4,2019-12-22,0718,N,nominal,1.0NRT,306.6,25.9,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,148,1
-1897,14.47382,-90.87923,295.8,0.47,0.4,2019-12-22,0718,N,nominal,1.0NRT,279.8,25.9,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,148,1
-1898,14.4709,-90.8847,315.4,0.47,0.4,2019-12-22,0718,N,nominal,1.0NRT,280.3,25.9,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,148,1
-1899,14.38243,-90.60083,329.3,0.46,0.39,2019-12-22,0718,N,nominal,1.0NRT,282.8,6.1,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,148,1
-1900,14.38305,-90.60526,308.8,0.46,0.39,2019-12-22,0718,N,nominal,1.0NRT,279.8,6.1,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,148,1
-1901,13.99967,-90.55189,335.6,0.52,0.66,2019-12-22,1830,N,nominal,1.0NRT,293.8,5.2,D,Santa Rosa,Taxisco,14.001799635880314,-90.54899875264996,Santa Rosa,Taxisco,El Panal,Finca,108,1
-1902,14.13134,-90.71239,343.1,0.52,0.67,2019-12-22,1830,N,nominal,1.0NRT,294.8,6.2,D,Escuintla,Guanagazapa,14.140351697105922,-90.7473753608119,Escuintla,Guanagazapa,El Coco I,Finca,108,1
-1903,14.1375,-90.7136,348.3,0.52,0.67,2019-12-22,1830,N,nominal,1.0NRT,294.2,7.2,D,Escuintla,Guanagazapa,14.17118547207938,-90.7167847581575,Escuintla,Guanagazapa,Nueva Esperanza,Finca,108,1
-1904,14.23223,-91.15396,341.2,0.56,0.69,2019-12-22,1830,N,nominal,1.0NRT,288.2,6.1,D,Suchitepéquez,Patulul,14.243087148031085,-91.16285562309662,Suchitepequez,Patulul,El Jabali,Hacienda,108,1
-1905,14.24787,-90.96758,326.6,0.54,0.68,2019-12-22,1830,N,nominal,1.0NRT,294.4,7.7,D,Escuintla,La Democracia,14.24315154608521,-90.96764868474912,Escuintla,La Democracia,La Florida,Finca,108,1
-1906,14.23409,-91.15493,334.5,0.56,0.69,2019-12-22,1830,N,nominal,1.0NRT,288.2,3.8,D,Suchitepéquez,Patulul,14.243087148031085,-91.16285562309662,Suchitepequez,Patulul,El Jabali,Hacienda,108,1
-1907,14.37951,-90.61681,367.0,0.51,0.66,2019-12-22,1830,N,high,1.0NRT,296.0,23.6,D,Escuintla,San Vicente Pacaya,14.366894288655867,-90.6257411111477,Escuintla,San Vicente Pacaya,El Caracol,Caserio,108,1
-1908,14.18871,-90.82055,336.9,0.69,0.74,2019-12-22,2012,N,nominal,1.0NRT,291.0,4.1,D,Escuintla,Escuintla,14.194484041395153,-90.8226451431761,Escuintla,Masagua,Las Acacias,Finca,100,1
-1909,14.25038,-90.96666,328.7,0.68,0.74,2019-12-22,2012,N,nominal,1.0NRT,291.8,4.1,D,Escuintla,La Democracia,14.24315154608521,-90.96764868474912,Escuintla,La Democracia,La Florida,Finca,100,1
-1910,14.38582,-90.59357,338.9,0.73,0.76,2019-12-22,2012,N,nominal,1.0NRT,290.9,15.2,D,Guatemala,Amatitlán,14.408724032413957,-90.5961304298555,Guatemala,Amatitlan,Calderas,Aldea,100,1
-1911,14.38322,-90.59068,344.1,0.73,0.76,2019-12-22,2012,N,nominal,1.0NRT,291.0,16.8,D,Guatemala,Amatitlán,14.408724032413957,-90.5961304298555,Guatemala,Amatitlan,Calderas,Aldea,100,1
-1912,14.73859,-91.571,310.3,0.34,0.56,2019-12-23,0700,N,nominal,1.0NRT,288.8,1.4,N,Quetzaltenango,El Palmar,14.77331479727794,-91.5550714680634,Quetzaltenango,Quetzaltenango,Chuipach,Otra,7,1
-1913,14.47538,-90.89809,343.5,0.61,0.54,2019-12-23,0700,N,nominal,1.0NRT,276.9,20.0,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,7,1
-1914,14.47373,-90.88474,328.7,0.61,0.54,2019-12-23,0700,N,nominal,1.0NRT,292.1,20.7,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,7,1
-1915,14.47694,-90.91069,300.2,0.61,0.54,2019-12-23,0700,N,nominal,1.0NRT,277.5,20.0,N,Chimaltenango,Yepocapa,14.503226142188892,-90.94718655356026,Chimaltenango,Yepocapa,La Cabana,Caserio,7,1
-1916,14.47292,-90.87817,304.0,0.61,0.54,2019-12-23,0700,N,nominal,1.0NRT,278.5,20.7,N,Chimaltenango,Yepocapa,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,7,1
-1917,14.47059,-90.89992,300.3,0.61,0.54,2019-12-23,0700,N,nominal,1.0NRT,276.0,1.4,N,Chimaltenango,Yepocapa,14.43325590557564,-90.9354287796822,Chimaltenango,Yepocapa,San Francisco Panimache,Finca,7,1
-1918,14.46908,-90.88773,306.9,0.61,0.54,2019-12-23,0700,N,nominal,1.0NRT,277.5,1.1,N,Chimaltenango,Yepocapa,14.43325590557564,-90.9354287796822,Chimaltenango,Yepocapa,San Francisco Panimache,Finca,7,1
-1919,14.37952,-90.60284,300.6,0.59,0.52,2019-12-23,0700,N,nominal,1.0NRT,281.4,1.5,N,Guatemala,Villa Canales,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,7,1
-1920,14.05915,-91.05937,310.2,0.62,0.54,2019-12-23,0700,N,nominal,1.0NRT,291.0,2.5,N,Escuintla,La Gomera,14.058372654908291,-91.05548986807601,Escuintla,La Gomera,Lourdes,Finca,7,1
-1921,14.05489,-91.06586,327.0,0.62,0.54,2019-12-23,0700,N,nominal,1.0NRT,291.0,16.0,N,Escuintla,La Gomera,14.049193528000432,-91.06439182772128,Escuintla,La Gomera,El Caulote,Otra,7,1
-1922,14.05417,-91.06005,339.0,0.62,0.54,2019-12-23,0700,N,nominal,1.0NRT,292.3,16.0,N,Escuintla,La Gomera,14.058372654908291,-91.05548986807601,Escuintla,La Gomera,Lourdes,Finca,7,1
-1923,14.42597,-91.46457,341.2,0.61,0.54,2019-12-23,1954,N,nominal,1.0NRT,298.4,8.7,D,Suchitepéquez,Santo Domingo Suchitepéquez,14.431356979461079,-91.46844219028016,Suchitepequez,Santo Domingo Suchitepequez,La Florida,Finca,4,1
-1924,15.02048,-89.34767,348.1,0.43,0.62,2019-12-23,1954,N,nominal,1.0NRT,289.6,4.9,D,Zacapa,Zacapa,15.023944260106122,-89.35171816842534,Zacapa,Zacapa,Quebrada De La Vega,Caserio,4,1
-1925,15.12404,-89.20618,327.9,0.44,0.62,2019-12-23,1954,N,nominal,1.0NRT,287.9,2.3,D,Zacapa,Gualán,15.136952397141053,-89.20316453394133,Zacapa,Gualan,Guapinol,Aldea,4,1
-1926,13.92247,-90.52732,367.0,0.35,0.57,2019-12-23,1948,N,high,1.0NRT,298.0,5.7,D,Santa Rosa,Taxisco,13.910439306718098,-90.53169724024099,Santa Rosa,Taxisco,El Banco,Caserio,4,1
-1927,13.99965,-90.68591,337.1,0.34,0.56,2019-12-23,1948,N,nominal,1.0NRT,297.7,4.2,D,Escuintla,Iztapa,13.999008226357798,-90.68339609460413,Escuintla,Iztapa,Guiscoyol Centro Urbano,Colonia,4,1
-1928,14.00521,-90.68336,367.0,0.34,0.56,2019-12-23,1948,N,high,1.0NRT,299.7,14.1,D,Escuintla,Iztapa,14.007113890340696,-90.68027004976534,Escuintla,Iztapa,Santa Gregoria,Finca,4,1
-1929,14.00484,-90.68654,351.3,0.34,0.56,2019-12-23,1948,N,nominal,1.0NRT,297.8,14.1,D,Escuintla,Iztapa,13.999008226357798,-90.68339609460413,Escuintla,Iztapa,Guiscoyol Centro Urbano,Colonia,4,1
-1930,13.97178,-91.2681,334.5,0.62,0.54,2019-12-23,1948,N,nominal,1.0NRT,299.9,6.8,D,Escuintla,La Gomera,13.961698921389408,-91.26987083170987,Escuintla,La Gomera,Santa Elena Tikal,Finca,4,1
-1931,14.0554,-91.20909,340.3,0.63,0.54,2019-12-23,1948,N,nominal,1.0NRT,296.9,8.3,D,Escuintla,La Gomera,14.04332392091419,-91.20662452173089,Escuintla,La Gomera,Finca Cantoira Los Turines,Finca,4,1
-1932,14.15528,-90.89189,348.2,0.33,0.55,2019-12-23,1948,N,nominal,1.0NRT,296.8,4.6,D,Escuintla,Escuintla,14.152940179322822,-90.89107112887946,Escuintla,Masagua,Malaga,Caserio,4,1
-1933,14.15745,-90.89318,343.8,0.33,0.55,2019-12-23,1948,N,nominal,1.0NRT,296.6,4.8,D,Escuintla,Escuintla,14.152940179322822,-90.89107112887946,Escuintla,Masagua,Malaga,Caserio,4,1
-1934,14.16236,-91.49861,332.8,0.6,0.53,2019-12-23,1948,N,nominal,1.0NRT,299.5,7.3,D,Suchitepéquez,Santo Domingo Suchitepéquez,14.158291167314232,-91.51321488287817,Suchitepequez,Santo Domingo Suchitepequez,Los Alamos (Anexo Finca ),Otra,4,1
-1935,14.26235,-90.84361,347.8,0.33,0.56,2019-12-23,1948,N,nominal,1.0NRT,296.9,7.7,D,Escuintla,Escuintla,14.268549983789784,-90.85319467312131,Escuintla,Escuintla,El Esfuerzo,Finca,4,1
-1936,14.26198,-90.84669,343.9,0.33,0.56,2019-12-23,1948,N,nominal,1.0NRT,295.9,3.3,D,Escuintla,Escuintla,14.268549983789784,-90.85319467312131,Escuintla,Escuintla,El Esfuerzo,Finca,4,1
-1937,14.2646,-90.84241,332.4,0.33,0.56,2019-12-23,1948,N,nominal,1.0NRT,295.9,2.7,D,Escuintla,Escuintla,14.274404988948243,-90.83974870027824,Escuintla,Escuintla,Arcos De Provincia,Finca,4,1
-1938,14.26425,-90.84548,337.6,0.33,0.56,2019-12-23,1948,N,nominal,1.0NRT,295.3,2.7,D,Escuintla,Escuintla,14.268549983789784,-90.85319467312131,Escuintla,Escuintla,El Esfuerzo,Finca,4,1
-1939,14.38269,-90.59668,367.0,0.35,0.57,2019-12-23,1948,N,high,1.0NRT,304.6,18.7,D,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,4,1
-1940,14.38228,-90.60009,352.2,0.35,0.57,2019-12-23,1948,N,nominal,1.0NRT,304.7,18.7,D,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,4,1
-1941,14.31886,-91.34015,331.9,0.62,0.54,2019-12-23,1948,N,nominal,1.0NRT,297.9,4.3,D,Suchitepéquez,Río Bravo,14.303518892789834,-91.33126854201338,Escuintla,Tiquisate,San Jose El Carmen,Finca,4,1
-1942,14.31913,-91.33722,337.2,0.62,0.54,2019-12-23,1948,N,nominal,1.0NRT,298.7,8.7,D,Suchitepéquez,Río Bravo,14.303518892789834,-91.33126854201338,Escuintla,Tiquisate,San Jose El Carmen,Finca,4,1
-1943,14.42449,-91.46775,340.1,0.61,0.53,2019-12-23,1948,N,nominal,1.0NRT,297.3,4.9,D,Suchitepéquez,Santo Domingo Suchitepéquez,14.431356979461079,-91.46844219028016,Suchitepequez,Santo Domingo Suchitepequez,La Florida,Finca,4,1
+1892,14.73465,-90.70164,297.7,0.46,0.39,2019-12-22,0718,N,nominal,1.0NRT,282.2,1.0,N,Chimaltenango,San Martín Jilotepeque,14.727912029094655,-90.69702161116032,Guatemala,San Juan Sacatepequez,San Jose Ocana,Otra,149,1
+1893,14.68079,-90.81874,302.6,0.47,0.4,2019-12-22,0718,N,nominal,1.0NRT,283.8,0.8,N,Chimaltenango,Zaragoza,14.69137928825058,-90.82225433319694,Chimaltenango,Chimaltenango,San Rafael,Labor,149,1
+1894,14.74077,-91.56862,295.7,0.51,0.41,2019-12-22,0718,N,nominal,1.0NRT,281.3,1.0,N,Quetzaltenango,El Palmar,14.77331479727794,-91.5550714680634,Quetzaltenango,Quetzaltenango,Chuipach,Otra,149,1
+1895,14.73704,-91.56958,307.2,0.51,0.41,2019-12-22,0718,N,nominal,1.0NRT,282.3,1.0,N,Quetzaltenango,El Palmar,14.699289802466105,-91.56956901877453,Quetzaltenango,El Palmar,San Jose,Finca,149,1
+1896,14.47449,-90.88384,331.3,0.47,0.4,2019-12-22,0718,N,nominal,1.0NRT,306.6,25.9,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,149,1
+1897,14.47382,-90.87923,295.8,0.47,0.4,2019-12-22,0718,N,nominal,1.0NRT,279.8,25.9,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,149,1
+1898,14.4709,-90.8847,315.4,0.47,0.4,2019-12-22,0718,N,nominal,1.0NRT,280.3,25.9,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,149,1
+1899,14.38243,-90.60083,329.3,0.46,0.39,2019-12-22,0718,N,nominal,1.0NRT,282.8,6.1,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,149,1
+1900,14.38305,-90.60526,308.8,0.46,0.39,2019-12-22,0718,N,nominal,1.0NRT,279.8,6.1,N,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,149,1
+1901,13.99967,-90.55189,335.6,0.52,0.66,2019-12-22,1830,N,nominal,1.0NRT,293.8,5.2,D,Santa Rosa,Taxisco,14.001799635880314,-90.54899875264996,Santa Rosa,Taxisco,El Panal,Finca,109,1
+1902,14.13134,-90.71239,343.1,0.52,0.67,2019-12-22,1830,N,nominal,1.0NRT,294.8,6.2,D,Escuintla,Guanagazapa,14.140351697105922,-90.7473753608119,Escuintla,Guanagazapa,El Coco I,Finca,109,1
+1903,14.1375,-90.7136,348.3,0.52,0.67,2019-12-22,1830,N,nominal,1.0NRT,294.2,7.2,D,Escuintla,Guanagazapa,14.17118547207938,-90.7167847581575,Escuintla,Guanagazapa,Nueva Esperanza,Finca,109,1
+1904,14.23223,-91.15396,341.2,0.56,0.69,2019-12-22,1830,N,nominal,1.0NRT,288.2,6.1,D,Suchitepéquez,Patulul,14.243087148031085,-91.16285562309662,Suchitepequez,Patulul,El Jabali,Hacienda,109,1
+1905,14.24787,-90.96758,326.6,0.54,0.68,2019-12-22,1830,N,nominal,1.0NRT,294.4,7.7,D,Escuintla,La Democracia,14.24315154608521,-90.96764868474912,Escuintla,La Democracia,La Florida,Finca,109,1
+1906,14.23409,-91.15493,334.5,0.56,0.69,2019-12-22,1830,N,nominal,1.0NRT,288.2,3.8,D,Suchitepéquez,Patulul,14.243087148031085,-91.16285562309662,Suchitepequez,Patulul,El Jabali,Hacienda,109,1
+1907,14.37951,-90.61681,367.0,0.51,0.66,2019-12-22,1830,N,high,1.0NRT,296.0,23.6,D,Escuintla,San Vicente Pacaya,14.366894288655867,-90.6257411111477,Escuintla,San Vicente Pacaya,El Caracol,Caserio,109,1
+1908,14.18871,-90.82055,336.9,0.69,0.74,2019-12-22,2012,N,nominal,1.0NRT,291.0,4.1,D,Escuintla,Escuintla,14.194484041395153,-90.8226451431761,Escuintla,Masagua,Las Acacias,Finca,101,1
+1909,14.25038,-90.96666,328.7,0.68,0.74,2019-12-22,2012,N,nominal,1.0NRT,291.8,4.1,D,Escuintla,La Democracia,14.24315154608521,-90.96764868474912,Escuintla,La Democracia,La Florida,Finca,101,1
+1910,14.38582,-90.59357,338.9,0.73,0.76,2019-12-22,2012,N,nominal,1.0NRT,290.9,15.2,D,Guatemala,Amatitlán,14.408724032413957,-90.5961304298555,Guatemala,Amatitlan,Calderas,Aldea,101,1
+1911,14.38322,-90.59068,344.1,0.73,0.76,2019-12-22,2012,N,nominal,1.0NRT,291.0,16.8,D,Guatemala,Amatitlán,14.408724032413957,-90.5961304298555,Guatemala,Amatitlan,Calderas,Aldea,101,1
+1912,14.73859,-91.571,310.3,0.34,0.56,2019-12-23,0700,N,nominal,1.0NRT,288.8,1.4,N,Quetzaltenango,El Palmar,14.77331479727794,-91.5550714680634,Quetzaltenango,Quetzaltenango,Chuipach,Otra,8,1
+1913,14.47538,-90.89809,343.5,0.61,0.54,2019-12-23,0700,N,nominal,1.0NRT,276.9,20.0,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,8,1
+1914,14.47373,-90.88474,328.7,0.61,0.54,2019-12-23,0700,N,nominal,1.0NRT,292.1,20.7,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,8,1
+1915,14.47694,-90.91069,300.2,0.61,0.54,2019-12-23,0700,N,nominal,1.0NRT,277.5,20.0,N,Chimaltenango,Yepocapa,14.503226142188892,-90.94718655356026,Chimaltenango,Yepocapa,La Cabana,Caserio,8,1
+1916,14.47292,-90.87817,304.0,0.61,0.54,2019-12-23,0700,N,nominal,1.0NRT,278.5,20.7,N,Chimaltenango,Yepocapa,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,8,1
+1917,14.47059,-90.89992,300.3,0.61,0.54,2019-12-23,0700,N,nominal,1.0NRT,276.0,1.4,N,Chimaltenango,Yepocapa,14.43325590557564,-90.9354287796822,Chimaltenango,Yepocapa,San Francisco Panimache,Finca,8,1
+1918,14.46908,-90.88773,306.9,0.61,0.54,2019-12-23,0700,N,nominal,1.0NRT,277.5,1.1,N,Chimaltenango,Yepocapa,14.43325590557564,-90.9354287796822,Chimaltenango,Yepocapa,San Francisco Panimache,Finca,8,1
+1919,14.37952,-90.60284,300.6,0.59,0.52,2019-12-23,0700,N,nominal,1.0NRT,281.4,1.5,N,Guatemala,Villa Canales,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,8,1
+1920,14.05915,-91.05937,310.2,0.62,0.54,2019-12-23,0700,N,nominal,1.0NRT,291.0,2.5,N,Escuintla,La Gomera,14.058372654908291,-91.05548986807601,Escuintla,La Gomera,Lourdes,Finca,8,1
+1921,14.05489,-91.06586,327.0,0.62,0.54,2019-12-23,0700,N,nominal,1.0NRT,291.0,16.0,N,Escuintla,La Gomera,14.049193528000432,-91.06439182772128,Escuintla,La Gomera,El Caulote,Otra,8,1
+1922,14.05417,-91.06005,339.0,0.62,0.54,2019-12-23,0700,N,nominal,1.0NRT,292.3,16.0,N,Escuintla,La Gomera,14.058372654908291,-91.05548986807601,Escuintla,La Gomera,Lourdes,Finca,8,1
+1923,14.42597,-91.46457,341.2,0.61,0.54,2019-12-23,1954,N,nominal,1.0NRT,298.4,8.7,D,Suchitepéquez,Santo Domingo Suchitepéquez,14.431356979461079,-91.46844219028016,Suchitepequez,Santo Domingo Suchitepequez,La Florida,Finca,5,1
+1924,15.02048,-89.34767,348.1,0.43,0.62,2019-12-23,1954,N,nominal,1.0NRT,289.6,4.9,D,Zacapa,Zacapa,15.023944260106122,-89.35171816842534,Zacapa,Zacapa,Quebrada De La Vega,Caserio,5,1
+1925,15.12404,-89.20618,327.9,0.44,0.62,2019-12-23,1954,N,nominal,1.0NRT,287.9,2.3,D,Zacapa,Gualán,15.136952397141053,-89.20316453394133,Zacapa,Gualan,Guapinol,Aldea,5,1
+1926,13.92247,-90.52732,367.0,0.35,0.57,2019-12-23,1948,N,high,1.0NRT,298.0,5.7,D,Santa Rosa,Taxisco,13.910439306718098,-90.53169724024099,Santa Rosa,Taxisco,El Banco,Caserio,5,1
+1927,13.99965,-90.68591,337.1,0.34,0.56,2019-12-23,1948,N,nominal,1.0NRT,297.7,4.2,D,Escuintla,Iztapa,13.999008226357798,-90.68339609460413,Escuintla,Iztapa,Guiscoyol Centro Urbano,Colonia,5,1
+1928,14.00521,-90.68336,367.0,0.34,0.56,2019-12-23,1948,N,high,1.0NRT,299.7,14.1,D,Escuintla,Iztapa,14.007113890340696,-90.68027004976534,Escuintla,Iztapa,Santa Gregoria,Finca,5,1
+1929,14.00484,-90.68654,351.3,0.34,0.56,2019-12-23,1948,N,nominal,1.0NRT,297.8,14.1,D,Escuintla,Iztapa,13.999008226357798,-90.68339609460413,Escuintla,Iztapa,Guiscoyol Centro Urbano,Colonia,5,1
+1930,13.97178,-91.2681,334.5,0.62,0.54,2019-12-23,1948,N,nominal,1.0NRT,299.9,6.8,D,Escuintla,La Gomera,13.961698921389408,-91.26987083170987,Escuintla,La Gomera,Santa Elena Tikal,Finca,5,1
+1931,14.0554,-91.20909,340.3,0.63,0.54,2019-12-23,1948,N,nominal,1.0NRT,296.9,8.3,D,Escuintla,La Gomera,14.04332392091419,-91.20662452173089,Escuintla,La Gomera,Finca Cantoira Los Turines,Finca,5,1
+1932,14.15528,-90.89189,348.2,0.33,0.55,2019-12-23,1948,N,nominal,1.0NRT,296.8,4.6,D,Escuintla,Escuintla,14.152940179322822,-90.89107112887946,Escuintla,Masagua,Malaga,Caserio,5,1
+1933,14.15745,-90.89318,343.8,0.33,0.55,2019-12-23,1948,N,nominal,1.0NRT,296.6,4.8,D,Escuintla,Escuintla,14.152940179322822,-90.89107112887946,Escuintla,Masagua,Malaga,Caserio,5,1
+1934,14.16236,-91.49861,332.8,0.6,0.53,2019-12-23,1948,N,nominal,1.0NRT,299.5,7.3,D,Suchitepéquez,Santo Domingo Suchitepéquez,14.158291167314232,-91.51321488287817,Suchitepequez,Santo Domingo Suchitepequez,Los Alamos (Anexo Finca ),Otra,5,1
+1935,14.26235,-90.84361,347.8,0.33,0.56,2019-12-23,1948,N,nominal,1.0NRT,296.9,7.7,D,Escuintla,Escuintla,14.268549983789784,-90.85319467312131,Escuintla,Escuintla,El Esfuerzo,Finca,5,1
+1936,14.26198,-90.84669,343.9,0.33,0.56,2019-12-23,1948,N,nominal,1.0NRT,295.9,3.3,D,Escuintla,Escuintla,14.268549983789784,-90.85319467312131,Escuintla,Escuintla,El Esfuerzo,Finca,5,1
+1937,14.2646,-90.84241,332.4,0.33,0.56,2019-12-23,1948,N,nominal,1.0NRT,295.9,2.7,D,Escuintla,Escuintla,14.274404988948243,-90.83974870027824,Escuintla,Escuintla,Arcos De Provincia,Finca,5,1
+1938,14.26425,-90.84548,337.6,0.33,0.56,2019-12-23,1948,N,nominal,1.0NRT,295.3,2.7,D,Escuintla,Escuintla,14.268549983789784,-90.85319467312131,Escuintla,Escuintla,El Esfuerzo,Finca,5,1
+1939,14.38269,-90.59668,367.0,0.35,0.57,2019-12-23,1948,N,high,1.0NRT,304.6,18.7,D,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,5,1
+1940,14.38228,-90.60009,352.2,0.35,0.57,2019-12-23,1948,N,nominal,1.0NRT,304.7,18.7,D,Guatemala,Amatitlán,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,5,1
+1941,14.31886,-91.34015,331.9,0.62,0.54,2019-12-23,1948,N,nominal,1.0NRT,297.9,4.3,D,Suchitepéquez,Río Bravo,14.303518892789834,-91.33126854201338,Escuintla,Tiquisate,San Jose El Carmen,Finca,5,1
+1942,14.31913,-91.33722,337.2,0.62,0.54,2019-12-23,1948,N,nominal,1.0NRT,298.7,8.7,D,Suchitepéquez,Río Bravo,14.303518892789834,-91.33126854201338,Escuintla,Tiquisate,San Jose El Carmen,Finca,5,1
+1943,14.42449,-91.46775,340.1,0.61,0.53,2019-12-23,1948,N,nominal,1.0NRT,297.3,4.9,D,Suchitepéquez,Santo Domingo Suchitepéquez,14.431356979461079,-91.46844219028016,Suchitepequez,Santo Domingo Suchitepequez,La Florida,Finca,5,1
