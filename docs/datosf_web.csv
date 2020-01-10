@@ -288,102 +288,102 @@ id, latitude, longitude, bright_ti4, scan, track, acq_date, acq_time, satelite, 
 2585,14.36929,-91.68857,346.9,0.61,0.71,2020-01-07,2012,N,nominal,1.0NRT,292.2,6.4,D,Suchitepéquez,Cuyotenango,14.359039981609085,-91.65422597245256,Retalhuleu,San Andres Villa Seca,Entre Rios,Finca,125,0,0,
 2586,14.37647,-91.68349,329.3,0.61,0.71,2020-01-07,2012,N,nominal,1.0NRT,291.7,2.9,D,Suchitepéquez,Cuyotenango,14.406133120424956,-91.6795040035901,Retalhuleu,Santa Cruz Mulua,Cafetal Soledad,Finca,125,0,0,
 2587,14.48098,-90.82803,367.0,0.7,0.75,2020-01-07,2012,N,high,1.0NRT,292.9,22.2,D,Sacatepéquez,Alotenango,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,125,0,1,Volcán Fuego
-2588,14.73945,-91.5704,314.5,0.35,0.56,2020-01-08,0700,N,nominal,1.0NRT,288.6,2.0,N,Quetzaltenango,El Palmar,14.77331479727794,-91.5550714680634,Quetzaltenango,Quetzaltenango,Chuipach,Otra,170,1,1,Volcán Santiaguito
-2589,14.73415,-91.57034,333.9,0.34,0.56,2020-01-08,0700,N,nominal,1.0NRT,282.8,2.0,N,Quetzaltenango,El Palmar,14.699289802466105,-91.56956901877453,Quetzaltenango,El Palmar,San Jose,Finca,170,1,1,Volcán Santiaguito
-2590,14.73462,-91.57451,300.3,0.35,0.56,2020-01-08,0700,N,nominal,1.0NRT,282.8,2.0,N,Quetzaltenango,El Palmar,14.699289802466105,-91.56956901877453,Quetzaltenango,El Palmar,San Jose,Finca,170,1,1,Volcán Santiaguito
-2591,14.73373,-91.56678,306.6,0.34,0.56,2020-01-08,0700,N,nominal,1.0NRT,282.4,1.8,N,Quetzaltenango,El Palmar,14.699289802466105,-91.56956901877453,Quetzaltenango,El Palmar,San Jose,Finca,170,1,1,Volcán Santiaguito
-2592,14.72895,-91.57126,316.3,0.34,0.56,2020-01-08,0700,N,nominal,1.0NRT,284.0,0.8,N,Quetzaltenango,El Palmar,14.699289802466105,-91.56956901877453,Quetzaltenango,El Palmar,San Jose,Finca,170,1,1,Volcán Santiaguito
-2593,14.47593,-90.88418,333.2,0.62,0.54,2020-01-08,0700,N,nominal,1.0NRT,284.5,10.0,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,170,1,1,Volcán Fuego
-2594,14.4776,-90.89796,313.7,0.62,0.54,2020-01-08,0700,N,nominal,1.0NRT,280.4,17.1,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,170,1,1,Volcán Fuego
-2595,14.47113,-90.88607,322.5,0.62,0.54,2020-01-08,0700,N,nominal,1.0NRT,278.0,10.0,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,170,1,1,Volcán Fuego
-2596,14.35797,-90.48314,326.9,0.58,0.52,2020-01-08,0700,N,nominal,1.0NRT,288.2,3.5,N,Santa Rosa,Barberena,14.348596950334077,-90.49014995457667,Santa Rosa,Barberena,Las Alamedas,Finca,170,1,0,
-2597,14.3573,-90.47757,305.8,0.58,0.52,2020-01-08,0700,N,nominal,1.0NRT,287.0,3.5,N,Santa Rosa,Barberena,14.348596950334077,-90.49014995457667,Santa Rosa,Barberena,Las Alamedas,Finca,170,1,0,
-2598,14.35817,-90.47865,337.1,0.58,0.52,2020-01-08,0700,N,nominal,1.0NRT,287.8,3.5,N,Santa Rosa,Barberena,14.348596950334077,-90.49014995457667,Santa Rosa,Barberena,Las Alamedas,Finca,170,1,0,
-2599,14.35156,-90.82306,309.5,0.61,0.53,2020-01-08,0700,N,nominal,1.0NRT,292.2,1.7,N,Escuintla,Escuintla,14.35870106402456,-90.81791159922163,Escuintla,Escuintla,Nueva Primavera,Caserio,170,1,0,
-2600,13.89836,-90.17676,305.1,0.54,0.51,2020-01-08,0700,N,nominal,1.0NRT,291.3,1.5,N,Jutiapa,Pasaco,13.900995473344109,-90.18268923296782,Jutiapa,Moyuta,Ojo De Agua,Caserio,170,1,0,
-2601,13.87897,-90.14248,355.4,0.37,0.58,2020-01-08,1948,N,nominal,1.0NRT,300.7,6.8,D,Jutiapa,Moyuta,13.875200337594093,-90.1426897927843,Jutiapa,Moyuta,Magnolia,Finca,125,1,0,
-2602,13.87815,-90.14933,333.4,0.37,0.58,2020-01-08,1948,N,nominal,1.0NRT,300.8,3.1,D,Jutiapa,Moyuta,13.878191684728696,-90.15511472829057,Jutiapa,Moyuta,Amatal,Finca,125,1,0,
-2603,13.88433,-90.14317,350.3,0.37,0.58,2020-01-08,1948,N,nominal,1.0NRT,302.1,6.3,D,Jutiapa,Moyuta,13.885527200782166,-90.1394385274952,Jutiapa,Moyuta,San Jose El Obraje,Finca,125,1,0,
-2604,13.87243,-90.28639,367.0,0.36,0.57,2020-01-08,1948,N,high,1.0NRT,302.8,12.5,D,Jutiapa,Pasaco,13.867671095932787,-90.29357859620742,Santa Rosa,Chiquimulilla,Costa Rica Ii,Finca,125,1,0,
-2605,13.87202,-90.28976,367.0,0.36,0.57,2020-01-08,1948,N,high,1.0NRT,301.6,12.5,D,Jutiapa,Pasaco,13.867671095932787,-90.29357859620742,Santa Rosa,Chiquimulilla,Costa Rica Ii,Finca,125,1,0,
-2606,13.88195,-90.1413,338.9,0.37,0.58,2020-01-08,1948,N,nominal,1.0NRT,300.2,4.2,D,Jutiapa,Moyuta,13.885527200782166,-90.1394385274952,Jutiapa,Moyuta,San Jose El Obraje,Finca,125,1,0,
-2607,13.88156,-90.14477,338.5,0.37,0.58,2020-01-08,1948,N,nominal,1.0NRT,301.6,4.6,D,Jutiapa,Moyuta,13.885527200782166,-90.1394385274952,Jutiapa,Moyuta,San Jose El Obraje,Finca,125,1,0,
-2608,13.88118,-90.14812,334.1,0.37,0.58,2020-01-08,1948,N,nominal,1.0NRT,301.2,4.6,D,Jutiapa,Moyuta,13.878191684728696,-90.15511472829057,Jutiapa,Moyuta,Amatal,Finca,125,1,0,
-2609,13.87072,-90.28829,367.0,0.36,0.57,2020-01-08,1948,N,high,1.0NRT,301.7,6.7,D,Jutiapa,Pasaco,13.867671095932787,-90.29357859620742,Santa Rosa,Chiquimulilla,Costa Rica Ii,Finca,125,1,0,
-2610,13.8873,-90.14205,334.4,0.37,0.58,2020-01-08,1948,N,nominal,1.0NRT,299.5,4.2,D,Jutiapa,Moyuta,13.885527200782166,-90.1394385274952,Jutiapa,Moyuta,San Jose El Obraje,Finca,125,1,0,
-2611,13.87033,-90.29166,344.2,0.36,0.57,2020-01-08,1948,N,nominal,1.0NRT,301.0,6.7,D,Jutiapa,Pasaco,13.867671095932787,-90.29357859620742,Santa Rosa,Chiquimulilla,Costa Rica Ii,Finca,125,1,0,
-2612,13.87641,-90.28556,367.0,0.36,0.57,2020-01-08,1948,N,high,1.0NRT,300.6,16.8,D,Jutiapa,Pasaco,13.88330874644247,-90.28301696003861,Santa Rosa,Chiquimulilla,Las Pozas,Caserio,125,1,0,
-2613,13.87603,-90.28893,354.1,0.36,0.57,2020-01-08,1948,N,nominal,1.0NRT,303.1,16.6,D,Jutiapa,Pasaco,13.88330874644247,-90.28301696003861,Santa Rosa,Chiquimulilla,Las Pozas,Caserio,125,1,0,
-2614,14.03693,-90.33096,367.0,0.36,0.57,2020-01-08,1948,N,high,1.0NRT,301.4,6.3,D,Santa Rosa,Chiquimulilla,14.041668345183206,-90.32717217499984,Santa Rosa,Chiquimulilla,San Carlos,Finca,125,1,0,
-2615,13.98786,-90.83101,343.7,0.33,0.55,2020-01-08,1948,N,nominal,1.0NRT,297.9,4.3,D,Escuintla,San José,13.984226460723676,-90.82657927008924,Escuintla,San Jose,Linares,Finca,125,1,0,
-2616,13.99962,-90.81983,331.6,0.33,0.55,2020-01-08,1948,N,nominal,1.0NRT,296.7,1.8,D,Escuintla,San José,14.001933704417427,-90.82752219488695,Escuintla,Masagua,San Antonio Las Brisas,Finca,125,1,0,
-2617,14.00475,-90.82044,335.4,0.33,0.55,2020-01-08,1948,N,nominal,1.0NRT,297.7,2.7,D,Escuintla,San José,14.005452299315175,-90.82742911205783,Escuintla,Masagua,Santa Luisa,Finca,125,1,0,
-2618,13.97846,-91.28593,343.6,0.62,0.54,2020-01-08,1948,N,nominal,1.0NRT,299.6,35.0,D,Escuintla,La Gomera,13.972623747291005,-91.28148987187744,Escuintla,La Gomera,San Juan La Selva,Finca,125,1,0,
-2619,13.98274,-91.29234,354.9,0.62,0.54,2020-01-08,1948,N,nominal,1.0NRT,295.5,27.1,D,Escuintla,La Gomera,13.978777751628728,-91.30425348802201,Escuintla,Nueva Concepcion,Vista Alegre,Caserio,125,1,0,
-2620,14.0579,-90.7403,340.6,0.34,0.56,2020-01-08,1948,N,nominal,1.0NRT,299.4,6.8,D,Escuintla,Masagua,14.065281879772206,-90.75626061656372,Escuintla,Masagua,El Jarin,Finca,125,1,0,
-2621,14.05753,-90.74345,349.6,0.34,0.56,2020-01-08,1948,N,nominal,1.0NRT,299.0,7.3,D,Escuintla,Masagua,14.065281879772206,-90.75626061656372,Escuintla,Masagua,El Jarin,Finca,125,1,0,
-2622,14.0093,-91.15359,332.6,0.63,0.54,2020-01-08,1948,N,nominal,1.0NRT,300.8,4.4,D,Escuintla,La Gomera,13.99760789333618,-91.13592190425912,Escuintla,La Gomera,Oso Blanco,Finca,125,1,0,
-2623,14.08536,-90.54981,335.6,0.35,0.56,2020-01-08,1948,N,nominal,1.0NRT,300.6,2.9,D,Santa Rosa,Taxisco,14.094822040927124,-90.5475621330466,Santa Rosa,Taxisco,El Naranjito,Caserio,125,1,0,
-2624,14.09301,-90.70932,354.3,0.34,0.56,2020-01-08,1948,N,nominal,1.0NRT,304.1,5.4,D,Escuintla,Masagua,14.064792741425087,-90.71329766077918,Escuintla,Masagua,Paso Antonio,Finca,125,1,0,
-2625,14.09894,-90.70364,367.0,0.34,0.56,2020-01-08,1948,N,high,1.0NRT,305.0,7.6,D,Escuintla,Masagua,14.089199393123156,-90.67241631257757,Escuintla,Guanagazapa,El Manantial,Finca,125,1,0,
-2626,14.09931,-90.70046,356.0,0.34,0.56,2020-01-08,1948,N,nominal,1.0NRT,303.7,10.0,D,Escuintla,Guanagazapa,14.089199393123156,-90.67241631257757,Escuintla,Guanagazapa,El Manantial,Finca,125,1,0,
-2627,14.09856,-90.70679,348.8,0.34,0.56,2020-01-08,1948,N,nominal,1.0NRT,304.7,7.6,D,Escuintla,Masagua,14.064792741425087,-90.71329766077918,Escuintla,Masagua,Paso Antonio,Finca,125,1,0,
-2628,14.11086,-90.77894,367.0,0.33,0.56,2020-01-08,1948,N,high,1.0NRT,303.9,11.2,D,Escuintla,Masagua,14.094353362877115,-90.78174954612686,Escuintla,Masagua,El Peru,Finca,125,1,0,
-2629,14.11124,-90.77582,330.5,0.33,0.56,2020-01-08,1948,N,nominal,1.0NRT,297.9,11.2,D,Escuintla,Masagua,14.094353362877115,-90.78174954612686,Escuintla,Masagua,El Peru,Finca,125,1,0,
-2630,14.11049,-90.78206,336.4,0.33,0.56,2020-01-08,1948,N,nominal,1.0NRT,299.8,6.4,D,Escuintla,Masagua,14.094353362877115,-90.78174954612686,Escuintla,Masagua,El Peru,Finca,125,1,0,
-2631,14.11601,-90.7796,367.0,0.33,0.56,2020-01-08,1948,N,high,1.0NRT,297.6,9.1,D,Escuintla,Masagua,14.135407866650862,-90.78563006283237,Escuintla,Masagua,Costa Linda,Colonia,125,1,0,
-2632,14.16426,-90.83176,335.4,0.33,0.55,2020-01-08,1948,N,nominal,1.0NRT,299.8,3.2,D,Escuintla,Masagua,14.163165179820579,-90.84874684802304,Escuintla,Masagua,El Trapiche,Finca,125,1,0,
-2633,14.20878,-90.76483,344.7,0.34,0.56,2020-01-08,1948,N,nominal,1.0NRT,299.0,3.5,D,Escuintla,Masagua,14.202565029965678,-90.76250536976842,Escuintla,Escuintla,La Palma,Granja,125,1,0,
-2634,14.20094,-90.83026,339.8,0.33,0.55,2020-01-08,1948,N,nominal,1.0NRT,298.5,5.7,D,Escuintla,Masagua,14.194484041395153,-90.8226451431761,Escuintla,Masagua,Las Acacias,Finca,125,1,0,
-2635,14.38265,-90.60051,367.0,0.35,0.57,2020-01-08,1948,N,high,1.0NRT,302.2,10.9,D,Guatemala,Villa Canales,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,125,1,1,Volcán de Pacaya
-2636,14.38302,-90.59719,355.6,0.35,0.57,2020-01-08,1948,N,nominal,1.0NRT,298.1,11.1,D,Guatemala,Villa Canales,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,125,1,1,Volcán de Pacaya
-2637,14.27969,-91.48578,342.0,0.6,0.53,2020-01-08,1948,N,nominal,1.0NRT,298.1,9.0,D,Escuintla,Tiquisate,14.279282467281192,-91.47848951459407,Suchitepequez,San Jose El Idolo,La Blanca Rancho Dulce,Hacienda,125,1,0,
-2638,14.3316,-91.0871,333.0,0.32,0.55,2020-01-08,1948,N,nominal,1.0NRT,297.7,2.7,D,Escuintla,Santa Lucia Cotzulmalguapa,14.316831064153922,-91.09374673357118,Escuintla,Santa Lucia Cotzumalguapa,Las Flores Agudas,Hacienda,125,1,0,
-2639,14.4725,-90.87759,367.0,0.34,0.56,2020-01-08,1948,N,high,1.0NRT,311.2,9.6,D,Sacatepéquez,Alotenango,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,125,1,1,Volcán Fuego
-2640,14.47344,-90.86948,355.4,0.34,0.56,2020-01-08,1948,N,nominal,1.0NRT,301.3,9.6,D,Sacatepéquez,Alotenango,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,125,1,1,Volcán Fuego
-2641,14.37406,-91.87367,354.9,0.57,0.52,2020-01-08,1948,N,nominal,1.0NRT,297.7,17.7,D,Retalhuleu,Champerico,14.371383092133987,-91.8775012094415,Retalhuleu,Champerico,Desmotadora Champerico,Paraje,125,1,0,
-2642,14.37886,-91.87428,338.2,0.57,0.52,2020-01-08,1948,N,nominal,1.0NRT,296.3,6.1,D,Retalhuleu,Champerico,14.377606843521578,-91.87009530117147,Retalhuleu,Champerico,Holandesa,Labor,125,1,0,
-2643,14.425,-91.93381,333.8,0.57,0.52,2020-01-08,1948,N,nominal,1.0NRT,299.9,5.9,D,Retalhuleu,Champerico,14.42809205632745,-91.92693551946924,Retalhuleu,Retalhuleu,Hacienda El Establo,Finca,125,1,0,
-2644,14.42493,-91.93629,337.8,0.57,0.52,2020-01-08,1948,N,nominal,1.0NRT,300.6,8.0,D,Retalhuleu,Champerico,14.42809205632745,-91.92693551946924,Retalhuleu,Retalhuleu,Hacienda El Establo,Finca,125,1,0,
-2645,14.48155,-90.92716,344.1,0.64,0.72,2020-01-09,0642,N,nominal,1.0NRT,284.5,4.9,N,Chimaltenango,Yepocapa,14.49674520116619,-90.95192948745368,Chimaltenango,Yepocapa,Monte De Los Olivos,Caserio,77,1,1,Volcán Fuego
-2646,14.47497,-90.92959,323.8,0.64,0.72,2020-01-09,0642,N,nominal,1.0NRT,284.8,4.9,N,Chimaltenango,Yepocapa,14.49674520116619,-90.95192948745368,Chimaltenango,Yepocapa,Monte De Los Olivos,Caserio,77,1,1,Volcán Fuego
-2647,14.47921,-90.92873,367.0,0.64,0.72,2020-01-09,0642,N,high,1.0NRT,288.1,15.5,N,Chimaltenango,Yepocapa,14.49674520116619,-90.95192948745368,Chimaltenango,Yepocapa,Monte De Los Olivos,Caserio,77,1,1,Volcán Fuego
-2648,14.36479,-90.74171,308.7,0.62,0.71,2020-01-09,0642,N,nominal,1.0NRT,293.3,1.4,N,Escuintla,Escuintla,14.363096751443724,-90.74357172202356,Escuintla,Palin,El Romeral,Caserio,77,1,0,
-2649,14.44481,-91.75927,306.5,0.72,0.76,2020-01-09,0642,N,nominal,1.0NRT,290.9,1.8,N,Suchitepéquez,Cuyotenango,14.448863610592248,-91.7590768920914,Retalhuleu,Retalhuleu,El Encanto,Hacienda,77,1,0,
-2650,14.35217,-90.81724,317.6,0.63,0.72,2020-01-09,0642,N,nominal,1.0NRT,293.4,2.4,N,Escuintla,Escuintla,14.35870106402456,-90.81791159922163,Escuintla,Escuintla,Nueva Primavera,Caserio,77,1,0,
-2651,14.34566,-90.81976,310.3,0.63,0.72,2020-01-09,0642,N,nominal,1.0NRT,292.5,2.4,N,Escuintla,Escuintla,14.35870106402456,-90.81791159922163,Escuintla,Escuintla,Nueva Primavera,Caserio,77,1,0,
-2652,14.35582,-90.81597,303.7,0.63,0.72,2020-01-09,0642,N,nominal,1.0NRT,292.5,1.6,N,Escuintla,Escuintla,14.35870106402456,-90.81791159922163,Escuintla,Escuintla,Nueva Primavera,Caserio,77,1,0,
-2653,14.44777,-91.75686,311.5,0.72,0.76,2020-01-09,0642,N,nominal,1.0NRT,290.5,1.8,N,Suchitepéquez,Cuyotenango,14.448863610592248,-91.7590768920914,Retalhuleu,Retalhuleu,El Encanto,Hacienda,77,1,0,
-2654,14.34924,-90.81773,315.9,0.63,0.72,2020-01-09,0642,N,nominal,1.0NRT,292.5,1.6,N,Escuintla,Escuintla,14.35870106402456,-90.81791159922163,Escuintla,Escuintla,Nueva Primavera,Caserio,77,1,0,
-2655,14.3427,-90.81986,303.0,0.63,0.72,2020-01-09,0642,N,nominal,1.0NRT,291.8,0.8,N,Escuintla,Escuintla,14.35870106402456,-90.81791159922163,Escuintla,Escuintla,Nueva Primavera,Caserio,77,1,0,
-2656,14.15102,-90.70327,310.2,0.61,0.71,2020-01-09,0642,N,nominal,1.0NRT,292.6,1.2,N,Escuintla,Masagua,14.17118547207938,-90.7167847581575,Escuintla,Guanagazapa,Nueva Esperanza,Finca,77,1,0,
-2657,14.10469,-90.70947,306.2,0.61,0.71,2020-01-09,0642,N,nominal,1.0NRT,293.3,2.2,N,Escuintla,Masagua,14.091656179810956,-90.7415513856032,Escuintla,Masagua,San Miguel Las Flores,Caserio,77,1,0,
-2658,14.10675,-90.70528,309.3,0.61,0.71,2020-01-09,0642,N,nominal,1.0NRT,293.8,2.4,N,Escuintla,Masagua,14.122089161312065,-90.67666028015917,Escuintla,Guanagazapa,Argelia,Finca,77,1,0,
-2659,14.01569,-91.16328,306.2,0.65,0.73,2020-01-09,0642,N,nominal,1.0NRT,290.9,0.7,N,Escuintla,La Gomera,14.03243497740313,-91.1627628500875,Escuintla,La Gomera,Irlanda,Finca,77,1,0,
-2660,14.46596,-90.84116,334.3,0.58,0.7,2020-01-09,0824,N,nominal,1.0NRT,279.7,8.9,N,Escuintla,Escuintla,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,69,1,1,Volcán Fuego
-2661,14.46411,-90.83252,328.1,0.58,0.7,2020-01-09,0824,N,nominal,1.0NRT,277.9,6.4,N,Escuintla,Escuintla,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,69,1,1,Volcán Fuego
-2662,14.37699,-90.58635,331.1,0.61,0.71,2020-01-09,0824,N,nominal,1.0NRT,280.8,5.3,N,Guatemala,Villa Canales,14.362674154077236,-90.57309849849233,Guatemala,Villa Canales,San Antonio,Caserio,69,1,1,Volcán de Pacaya
-2663,14.37981,-90.59924,318.4,0.61,0.71,2020-01-09,0824,N,nominal,1.0NRT,279.2,5.3,N,Guatemala,Villa Canales,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,69,1,1,Volcán de Pacaya
-2664,14.37855,-90.58887,348.7,0.61,0.71,2020-01-09,0824,N,nominal,1.0NRT,280.3,9.3,N,Guatemala,Villa Canales,14.362674154077236,-90.57309849849233,Guatemala,Villa Canales,San Antonio,Caserio,69,1,1,Volcán de Pacaya
-2665,14.38086,-90.59983,304.2,0.61,0.71,2020-01-09,0824,N,nominal,1.0NRT,278.8,7.3,N,Guatemala,Villa Canales,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,69,1,1,Volcán de Pacaya
-2666,14.44655,-91.75731,316.5,0.51,0.66,2020-01-09,0824,N,nominal,1.0NRT,290.7,2.2,N,Suchitepéquez,Cuyotenango,14.448863610592248,-91.7590768920914,Retalhuleu,Retalhuleu,El Encanto,Hacienda,69,1,0,
-2667,14.44556,-91.75262,315.2,0.51,0.66,2020-01-09,0824,N,nominal,1.0NRT,290.5,2.2,N,Suchitepéquez,Cuyotenango,14.448863610592248,-91.7590768920914,Retalhuleu,Retalhuleu,El Encanto,Hacienda,69,1,0,
-2668,14.10076,-90.70416,302.9,0.6,0.71,2020-01-09,0824,N,nominal,1.0NRT,291.7,1.2,N,Escuintla,Masagua,14.089199393123156,-90.67241631257757,Escuintla,Guanagazapa,El Manantial,Finca,69,1,0,
-2669,14.10201,-90.70379,303.6,0.6,0.71,2020-01-09,0824,N,nominal,1.0NRT,291.8,1.1,N,Escuintla,Masagua,14.122089161312065,-90.67666028015917,Escuintla,Guanagazapa,Argelia,Finca,69,1,0,
-2670,14.07983,-90.27902,333.6,0.54,0.42,2020-01-09,1930,N,nominal,1.0NRT,306.6,2.5,D,Santa Rosa,Chiquimulilla,14.084887341815472,-90.27891426232868,Santa Rosa,San Juan Tecuaco,Ijorga,Aldea,29,1,0,
-2671,14.00121,-91.1498,334.6,0.48,0.4,2020-01-09,1930,N,nominal,1.0NRT,307.0,4.5,D,Escuintla,La Gomera,13.99760789333618,-91.13592190425912,Escuintla,La Gomera,Oso Blanco,Finca,29,1,0,
-2672,14.12096,-90.68553,335.2,0.51,0.41,2020-01-09,1930,N,nominal,1.0NRT,304.4,4.1,D,Escuintla,Guanagazapa,14.122089161312065,-90.67666028015917,Escuintla,Guanagazapa,Argelia,Finca,29,1,0,
-2673,14.13876,-90.63981,337.2,0.51,0.41,2020-01-09,1930,N,nominal,1.0NRT,306.3,7.8,D,Santa Rosa,Taxisco,14.141711993116957,-90.64377658130638,Escuintla,Guanagazapa,El Galan,Caserio,29,1,0,
-2674,14.0577,-91.33768,343.4,0.47,0.4,2020-01-09,1930,N,nominal,1.0NRT,304.2,7.7,D,Escuintla,Nueva Concepción,14.057395756668244,-91.3542073439588,Escuintla,Nueva Concepcion,Trocha 7,Caserio,29,1,0,
-2675,14.1756,-90.96233,346.4,0.49,0.41,2020-01-09,1930,N,nominal,1.0NRT,307.5,5.1,D,Escuintla,La Democracia,14.17651115125463,-90.9657191989057,Escuintla,La Democracia,El Arenal,Caserio,29,1,0,
-2676,14.21188,-90.80762,344.9,0.5,0.41,2020-01-09,1930,N,nominal,1.0NRT,309.2,44.0,D,Escuintla,Masagua,14.205709617056632,-90.81634915992863,Escuintla,Masagua,El Perdido,Finca,29,1,0,
-2677,14.30518,-90.88652,338.2,0.5,0.41,2020-01-09,1930,N,nominal,1.0NRT,311.3,25.1,D,Escuintla,Escuintla,14.314010313266689,-90.87532956288575,Escuintla,Escuintla,Santo Domingo Acapulco,Finca,29,1,0,
-2678,14.37799,-90.40475,347.0,0.53,0.42,2020-01-09,1930,N,nominal,1.0NRT,302.0,9.5,D,Santa Rosa,Barberena,14.373863940609015,-90.40968834631806,Santa Rosa,Barberena,Canditas,Aldea,29,1,0,
-2679,14.23306,-91.54665,334.8,0.46,0.39,2020-01-09,1930,N,nominal,1.0NRT,303.8,3.2,D,Suchitepéquez,San Lorenzo,14.238156651891165,-91.56007336373523,Suchitepequez,San Lorenzo,Santa Elena Vado Hondo,Otra,29,1,0,
-2680,14.38265,-90.60038,340.5,0.52,0.41,2020-01-09,1930,N,nominal,1.0NRT,303.2,13.9,D,Guatemala,Villa Canales,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,29,1,1,Volcán de Pacaya
-2681,14.35405,-90.80927,333.4,0.5,0.41,2020-01-09,1930,N,nominal,1.0NRT,304.3,7.7,D,Escuintla,Escuintla,14.35870106402456,-90.81791159922163,Escuintla,Escuintla,Nueva Primavera,Caserio,29,1,0,
-2682,14.35337,-90.81416,348.7,0.5,0.41,2020-01-09,1930,N,nominal,1.0NRT,308.7,7.7,D,Escuintla,Escuintla,14.35870106402456,-90.81791159922163,Escuintla,Escuintla,Nueva Primavera,Caserio,29,1,0,
-2683,14.35713,-90.81474,367.0,0.5,0.41,2020-01-09,1930,N,high,1.0NRT,307.5,29.6,D,Escuintla,Escuintla,14.35870106402456,-90.81791159922163,Escuintla,Escuintla,Nueva Primavera,Caserio,29,1,0,
-2684,14.45508,-90.54285,331.9,0.52,0.42,2020-01-09,1930,N,nominal,1.0NRT,298.8,6.6,D,Guatemala,Villa Canales,14.45816844929654,-90.53616540509327,Guatemala,Villa Canales,Brisas Del Valle,Colonia,29,1,0,
-2685,14.34586,-91.48267,338.7,0.47,0.39,2020-01-09,1930,N,nominal,1.0NRT,303.9,7.7,D,Suchitepéquez,Santo Domingo Suchitepéquez,14.331784500809219,-91.48083996141992,Suchitepequez,Santo Domingo Suchitepequez,Las Cruces,Otra,29,1,0,
-2686,14.47558,-91.75736,339.7,0.45,0.39,2020-01-09,1930,N,nominal,1.0NRT,304.9,13.0,D,Suchitepéquez,Cuyotenango,14.472229905140896,-91.75847087829207,Retalhuleu,Retalhuleu,La Guitarra,Caserio,29,1,0,
+2588,14.73945,-91.5704,314.5,0.35,0.56,2020-01-08,0700,N,nominal,1.0NRT,288.6,2.0,N,Quetzaltenango,El Palmar,14.77331479727794,-91.5550714680634,Quetzaltenango,Quetzaltenango,Chuipach,Otra,171,1,1,Volcán Santiaguito
+2589,14.73415,-91.57034,333.9,0.34,0.56,2020-01-08,0700,N,nominal,1.0NRT,282.8,2.0,N,Quetzaltenango,El Palmar,14.699289802466105,-91.56956901877453,Quetzaltenango,El Palmar,San Jose,Finca,171,1,1,Volcán Santiaguito
+2590,14.73462,-91.57451,300.3,0.35,0.56,2020-01-08,0700,N,nominal,1.0NRT,282.8,2.0,N,Quetzaltenango,El Palmar,14.699289802466105,-91.56956901877453,Quetzaltenango,El Palmar,San Jose,Finca,171,1,1,Volcán Santiaguito
+2591,14.73373,-91.56678,306.6,0.34,0.56,2020-01-08,0700,N,nominal,1.0NRT,282.4,1.8,N,Quetzaltenango,El Palmar,14.699289802466105,-91.56956901877453,Quetzaltenango,El Palmar,San Jose,Finca,171,1,1,Volcán Santiaguito
+2592,14.72895,-91.57126,316.3,0.34,0.56,2020-01-08,0700,N,nominal,1.0NRT,284.0,0.8,N,Quetzaltenango,El Palmar,14.699289802466105,-91.56956901877453,Quetzaltenango,El Palmar,San Jose,Finca,171,1,1,Volcán Santiaguito
+2593,14.47593,-90.88418,333.2,0.62,0.54,2020-01-08,0700,N,nominal,1.0NRT,284.5,10.0,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,171,1,1,Volcán Fuego
+2594,14.4776,-90.89796,313.7,0.62,0.54,2020-01-08,0700,N,nominal,1.0NRT,280.4,17.1,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,171,1,1,Volcán Fuego
+2595,14.47113,-90.88607,322.5,0.62,0.54,2020-01-08,0700,N,nominal,1.0NRT,278.0,10.0,N,Chimaltenango,Yepocapa,14.526798797234845,-90.90628820466613,Chimaltenango,Acatenango,El Tesoro,Caserio,171,1,1,Volcán Fuego
+2596,14.35797,-90.48314,326.9,0.58,0.52,2020-01-08,0700,N,nominal,1.0NRT,288.2,3.5,N,Santa Rosa,Barberena,14.348596950334077,-90.49014995457667,Santa Rosa,Barberena,Las Alamedas,Finca,171,1,0,
+2597,14.3573,-90.47757,305.8,0.58,0.52,2020-01-08,0700,N,nominal,1.0NRT,287.0,3.5,N,Santa Rosa,Barberena,14.348596950334077,-90.49014995457667,Santa Rosa,Barberena,Las Alamedas,Finca,171,1,0,
+2598,14.35817,-90.47865,337.1,0.58,0.52,2020-01-08,0700,N,nominal,1.0NRT,287.8,3.5,N,Santa Rosa,Barberena,14.348596950334077,-90.49014995457667,Santa Rosa,Barberena,Las Alamedas,Finca,171,1,0,
+2599,14.35156,-90.82306,309.5,0.61,0.53,2020-01-08,0700,N,nominal,1.0NRT,292.2,1.7,N,Escuintla,Escuintla,14.35870106402456,-90.81791159922163,Escuintla,Escuintla,Nueva Primavera,Caserio,171,1,0,
+2600,13.89836,-90.17676,305.1,0.54,0.51,2020-01-08,0700,N,nominal,1.0NRT,291.3,1.5,N,Jutiapa,Pasaco,13.900995473344109,-90.18268923296782,Jutiapa,Moyuta,Ojo De Agua,Caserio,171,1,0,
+2601,13.87897,-90.14248,355.4,0.37,0.58,2020-01-08,1948,N,nominal,1.0NRT,300.7,6.8,D,Jutiapa,Moyuta,13.875200337594093,-90.1426897927843,Jutiapa,Moyuta,Magnolia,Finca,126,1,0,
+2602,13.87815,-90.14933,333.4,0.37,0.58,2020-01-08,1948,N,nominal,1.0NRT,300.8,3.1,D,Jutiapa,Moyuta,13.878191684728696,-90.15511472829057,Jutiapa,Moyuta,Amatal,Finca,126,1,0,
+2603,13.88433,-90.14317,350.3,0.37,0.58,2020-01-08,1948,N,nominal,1.0NRT,302.1,6.3,D,Jutiapa,Moyuta,13.885527200782166,-90.1394385274952,Jutiapa,Moyuta,San Jose El Obraje,Finca,126,1,0,
+2604,13.87243,-90.28639,367.0,0.36,0.57,2020-01-08,1948,N,high,1.0NRT,302.8,12.5,D,Jutiapa,Pasaco,13.867671095932787,-90.29357859620742,Santa Rosa,Chiquimulilla,Costa Rica Ii,Finca,126,1,0,
+2605,13.87202,-90.28976,367.0,0.36,0.57,2020-01-08,1948,N,high,1.0NRT,301.6,12.5,D,Jutiapa,Pasaco,13.867671095932787,-90.29357859620742,Santa Rosa,Chiquimulilla,Costa Rica Ii,Finca,126,1,0,
+2606,13.88195,-90.1413,338.9,0.37,0.58,2020-01-08,1948,N,nominal,1.0NRT,300.2,4.2,D,Jutiapa,Moyuta,13.885527200782166,-90.1394385274952,Jutiapa,Moyuta,San Jose El Obraje,Finca,126,1,0,
+2607,13.88156,-90.14477,338.5,0.37,0.58,2020-01-08,1948,N,nominal,1.0NRT,301.6,4.6,D,Jutiapa,Moyuta,13.885527200782166,-90.1394385274952,Jutiapa,Moyuta,San Jose El Obraje,Finca,126,1,0,
+2608,13.88118,-90.14812,334.1,0.37,0.58,2020-01-08,1948,N,nominal,1.0NRT,301.2,4.6,D,Jutiapa,Moyuta,13.878191684728696,-90.15511472829057,Jutiapa,Moyuta,Amatal,Finca,126,1,0,
+2609,13.87072,-90.28829,367.0,0.36,0.57,2020-01-08,1948,N,high,1.0NRT,301.7,6.7,D,Jutiapa,Pasaco,13.867671095932787,-90.29357859620742,Santa Rosa,Chiquimulilla,Costa Rica Ii,Finca,126,1,0,
+2610,13.8873,-90.14205,334.4,0.37,0.58,2020-01-08,1948,N,nominal,1.0NRT,299.5,4.2,D,Jutiapa,Moyuta,13.885527200782166,-90.1394385274952,Jutiapa,Moyuta,San Jose El Obraje,Finca,126,1,0,
+2611,13.87033,-90.29166,344.2,0.36,0.57,2020-01-08,1948,N,nominal,1.0NRT,301.0,6.7,D,Jutiapa,Pasaco,13.867671095932787,-90.29357859620742,Santa Rosa,Chiquimulilla,Costa Rica Ii,Finca,126,1,0,
+2612,13.87641,-90.28556,367.0,0.36,0.57,2020-01-08,1948,N,high,1.0NRT,300.6,16.8,D,Jutiapa,Pasaco,13.88330874644247,-90.28301696003861,Santa Rosa,Chiquimulilla,Las Pozas,Caserio,126,1,0,
+2613,13.87603,-90.28893,354.1,0.36,0.57,2020-01-08,1948,N,nominal,1.0NRT,303.1,16.6,D,Jutiapa,Pasaco,13.88330874644247,-90.28301696003861,Santa Rosa,Chiquimulilla,Las Pozas,Caserio,126,1,0,
+2614,14.03693,-90.33096,367.0,0.36,0.57,2020-01-08,1948,N,high,1.0NRT,301.4,6.3,D,Santa Rosa,Chiquimulilla,14.041668345183206,-90.32717217499984,Santa Rosa,Chiquimulilla,San Carlos,Finca,126,1,0,
+2615,13.98786,-90.83101,343.7,0.33,0.55,2020-01-08,1948,N,nominal,1.0NRT,297.9,4.3,D,Escuintla,San José,13.984226460723676,-90.82657927008924,Escuintla,San Jose,Linares,Finca,126,1,0,
+2616,13.99962,-90.81983,331.6,0.33,0.55,2020-01-08,1948,N,nominal,1.0NRT,296.7,1.8,D,Escuintla,San José,14.001933704417427,-90.82752219488695,Escuintla,Masagua,San Antonio Las Brisas,Finca,126,1,0,
+2617,14.00475,-90.82044,335.4,0.33,0.55,2020-01-08,1948,N,nominal,1.0NRT,297.7,2.7,D,Escuintla,San José,14.005452299315175,-90.82742911205783,Escuintla,Masagua,Santa Luisa,Finca,126,1,0,
+2618,13.97846,-91.28593,343.6,0.62,0.54,2020-01-08,1948,N,nominal,1.0NRT,299.6,35.0,D,Escuintla,La Gomera,13.972623747291005,-91.28148987187744,Escuintla,La Gomera,San Juan La Selva,Finca,126,1,0,
+2619,13.98274,-91.29234,354.9,0.62,0.54,2020-01-08,1948,N,nominal,1.0NRT,295.5,27.1,D,Escuintla,La Gomera,13.978777751628728,-91.30425348802201,Escuintla,Nueva Concepcion,Vista Alegre,Caserio,126,1,0,
+2620,14.0579,-90.7403,340.6,0.34,0.56,2020-01-08,1948,N,nominal,1.0NRT,299.4,6.8,D,Escuintla,Masagua,14.065281879772206,-90.75626061656372,Escuintla,Masagua,El Jarin,Finca,126,1,0,
+2621,14.05753,-90.74345,349.6,0.34,0.56,2020-01-08,1948,N,nominal,1.0NRT,299.0,7.3,D,Escuintla,Masagua,14.065281879772206,-90.75626061656372,Escuintla,Masagua,El Jarin,Finca,126,1,0,
+2622,14.0093,-91.15359,332.6,0.63,0.54,2020-01-08,1948,N,nominal,1.0NRT,300.8,4.4,D,Escuintla,La Gomera,13.99760789333618,-91.13592190425912,Escuintla,La Gomera,Oso Blanco,Finca,126,1,0,
+2623,14.08536,-90.54981,335.6,0.35,0.56,2020-01-08,1948,N,nominal,1.0NRT,300.6,2.9,D,Santa Rosa,Taxisco,14.094822040927124,-90.5475621330466,Santa Rosa,Taxisco,El Naranjito,Caserio,126,1,0,
+2624,14.09301,-90.70932,354.3,0.34,0.56,2020-01-08,1948,N,nominal,1.0NRT,304.1,5.4,D,Escuintla,Masagua,14.064792741425087,-90.71329766077918,Escuintla,Masagua,Paso Antonio,Finca,126,1,0,
+2625,14.09894,-90.70364,367.0,0.34,0.56,2020-01-08,1948,N,high,1.0NRT,305.0,7.6,D,Escuintla,Masagua,14.089199393123156,-90.67241631257757,Escuintla,Guanagazapa,El Manantial,Finca,126,1,0,
+2626,14.09931,-90.70046,356.0,0.34,0.56,2020-01-08,1948,N,nominal,1.0NRT,303.7,10.0,D,Escuintla,Guanagazapa,14.089199393123156,-90.67241631257757,Escuintla,Guanagazapa,El Manantial,Finca,126,1,0,
+2627,14.09856,-90.70679,348.8,0.34,0.56,2020-01-08,1948,N,nominal,1.0NRT,304.7,7.6,D,Escuintla,Masagua,14.064792741425087,-90.71329766077918,Escuintla,Masagua,Paso Antonio,Finca,126,1,0,
+2628,14.11086,-90.77894,367.0,0.33,0.56,2020-01-08,1948,N,high,1.0NRT,303.9,11.2,D,Escuintla,Masagua,14.094353362877115,-90.78174954612686,Escuintla,Masagua,El Peru,Finca,126,1,0,
+2629,14.11124,-90.77582,330.5,0.33,0.56,2020-01-08,1948,N,nominal,1.0NRT,297.9,11.2,D,Escuintla,Masagua,14.094353362877115,-90.78174954612686,Escuintla,Masagua,El Peru,Finca,126,1,0,
+2630,14.11049,-90.78206,336.4,0.33,0.56,2020-01-08,1948,N,nominal,1.0NRT,299.8,6.4,D,Escuintla,Masagua,14.094353362877115,-90.78174954612686,Escuintla,Masagua,El Peru,Finca,126,1,0,
+2631,14.11601,-90.7796,367.0,0.33,0.56,2020-01-08,1948,N,high,1.0NRT,297.6,9.1,D,Escuintla,Masagua,14.135407866650862,-90.78563006283237,Escuintla,Masagua,Costa Linda,Colonia,126,1,0,
+2632,14.16426,-90.83176,335.4,0.33,0.55,2020-01-08,1948,N,nominal,1.0NRT,299.8,3.2,D,Escuintla,Masagua,14.163165179820579,-90.84874684802304,Escuintla,Masagua,El Trapiche,Finca,126,1,0,
+2633,14.20878,-90.76483,344.7,0.34,0.56,2020-01-08,1948,N,nominal,1.0NRT,299.0,3.5,D,Escuintla,Masagua,14.202565029965678,-90.76250536976842,Escuintla,Escuintla,La Palma,Granja,126,1,0,
+2634,14.20094,-90.83026,339.8,0.33,0.55,2020-01-08,1948,N,nominal,1.0NRT,298.5,5.7,D,Escuintla,Masagua,14.194484041395153,-90.8226451431761,Escuintla,Masagua,Las Acacias,Finca,126,1,0,
+2635,14.38265,-90.60051,367.0,0.35,0.57,2020-01-08,1948,N,high,1.0NRT,302.2,10.9,D,Guatemala,Villa Canales,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,126,1,1,Volcán de Pacaya
+2636,14.38302,-90.59719,355.6,0.35,0.57,2020-01-08,1948,N,nominal,1.0NRT,298.1,11.1,D,Guatemala,Villa Canales,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,126,1,1,Volcán de Pacaya
+2637,14.27969,-91.48578,342.0,0.6,0.53,2020-01-08,1948,N,nominal,1.0NRT,298.1,9.0,D,Escuintla,Tiquisate,14.279282467281192,-91.47848951459407,Suchitepequez,San Jose El Idolo,La Blanca Rancho Dulce,Hacienda,126,1,0,
+2638,14.3316,-91.0871,333.0,0.32,0.55,2020-01-08,1948,N,nominal,1.0NRT,297.7,2.7,D,Escuintla,Santa Lucia Cotzulmalguapa,14.316831064153922,-91.09374673357118,Escuintla,Santa Lucia Cotzumalguapa,Las Flores Agudas,Hacienda,126,1,0,
+2639,14.4725,-90.87759,367.0,0.34,0.56,2020-01-08,1948,N,high,1.0NRT,311.2,9.6,D,Sacatepéquez,Alotenango,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,126,1,1,Volcán Fuego
+2640,14.47344,-90.86948,355.4,0.34,0.56,2020-01-08,1948,N,nominal,1.0NRT,301.3,9.6,D,Sacatepéquez,Alotenango,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,126,1,1,Volcán Fuego
+2641,14.37406,-91.87367,354.9,0.57,0.52,2020-01-08,1948,N,nominal,1.0NRT,297.7,17.7,D,Retalhuleu,Champerico,14.371383092133987,-91.8775012094415,Retalhuleu,Champerico,Desmotadora Champerico,Paraje,126,1,0,
+2642,14.37886,-91.87428,338.2,0.57,0.52,2020-01-08,1948,N,nominal,1.0NRT,296.3,6.1,D,Retalhuleu,Champerico,14.377606843521578,-91.87009530117147,Retalhuleu,Champerico,Holandesa,Labor,126,1,0,
+2643,14.425,-91.93381,333.8,0.57,0.52,2020-01-08,1948,N,nominal,1.0NRT,299.9,5.9,D,Retalhuleu,Champerico,14.42809205632745,-91.92693551946924,Retalhuleu,Retalhuleu,Hacienda El Establo,Finca,126,1,0,
+2644,14.42493,-91.93629,337.8,0.57,0.52,2020-01-08,1948,N,nominal,1.0NRT,300.6,8.0,D,Retalhuleu,Champerico,14.42809205632745,-91.92693551946924,Retalhuleu,Retalhuleu,Hacienda El Establo,Finca,126,1,0,
+2645,14.48155,-90.92716,344.1,0.64,0.72,2020-01-09,0642,N,nominal,1.0NRT,284.5,4.9,N,Chimaltenango,Yepocapa,14.49674520116619,-90.95192948745368,Chimaltenango,Yepocapa,Monte De Los Olivos,Caserio,78,1,1,Volcán Fuego
+2646,14.47497,-90.92959,323.8,0.64,0.72,2020-01-09,0642,N,nominal,1.0NRT,284.8,4.9,N,Chimaltenango,Yepocapa,14.49674520116619,-90.95192948745368,Chimaltenango,Yepocapa,Monte De Los Olivos,Caserio,78,1,1,Volcán Fuego
+2647,14.47921,-90.92873,367.0,0.64,0.72,2020-01-09,0642,N,high,1.0NRT,288.1,15.5,N,Chimaltenango,Yepocapa,14.49674520116619,-90.95192948745368,Chimaltenango,Yepocapa,Monte De Los Olivos,Caserio,78,1,1,Volcán Fuego
+2648,14.36479,-90.74171,308.7,0.62,0.71,2020-01-09,0642,N,nominal,1.0NRT,293.3,1.4,N,Escuintla,Escuintla,14.363096751443724,-90.74357172202356,Escuintla,Palin,El Romeral,Caserio,78,1,0,
+2649,14.44481,-91.75927,306.5,0.72,0.76,2020-01-09,0642,N,nominal,1.0NRT,290.9,1.8,N,Suchitepéquez,Cuyotenango,14.448863610592248,-91.7590768920914,Retalhuleu,Retalhuleu,El Encanto,Hacienda,78,1,0,
+2650,14.35217,-90.81724,317.6,0.63,0.72,2020-01-09,0642,N,nominal,1.0NRT,293.4,2.4,N,Escuintla,Escuintla,14.35870106402456,-90.81791159922163,Escuintla,Escuintla,Nueva Primavera,Caserio,78,1,0,
+2651,14.34566,-90.81976,310.3,0.63,0.72,2020-01-09,0642,N,nominal,1.0NRT,292.5,2.4,N,Escuintla,Escuintla,14.35870106402456,-90.81791159922163,Escuintla,Escuintla,Nueva Primavera,Caserio,78,1,0,
+2652,14.35582,-90.81597,303.7,0.63,0.72,2020-01-09,0642,N,nominal,1.0NRT,292.5,1.6,N,Escuintla,Escuintla,14.35870106402456,-90.81791159922163,Escuintla,Escuintla,Nueva Primavera,Caserio,78,1,0,
+2653,14.44777,-91.75686,311.5,0.72,0.76,2020-01-09,0642,N,nominal,1.0NRT,290.5,1.8,N,Suchitepéquez,Cuyotenango,14.448863610592248,-91.7590768920914,Retalhuleu,Retalhuleu,El Encanto,Hacienda,78,1,0,
+2654,14.34924,-90.81773,315.9,0.63,0.72,2020-01-09,0642,N,nominal,1.0NRT,292.5,1.6,N,Escuintla,Escuintla,14.35870106402456,-90.81791159922163,Escuintla,Escuintla,Nueva Primavera,Caserio,78,1,0,
+2655,14.3427,-90.81986,303.0,0.63,0.72,2020-01-09,0642,N,nominal,1.0NRT,291.8,0.8,N,Escuintla,Escuintla,14.35870106402456,-90.81791159922163,Escuintla,Escuintla,Nueva Primavera,Caserio,78,1,0,
+2656,14.15102,-90.70327,310.2,0.61,0.71,2020-01-09,0642,N,nominal,1.0NRT,292.6,1.2,N,Escuintla,Masagua,14.17118547207938,-90.7167847581575,Escuintla,Guanagazapa,Nueva Esperanza,Finca,78,1,0,
+2657,14.10469,-90.70947,306.2,0.61,0.71,2020-01-09,0642,N,nominal,1.0NRT,293.3,2.2,N,Escuintla,Masagua,14.091656179810956,-90.7415513856032,Escuintla,Masagua,San Miguel Las Flores,Caserio,78,1,0,
+2658,14.10675,-90.70528,309.3,0.61,0.71,2020-01-09,0642,N,nominal,1.0NRT,293.8,2.4,N,Escuintla,Masagua,14.122089161312065,-90.67666028015917,Escuintla,Guanagazapa,Argelia,Finca,78,1,0,
+2659,14.01569,-91.16328,306.2,0.65,0.73,2020-01-09,0642,N,nominal,1.0NRT,290.9,0.7,N,Escuintla,La Gomera,14.03243497740313,-91.1627628500875,Escuintla,La Gomera,Irlanda,Finca,78,1,0,
+2660,14.46596,-90.84116,334.3,0.58,0.7,2020-01-09,0824,N,nominal,1.0NRT,279.7,8.9,N,Escuintla,Escuintla,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,70,1,1,Volcán Fuego
+2661,14.46411,-90.83252,328.1,0.58,0.7,2020-01-09,0824,N,nominal,1.0NRT,277.9,6.4,N,Escuintla,Escuintla,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,70,1,1,Volcán Fuego
+2662,14.37699,-90.58635,331.1,0.61,0.71,2020-01-09,0824,N,nominal,1.0NRT,280.8,5.3,N,Guatemala,Villa Canales,14.362674154077236,-90.57309849849233,Guatemala,Villa Canales,San Antonio,Caserio,70,1,1,Volcán de Pacaya
+2663,14.37981,-90.59924,318.4,0.61,0.71,2020-01-09,0824,N,nominal,1.0NRT,279.2,5.3,N,Guatemala,Villa Canales,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,70,1,1,Volcán de Pacaya
+2664,14.37855,-90.58887,348.7,0.61,0.71,2020-01-09,0824,N,nominal,1.0NRT,280.3,9.3,N,Guatemala,Villa Canales,14.362674154077236,-90.57309849849233,Guatemala,Villa Canales,San Antonio,Caserio,70,1,1,Volcán de Pacaya
+2665,14.38086,-90.59983,304.2,0.61,0.71,2020-01-09,0824,N,nominal,1.0NRT,278.8,7.3,N,Guatemala,Villa Canales,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,70,1,1,Volcán de Pacaya
+2666,14.44655,-91.75731,316.5,0.51,0.66,2020-01-09,0824,N,nominal,1.0NRT,290.7,2.2,N,Suchitepéquez,Cuyotenango,14.448863610592248,-91.7590768920914,Retalhuleu,Retalhuleu,El Encanto,Hacienda,70,1,0,
+2667,14.44556,-91.75262,315.2,0.51,0.66,2020-01-09,0824,N,nominal,1.0NRT,290.5,2.2,N,Suchitepéquez,Cuyotenango,14.448863610592248,-91.7590768920914,Retalhuleu,Retalhuleu,El Encanto,Hacienda,70,1,0,
+2668,14.10076,-90.70416,302.9,0.6,0.71,2020-01-09,0824,N,nominal,1.0NRT,291.7,1.2,N,Escuintla,Masagua,14.089199393123156,-90.67241631257757,Escuintla,Guanagazapa,El Manantial,Finca,70,1,0,
+2669,14.10201,-90.70379,303.6,0.6,0.71,2020-01-09,0824,N,nominal,1.0NRT,291.8,1.1,N,Escuintla,Masagua,14.122089161312065,-90.67666028015917,Escuintla,Guanagazapa,Argelia,Finca,70,1,0,
+2670,14.07983,-90.27902,333.6,0.54,0.42,2020-01-09,1930,N,nominal,1.0NRT,306.6,2.5,D,Santa Rosa,Chiquimulilla,14.084887341815472,-90.27891426232868,Santa Rosa,San Juan Tecuaco,Ijorga,Aldea,30,1,0,
+2671,14.00121,-91.1498,334.6,0.48,0.4,2020-01-09,1930,N,nominal,1.0NRT,307.0,4.5,D,Escuintla,La Gomera,13.99760789333618,-91.13592190425912,Escuintla,La Gomera,Oso Blanco,Finca,30,1,0,
+2672,14.12096,-90.68553,335.2,0.51,0.41,2020-01-09,1930,N,nominal,1.0NRT,304.4,4.1,D,Escuintla,Guanagazapa,14.122089161312065,-90.67666028015917,Escuintla,Guanagazapa,Argelia,Finca,30,1,0,
+2673,14.13876,-90.63981,337.2,0.51,0.41,2020-01-09,1930,N,nominal,1.0NRT,306.3,7.8,D,Santa Rosa,Taxisco,14.141711993116957,-90.64377658130638,Escuintla,Guanagazapa,El Galan,Caserio,30,1,0,
+2674,14.0577,-91.33768,343.4,0.47,0.4,2020-01-09,1930,N,nominal,1.0NRT,304.2,7.7,D,Escuintla,Nueva Concepción,14.057395756668244,-91.3542073439588,Escuintla,Nueva Concepcion,Trocha 7,Caserio,30,1,0,
+2675,14.1756,-90.96233,346.4,0.49,0.41,2020-01-09,1930,N,nominal,1.0NRT,307.5,5.1,D,Escuintla,La Democracia,14.17651115125463,-90.9657191989057,Escuintla,La Democracia,El Arenal,Caserio,30,1,0,
+2676,14.21188,-90.80762,344.9,0.5,0.41,2020-01-09,1930,N,nominal,1.0NRT,309.2,44.0,D,Escuintla,Masagua,14.205709617056632,-90.81634915992863,Escuintla,Masagua,El Perdido,Finca,30,1,0,
+2677,14.30518,-90.88652,338.2,0.5,0.41,2020-01-09,1930,N,nominal,1.0NRT,311.3,25.1,D,Escuintla,Escuintla,14.314010313266689,-90.87532956288575,Escuintla,Escuintla,Santo Domingo Acapulco,Finca,30,1,0,
+2678,14.37799,-90.40475,347.0,0.53,0.42,2020-01-09,1930,N,nominal,1.0NRT,302.0,9.5,D,Santa Rosa,Barberena,14.373863940609015,-90.40968834631806,Santa Rosa,Barberena,Canditas,Aldea,30,1,0,
+2679,14.23306,-91.54665,334.8,0.46,0.39,2020-01-09,1930,N,nominal,1.0NRT,303.8,3.2,D,Suchitepéquez,San Lorenzo,14.238156651891165,-91.56007336373523,Suchitepequez,San Lorenzo,Santa Elena Vado Hondo,Otra,30,1,0,
+2680,14.38265,-90.60038,340.5,0.52,0.41,2020-01-09,1930,N,nominal,1.0NRT,303.2,13.9,D,Guatemala,Villa Canales,14.405321338726964,-90.6064065776045,Escuintla,San Vicente Pacaya,San Francisco De Sales,Aldea,30,1,1,Volcán de Pacaya
+2681,14.35405,-90.80927,333.4,0.5,0.41,2020-01-09,1930,N,nominal,1.0NRT,304.3,7.7,D,Escuintla,Escuintla,14.35870106402456,-90.81791159922163,Escuintla,Escuintla,Nueva Primavera,Caserio,30,1,0,
+2682,14.35337,-90.81416,348.7,0.5,0.41,2020-01-09,1930,N,nominal,1.0NRT,308.7,7.7,D,Escuintla,Escuintla,14.35870106402456,-90.81791159922163,Escuintla,Escuintla,Nueva Primavera,Caserio,30,1,0,
+2683,14.35713,-90.81474,367.0,0.5,0.41,2020-01-09,1930,N,high,1.0NRT,307.5,29.6,D,Escuintla,Escuintla,14.35870106402456,-90.81791159922163,Escuintla,Escuintla,Nueva Primavera,Caserio,30,1,0,
+2684,14.45508,-90.54285,331.9,0.52,0.42,2020-01-09,1930,N,nominal,1.0NRT,298.8,6.6,D,Guatemala,Villa Canales,14.45816844929654,-90.53616540509327,Guatemala,Villa Canales,Brisas Del Valle,Colonia,30,1,0,
+2685,14.34586,-91.48267,338.7,0.47,0.39,2020-01-09,1930,N,nominal,1.0NRT,303.9,7.7,D,Suchitepéquez,Santo Domingo Suchitepéquez,14.331784500809219,-91.48083996141992,Suchitepequez,Santo Domingo Suchitepequez,Las Cruces,Otra,30,1,0,
+2686,14.47558,-91.75736,339.7,0.45,0.39,2020-01-09,1930,N,nominal,1.0NRT,304.9,13.0,D,Suchitepéquez,Cuyotenango,14.472229905140896,-91.75847087829207,Retalhuleu,Retalhuleu,La Guitarra,Caserio,30,1,0,
