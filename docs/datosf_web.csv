@@ -6156,7 +6156,7 @@ id, latitude, longitude, bright_ti4, scan, track, acq_date, acq_time, satelite, 
 31332,17.13391,-90.09117,335.8,0.51,0.5,2020-05-29,1942,1,nominal,1.0NRT,291.2,3.7,D,Petén,San Andrés,17.12216400676459,-90.08593463679549,Peten,San Andres,Los Pozos,Finca,60,0,0,,Bosque
 31333,17.18517,-91.42506,349.0,0.42,0.45,2020-05-29,1942,1,nominal,1.0NRT,283.9,18.6,D,Petén,Las Cruces,17.22583766173398,-91.015590864703,Peten,La Libertad,Santa Luisa,Finca,60,0,0,,Bosque
 31334,17.18468,-91.42903,336.6,0.42,0.45,2020-05-29,1942,1,nominal,1.0NRT,282.9,12.2,D,Petén,Las Cruces,17.22583766173398,-91.015590864703,Peten,La Libertad,Santa Luisa,Finca,60,0,0,,Bosque
-31335,17.55846,-90.6316,338.6,0.41,0.37,2020-05-30,1924,1,nominal,1.0NRT,295.4,7.6,D,Petén,San Andrés,17.550414389718767,-90.5985471069703,Peten,San Andres,Santa Amelia,Otra,30,1,0,,Bosque
-31336,15.89729,-89.96931,339.7,0.42,0.38,2020-05-30,1918,1,nominal,1.0NRT,291.1,9.0,D,Alta Verapaz,Fray Bartolomé De Las Casas,15.899415285777433,-89.96786498844119,Alta Verapaz,Fray Bartolome De Las Casas,San Simon La Bota,Finca,30,1,0,,Pastizales
-31337,15.86233,-90.3091,330.6,0.41,0.37,2020-05-30,1918,1,nominal,1.0NRT,295.3,4.0,D,Alta Verapaz,Cobán,15.844999379587366,-90.30205312109366,Alta Verapaz,Chisec,Santa Rosa,Caserio,30,1,0,,Pastizales
-31338,17.13143,-90.46011,334.3,0.41,0.37,2020-05-30,1918,1,nominal,1.0NRT,294.1,2.8,D,Petén,San Andrés,17.10717707023116,-90.46599559425677,Peten,La Libertad,El Cangrejo,Finca,30,1,0,,Bosque
+31335,17.55846,-90.6316,338.6,0.41,0.37,2020-05-30,1924,1,nominal,1.0NRT,295.4,7.6,D,Petén,San Andrés,17.550414389718767,-90.5985471069703,Peten,San Andres,Santa Amelia,Otra,31,1,0,,Bosque
+31336,15.89729,-89.96931,339.7,0.42,0.38,2020-05-30,1918,1,nominal,1.0NRT,291.1,9.0,D,Alta Verapaz,Fray Bartolomé De Las Casas,15.899415285777433,-89.96786498844119,Alta Verapaz,Fray Bartolome De Las Casas,San Simon La Bota,Finca,31,1,0,,Pastizales
+31337,15.86233,-90.3091,330.6,0.41,0.37,2020-05-30,1918,1,nominal,1.0NRT,295.3,4.0,D,Alta Verapaz,Cobán,15.844999379587366,-90.30205312109366,Alta Verapaz,Chisec,Santa Rosa,Caserio,31,1,0,,Pastizales
+31338,17.13143,-90.46011,334.3,0.41,0.37,2020-05-30,1918,1,nominal,1.0NRT,294.1,2.8,D,Petén,San Andrés,17.10717707023116,-90.46599559425677,Peten,La Libertad,El Cangrejo,Finca,31,1,0,,Bosque
