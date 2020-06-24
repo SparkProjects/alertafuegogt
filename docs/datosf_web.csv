@@ -507,4 +507,4 @@ id, latitude, longitude, bright_ti4, scan, track, acq_date, acq_time, satelite, 
 31844,16.874,-89.49155,351.9,0.38,0.44,2020-06-22,1848,1,nominal,1.0NRT,292.8,8.1,D,Petén,Santa Ana,16.85568487412131,-89.49433475467883,Peten,Santa Ana,Los Lagartos,Caserio,62,0,0,,Pastizales
 31845,16.82867,-91.24284,331.0,0.5,0.49,2020-06-22,1848,1,nominal,1.0NRT,290.3,4.6,D,Petén,Las Cruces,16.898499622279708,-91.05639680332114,Peten,La Libertad,Salvamento,Otra,62,0,0,,no definido
 31846,17.02397,-91.43572,329.5,0.51,0.49,2020-06-22,1848,1,nominal,1.0NRT,293.4,3.9,D,Petén,Las Cruces,17.015418963055293,-91.04517435722701,Peten,La Libertad,La Pasadita,Otra,62,0,0,,Bosque
-31847,15.77843,-88.70754,367.0,0.36,0.58,2020-06-23,1830,1,high,1.0NRT,290.2,10.4,D,Izabal,Puerto Barrios,15.768410807522033,-88.69788917492923,Izabal,Livingston,Macho Creek I,Finca,23,1,0,,Bosque
+31847,15.77843,-88.70754,367.0,0.36,0.58,2020-06-23,1830,1,high,1.0NRT,290.2,10.4,D,Izabal,Puerto Barrios,15.768410807522033,-88.69788917492923,Izabal,Livingston,Macho Creek I,Finca,24,1,0,,Bosque
