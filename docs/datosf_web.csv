@@ -101,4 +101,4 @@ id, latitude, longitude, bright_ti4, scan, track, acq_date, acq_time, satelite, 
 32041,17.24435,-90.47308,367.0,0.44,0.63,2020-07-09,1830,1,high,1.0NRT,293.0,13.8,D,Petén,San Andrés,17.221635009728523,-90.48956217850072,Peten,La Libertad,Los Almendros  Cruce Km. 35,Caserio,61,0,0,,Bosque
 32042,17.79432,-90.3814,299.8,0.62,0.54,2020-07-10,0700,1,nominal,1.0NRT,270.6,1.2,N,Petén,San Andrés,17.55776523995032,-90.20252483722773,Peten,San Andres,Izabelita,Otra,86,0,0,,Bosque
 32043,16.75633,-89.78565,306.6,0.55,0.51,2020-07-10,0700,1,nominal,1.0NRT,285.7,1.8,N,Petén,Santa Ana,16.751547039545294,-89.78897558747275,Peten,Santa Ana,Nueva Esperanza,Caserio,86,0,0,,Pastizales
-32044,16.4443,-89.27383,352.1,0.45,0.47,2020-07-11,1930,1,nominal,2.0NRT,291.7,9.8,D,Petén,Poptún,16.40384206505508,-89.2568614480431,Peten,Dolores,La Petenera,Otra,19,1,0,,Bosque
+32044,16.4443,-89.27383,352.1,0.45,0.47,2020-07-11,1930,1,nominal,2.0NRT,291.7,9.8,D,Petén,Poptún,16.40384206505508,-89.2568614480431,Peten,Dolores,La Petenera,Otra,20,1,0,,Bosque
