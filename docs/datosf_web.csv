@@ -292,17 +292,17 @@ id, latitude, longitude, bright_ti4, scan, track, acq_date, acq_time, satelite, 
 32232,15.80472,-89.42935,341.1,0.41,0.6,2020-07-25,1830,1,nominal,2.0NRT,290.8,4.7,D,Izabal,Livingston,15.801424125961734,-89.4209866598024,Izabal,Livingston,Nimlasajal,Caserio,66,0,0,,Bosque
 32233,15.82498,-89.69649,346.4,0.42,0.61,2020-07-25,1830,1,nominal,2.0NRT,289.7,6.1,D,Alta Verapaz,Chahal,15.819661253756943,-89.71043396547228,Alta Verapaz,Fray Bartolome De Las Casas,Caoba Ii,Caserio,66,0,0,,Bosque
 32234,15.91471,-89.73109,332.1,0.42,0.61,2020-07-25,1830,1,nominal,2.0NRT,293.4,3.8,D,Alta Verapaz,Fray Bartolomé De Las Casas,15.931299823973688,-89.73330063963364,Alta Verapaz,Fray Bartolome De Las Casas,Semelvija,Caserio,66,0,0,,Pastizales
-32235,17.04555,-90.58318,302.0,0.63,0.54,2020-07-26,0700,1,nominal,2.0NRT,273.9,0.8,N,Petén,San Andrés,17.044855955835967,-90.58457290651364,Peten,La Libertad,La Pista,Caserio,41,1,0,,Bosque
-32236,16.014,-89.92141,329.4,0.41,0.61,2020-07-26,1954,1,nominal,2.0NRT,290.5,7.9,D,Alta Verapaz,Fray Bartolomé De Las Casas,15.97801534141084,-89.91576897973768,Peten,San Luis,La Isla,Finca,17,1,0,,Bosque
-32237,16.01357,-89.92528,356.6,0.41,0.61,2020-07-26,1954,1,nominal,2.0NRT,292.3,7.9,D,Alta Verapaz,Fray Bartolomé De Las Casas,15.97801534141084,-89.91576897973768,Peten,San Luis,La Isla,Finca,17,1,0,,Bosque
-32238,16.01216,-89.92453,350.9,0.41,0.61,2020-07-26,1954,1,nominal,2.0NRT,291.5,7.4,D,Alta Verapaz,Fray Bartolomé De Las Casas,15.97801534141084,-89.91576897973768,Peten,San Luis,La Isla,Finca,17,1,0,,Bosque
-32239,16.01776,-89.92515,367.0,0.41,0.61,2020-07-26,1954,1,high,2.0NRT,292.0,7.4,D,Alta Verapaz,Fray Bartolomé De Las Casas,15.993187229131248,-89.95714481101943,Peten,Sayaxche,El Casiano,Caserio,17,1,0,,Bosque
-32240,16.37689,-89.46604,330.6,0.45,0.63,2020-07-26,1954,1,nominal,2.0NRT,282.3,3.6,D,Petén,Poptún,16.392712255368647,-89.4731329780483,Peten,Dolores,El Zapote,Otra,17,1,0,,Pastizales
-32241,16.45502,-90.23351,331.4,0.4,0.6,2020-07-26,1954,1,nominal,2.0NRT,289.5,3.2,D,Petén,Sayaxché,16.449171463567836,-90.233533353214,Peten,Sayaxche,Petexbatun,Otra,17,1,0,,Cuerpos de agua
-32242,16.53382,-90.28052,334.4,0.4,0.6,2020-07-26,1954,1,nominal,2.0NRT,289.9,3.1,D,Petén,Sayaxché,16.537883668580932,-90.2710888080302,Peten,Sayaxche,El Mangal,Caserio,17,1,0,,Bosque
-32243,16.72848,-90.7058,333.6,0.37,0.58,2020-07-26,1954,1,nominal,2.0NRT,289.1,2.2,D,Petén,Las Cruces,16.72433979202293,-90.70843480051185,Peten,La Libertad,La Providencia,Otra,17,1,0,,Pastizales
-32244,16.8567,-90.80493,331.1,0.37,0.58,2020-07-26,1954,1,nominal,2.0NRT,294.2,3.2,D,Petén,Las Cruces,16.878077052356073,-90.82782428799342,Peten,La Libertad,Retalteco,Finca,17,1,0,,Vegetación arbistiva baja (guamil-matorral)
-32245,16.82123,-91.21671,367.0,0.35,0.56,2020-07-26,1954,1,high,2.0NRT,294.0,8.4,D,Petén,Las Cruces,16.898499622279708,-91.05639680332114,Peten,La Libertad,Salvamento,Otra,17,1,0,,no definido
-32246,16.82245,-91.2153,354.4,0.35,0.56,2020-07-26,1954,1,nominal,2.0NRT,292.7,8.3,D,Petén,Las Cruces,16.898499622279708,-91.05639680332114,Peten,La Libertad,Salvamento,Otra,17,1,0,,no definido
-32247,16.82211,-91.21853,338.4,0.35,0.56,2020-07-26,1954,1,nominal,2.0NRT,292.5,6.8,D,Petén,Las Cruces,16.898499622279708,-91.05639680332114,Peten,La Libertad,Salvamento,Otra,17,1,0,,no definido
-32248,17.08108,-90.39246,329.6,0.4,0.6,2020-07-26,1954,1,nominal,2.0NRT,290.7,2.6,D,Petén,San Andrés,17.119221527147424,-90.40731186984883,Peten,La Libertad,Nueva Florida,Caserio,17,1,0,,Bosque
+32235,17.04555,-90.58318,302.0,0.63,0.54,2020-07-26,0700,1,nominal,2.0NRT,273.9,0.8,N,Petén,San Andrés,17.044855955835967,-90.58457290651364,Peten,La Libertad,La Pista,Caserio,42,1,0,,Bosque
+32236,16.014,-89.92141,329.4,0.41,0.61,2020-07-26,1954,1,nominal,2.0NRT,290.5,7.9,D,Alta Verapaz,Fray Bartolomé De Las Casas,15.97801534141084,-89.91576897973768,Peten,San Luis,La Isla,Finca,18,1,0,,Bosque
+32237,16.01357,-89.92528,356.6,0.41,0.61,2020-07-26,1954,1,nominal,2.0NRT,292.3,7.9,D,Alta Verapaz,Fray Bartolomé De Las Casas,15.97801534141084,-89.91576897973768,Peten,San Luis,La Isla,Finca,18,1,0,,Bosque
+32238,16.01216,-89.92453,350.9,0.41,0.61,2020-07-26,1954,1,nominal,2.0NRT,291.5,7.4,D,Alta Verapaz,Fray Bartolomé De Las Casas,15.97801534141084,-89.91576897973768,Peten,San Luis,La Isla,Finca,18,1,0,,Bosque
+32239,16.01776,-89.92515,367.0,0.41,0.61,2020-07-26,1954,1,high,2.0NRT,292.0,7.4,D,Alta Verapaz,Fray Bartolomé De Las Casas,15.993187229131248,-89.95714481101943,Peten,Sayaxche,El Casiano,Caserio,18,1,0,,Bosque
+32240,16.37689,-89.46604,330.6,0.45,0.63,2020-07-26,1954,1,nominal,2.0NRT,282.3,3.6,D,Petén,Poptún,16.392712255368647,-89.4731329780483,Peten,Dolores,El Zapote,Otra,18,1,0,,Pastizales
+32241,16.45502,-90.23351,331.4,0.4,0.6,2020-07-26,1954,1,nominal,2.0NRT,289.5,3.2,D,Petén,Sayaxché,16.449171463567836,-90.233533353214,Peten,Sayaxche,Petexbatun,Otra,18,1,0,,Cuerpos de agua
+32242,16.53382,-90.28052,334.4,0.4,0.6,2020-07-26,1954,1,nominal,2.0NRT,289.9,3.1,D,Petén,Sayaxché,16.537883668580932,-90.2710888080302,Peten,Sayaxche,El Mangal,Caserio,18,1,0,,Bosque
+32243,16.72848,-90.7058,333.6,0.37,0.58,2020-07-26,1954,1,nominal,2.0NRT,289.1,2.2,D,Petén,Las Cruces,16.72433979202293,-90.70843480051185,Peten,La Libertad,La Providencia,Otra,18,1,0,,Pastizales
+32244,16.8567,-90.80493,331.1,0.37,0.58,2020-07-26,1954,1,nominal,2.0NRT,294.2,3.2,D,Petén,Las Cruces,16.878077052356073,-90.82782428799342,Peten,La Libertad,Retalteco,Finca,18,1,0,,Vegetación arbistiva baja (guamil-matorral)
+32245,16.82123,-91.21671,367.0,0.35,0.56,2020-07-26,1954,1,high,2.0NRT,294.0,8.4,D,Petén,Las Cruces,16.898499622279708,-91.05639680332114,Peten,La Libertad,Salvamento,Otra,18,1,0,,no definido
+32246,16.82245,-91.2153,354.4,0.35,0.56,2020-07-26,1954,1,nominal,2.0NRT,292.7,8.3,D,Petén,Las Cruces,16.898499622279708,-91.05639680332114,Peten,La Libertad,Salvamento,Otra,18,1,0,,no definido
+32247,16.82211,-91.21853,338.4,0.35,0.56,2020-07-26,1954,1,nominal,2.0NRT,292.5,6.8,D,Petén,Las Cruces,16.898499622279708,-91.05639680332114,Peten,La Libertad,Salvamento,Otra,18,1,0,,no definido
+32248,17.08108,-90.39246,329.6,0.4,0.6,2020-07-26,1954,1,nominal,2.0NRT,290.7,2.6,D,Petén,San Andrés,17.119221527147424,-90.40731186984883,Peten,La Libertad,Nueva Florida,Caserio,18,1,0,,Bosque
