@@ -1,2 +1,2 @@
 id, latitude, longitude, bright_ti4, scan, track, acq_date, acq_time, satelite, confidence, version, bright_ti5, frp, daynight, departamento, municipio, lugarp_latitud, lugarp_longitud, lugarp_departamento, lugarp_municipio, lugarp_lugar, lugarp_categoria, tiempo_activo, visible, volcan, nvolcan, tipo_suelo, fecha_utc
-31566,16.79274,-89.19976,330.4,0.38,0.36,2020-08-24,1906,1,nominal,2.0NRT,299.2,2.7,D,Petén,Dolores,16.777296685660797,-89.2122471147597,Peten,Dolores,Puerta Del Cielo,Caserio,24,1,0,,Pastizales,2020-08-24 19:06:00+00:00
+31566,16.79274,-89.19976,330.4,0.38,0.36,2020-08-24,1906,1,nominal,2.0NRT,299.2,2.7,D,Petén,Dolores,16.777296685660797,-89.2122471147597,Peten,Dolores,Puerta Del Cielo,Caserio,25,1,0,,Pastizales,2020-08-24 19:06:00+00:00
