@@ -1,2 +1,2 @@
 id, latitude, longitude, bright_ti4, scan, track, acq_date, acq_time, satelite, confidence, version, bright_ti5, frp, daynight, departamento, municipio, lugarp_latitud, lugarp_longitud, lugarp_departamento, lugarp_municipio, lugarp_lugar, lugarp_categoria, tiempo_activo, visible, volcan, nvolcan, tipo_suelo, fecha_utc
-31839,16.9375,-90.1058,332.2,0.42,0.38,2020-09-03,1918,1,nominal,2.0NRT,291.1,4.2,D,Petén,San Benito,16.948173689705353,-90.12217139836315,Peten,La Libertad,Salvador Fajardo,Finca,23,1,0,,Pastizales,2020-09-03 19:18:00+00:00
+31839,16.9375,-90.1058,332.2,0.42,0.38,2020-09-03,1918,1,nominal,2.0NRT,291.1,4.2,D,Petén,San Benito,16.948173689705353,-90.12217139836315,Peten,La Libertad,Salvador Fajardo,Finca,24,1,0,,Pastizales,2020-09-03 19:18:00+00:00
