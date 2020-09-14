@@ -1,2 +1,2 @@
 id, latitude, longitude, bright_ti4, scan, track, acq_date, acq_time, satelite, confidence, version, bright_ti5, frp, daynight, departamento, municipio, lugarp_latitud, lugarp_longitud, lugarp_departamento, lugarp_municipio, lugarp_lugar, lugarp_categoria, tiempo_activo, visible, volcan, nvolcan, tipo_suelo, fecha_utc
-31894,16.3515,-89.34968,340.2,0.44,0.46,2020-09-13,1930,1,nominal,2.0NRT,294.0,6.9,D,Petén,Poptún,16.343211989296393,-89.34975820936188,Peten,Poptun,Hacienda San Bartolo,Otra,18,1,0,,Bosque,2020-09-13 19:30:00+00:00
+31894,16.3515,-89.34968,340.2,0.44,0.46,2020-09-13,1930,1,nominal,2.0NRT,294.0,6.9,D,Petén,Poptún,16.343211989296393,-89.34975820936188,Peten,Poptun,Hacienda San Bartolo,Otra,19,1,0,,Bosque,2020-09-13 19:30:00+00:00
