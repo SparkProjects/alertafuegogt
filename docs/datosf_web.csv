@@ -1,2 +1,2 @@
 id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satelite,confidence,version,bright_ti5,frp,daynight,departamento,municipio,lugarp_latitud,lugarp_longitud,lugarp_departamento,lugarp_municipio,lugarp_lugar,lugarp_categoria,tiempo_activo,visible,volcan,nvolcan,tipo_suelo,fecha_utc
-52253,13.95375,-90.62475,329.5,0.53,0.42,2021-06-12,1930,1,nominal,2.0NRT,293.6,4.6,D,Santa Rosa,Taxisco,13.958849282086506,-90.6233486034353,Santa Rosa,Taxisco,Las Tres Ceibas,Hacienda,23,1,0,,Cana de azucar,2021-06-12 19:30:00+00:00
+52253,13.95375,-90.62475,329.5,0.53,0.42,2021-06-12,1930,1,nominal,2.0NRT,293.6,4.6,D,Santa Rosa,Taxisco,13.958849282086506,-90.6233486034353,Santa Rosa,Taxisco,Las Tres Ceibas,Hacienda,24,1,0,,Cana de azucar,2021-06-12 19:30:00+00:00
