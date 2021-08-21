@@ -1,2 +1,2 @@
 id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satelite,confidence,version,bright_ti5,frp,daynight,departamento,municipio,lugarp_latitud,lugarp_longitud,lugarp_departamento,lugarp_municipio,lugarp_lugar,lugarp_categoria,tiempo_activo,visible,volcan,nvolcan,tipo_suelo,fecha_utc
-52903,13.92809,-90.28777,341.3,0.46,0.47,2021-08-20,1942,1,nominal,2.0NRT,287.87,5.25,D,Jutiapa,Pasaco,13.931427952058806,-90.28773830782737,Santa Rosa,Chiquimulilla,Las Pozas,Caserio,25,1,0,,Cana de azucar,2021-08-20 19:42:00+00:00
+52903,13.92809,-90.28777,341.3,0.46,0.47,2021-08-20,1942,1,nominal,2.0NRT,287.87,5.25,D,Jutiapa,Pasaco,13.931427952058806,-90.28773830782737,Santa Rosa,Chiquimulilla,Las Pozas,Caserio,26,1,0,,Cana de azucar,2021-08-20 19:42:00+00:00
