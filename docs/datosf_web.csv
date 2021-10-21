@@ -1,2 +1,2 @@
 id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satelite,confidence,version,bright_ti5,frp,daynight,departamento,municipio,lugarp_latitud,lugarp_longitud,lugarp_departamento,lugarp_municipio,lugarp_lugar,lugarp_categoria,tiempo_activo,visible,volcan,nvolcan,tipo_suelo,fecha_utc
-53946,16.98678,-90.05321,304.61,0.47,0.4,2021-10-20,0748,1,nominal,2.0NRT,278.22,1.13,N,Petén,San Andrés,16.986572401194103,-90.05233261485192,Peten,San Andres,Sacpuy Corozal,Caserio,58,1,0,,Pastizales,2021-10-20 07:48:00+00:00
+53946,16.98678,-90.05321,304.61,0.47,0.4,2021-10-20,0748,1,nominal,2.0NRT,278.22,1.13,N,Petén,San Andrés,16.986572401194103,-90.05233261485192,Peten,San Andres,Sacpuy Corozal,Caserio,59,1,0,,Pastizales,2021-10-20 07:48:00+00:00
