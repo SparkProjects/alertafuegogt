@@ -1,2 +1,2 @@
 id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satelite,confidence,version,bright_ti5,frp,daynight,departamento,municipio,lugarp_latitud,lugarp_longitud,lugarp_departamento,lugarp_municipio,lugarp_lugar,lugarp_categoria,tiempo_activo,visible,volcan,nvolcan,tipo_suelo,fecha_utc
-53949,16.089605,-89.96291999999997,328.99,0.54,0.68,2021-10-22,2000,1,nominal,2.0NRT,284.51,10.31,D,Petén,Sayaxché,16.091786441483983,-89.97535274805746,Peten,Sayaxche,El Caoba,Caserio,13,1,0,,Pastizales,2021-10-22 20:00:00+00:00
+53949,16.089605,-89.96291999999997,328.99,0.54,0.68,2021-10-22,2000,1,nominal,2.0NRT,284.51,10.31,D,Petén,Sayaxché,16.091786441483983,-89.97535274805746,Peten,Sayaxche,El Caoba,Caserio,14,1,0,,Pastizales,2021-10-22 20:00:00+00:00
