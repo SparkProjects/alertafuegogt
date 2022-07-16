@@ -1,2 +1,2 @@
 id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satelite,confidence,version,bright_ti5,frp,daynight,departamento,municipio,lugarp_latitud,lugarp_longitud,lugarp_departamento,lugarp_municipio,lugarp_lugar,lugarp_categoria,tiempo_activo,visible,volcan,nvolcan,tipo_suelo,fecha_utc
-75363,17.04384,-90.58305,309.58,0.63,0.54,2022-07-16,703,1,nominal,2.0NRT,291.08,1.64,N,Petén,San Andrés,17.044855955835967,-90.58457290651363,Peten,La Libertad,La Pista,Caserio,20,1,0,,Bosque,2022-07-16 07:03:00+00:00
+75363,17.04384,-90.58305,309.58,0.63,0.54,2022-07-16,703,1,nominal,2.0NRT,291.08,1.64,N,Petén,San Andrés,17.044855955835967,-90.58457290651363,Peten,La Libertad,La Pista,Caserio,21,1,0,,Bosque,2022-07-16 07:03:00+00:00
