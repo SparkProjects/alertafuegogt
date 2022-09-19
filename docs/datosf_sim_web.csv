@@ -1,2 +1,2 @@
 id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satelite,confidence,version,bright_ti5,frp,daynight,departamento,municipio,lugarp_latitud,lugarp_longitud,lugarp_departamento,lugarp_municipio,lugarp_lugar,lugarp_categoria,tiempo_activo,visible,volcan,nvolcan,tipo_suelo,fecha_utc
-75973,17.37025,-90.41376,342.07,0.4,0.6,2022-09-18,1953,1,nominal,2.0NRT,291.07,5.46,D,Petén,San Andrés,17.317852928989975,-90.54620018897144,Peten,San Andres,La Mula,Caserio,21,1,0,,Bosque,2022-09-18 19:53:00+00:00
+75973,17.37025,-90.41376,342.07,0.4,0.6,2022-09-18,1953,1,nominal,2.0NRT,291.07,5.46,D,Petén,San Andrés,17.317852928989975,-90.54620018897144,Peten,San Andres,La Mula,Caserio,22,1,0,,Bosque,2022-09-18 19:53:00+00:00
