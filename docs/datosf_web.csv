@@ -1,2 +1,2 @@
 id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satelite,confidence,version,bright_ti5,frp,daynight,departamento,municipio,lugarp_latitud,lugarp_longitud,lugarp_departamento,lugarp_municipio,lugarp_lugar,lugarp_categoria,tiempo_activo,visible,volcan,nvolcan,tipo_suelo,fecha_utc
-75992,14.47958,-90.91721,332.43,0.5,0.66,2022-09-24,0652,1,nominal,2.0NRT,260.13,9.5,N,Chimaltenango,Yepocapa,14.503226142188892,-90.94718655356026,Chimaltenango,Yepocapa,La Cabana,Caserio,55,1,1,Volcán Fuego,Bosque,2022-09-24 06:52:00+00:00
+75992,14.47958,-90.91721,332.43,0.5,0.66,2022-09-24,0652,1,nominal,2.0NRT,260.13,9.5,N,Chimaltenango,Yepocapa,14.503226142188892,-90.94718655356026,Chimaltenango,Yepocapa,La Cabana,Caserio,56,1,1,Volcán Fuego,Bosque,2022-09-24 06:52:00+00:00
