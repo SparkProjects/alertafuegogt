@@ -1,2 +1,2 @@
 id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satelite,confidence,version,bright_ti5,frp,daynight,departamento,municipio,lugarp_latitud,lugarp_longitud,lugarp_departamento,lugarp_municipio,lugarp_lugar,lugarp_categoria,tiempo_activo,visible,volcan,nvolcan,tipo_suelo,fecha_utc
-105991,17.488705,-90.78478499999997,367.0,0.58,0.7,2023-07-13,1828,1,high,2.0NRT,292.49,14.85,D,Petén,San Andrés,17.532584333387895,-90.78350944566044,Peten,San Andres,Santa Rosa,Finca,49,1,0,,Bosque,2023-07-13 18:28:00+00:00
+105991,17.488705,-90.78478499999997,367.0,0.58,0.7,2023-07-13,1828,1,high,2.0NRT,292.49,14.85,D,Petén,San Andrés,17.532584333387895,-90.78350944566044,Peten,San Andres,Santa Rosa,Finca,50,1,0,,Bosque,2023-07-13 18:28:00+00:00
