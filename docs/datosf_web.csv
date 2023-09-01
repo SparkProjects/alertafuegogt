@@ -1,2 +1,2 @@
 id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satelite,confidence,version,bright_ti5,frp,daynight,departamento,municipio,lugarp_latitud,lugarp_longitud,lugarp_departamento,lugarp_municipio,lugarp_lugar,lugarp_categoria,tiempo_activo,visible,volcan,nvolcan,tipo_suelo,fecha_utc
-106556,14.4694,-90.85073,323.0,0.48,0.65,2023-09-01,0822,1,nominal,2.0NRT,258.5,8.41,N,Escuintla,Escuintla,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,9,1,1,Volcán Fuego,Bosque,2023-09-01 08:22:00+00:00
+106556,14.4694,-90.85073,323.0,0.48,0.65,2023-09-01,0822,1,nominal,2.0NRT,258.5,8.41,N,Escuintla,Escuintla,14.473842474322122,-90.81827210363973,Sacatepequez,Alotenango,El Normal,Otra,10,1,1,Volcán Fuego,Bosque,2023-09-01 08:22:00+00:00
