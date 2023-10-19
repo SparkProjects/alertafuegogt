@@ -1,2 +1,2 @@
 id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satelite,confidence,version,bright_ti5,frp,daynight,departamento,municipio,lugarp_latitud,lugarp_longitud,lugarp_departamento,lugarp_municipio,lugarp_lugar,lugarp_categoria,tiempo_activo,visible,volcan,nvolcan,tipo_suelo,fecha_utc
-106925,17.49826,-90.87125,332.45,0.58,0.52,2023-10-18,1947,1,nominal,2.0NRT,288.13,6.22,D,Petén,San Andrés,17.547531773899273,-90.88082691942509,Peten,San Andres,Sin Nombre,Finca,27,1,0,,Bosque,2023-10-18 19:47:00+00:00
+106925,17.49826,-90.87125,332.45,0.58,0.52,2023-10-18,1947,1,nominal,2.0NRT,288.13,6.22,D,Petén,San Andrés,17.547531773899273,-90.88082691942509,Peten,San Andres,Sin Nombre,Finca,28,1,0,,Bosque,2023-10-18 19:47:00+00:00
