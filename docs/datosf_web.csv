@@ -1,3 +1,3 @@
 id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satelite,confidence,version,bright_ti5,frp,daynight,departamento,municipio,lugarp_latitud,lugarp_longitud,lugarp_departamento,lugarp_municipio,lugarp_lugar,lugarp_categoria,tiempo_activo,visible,volcan,nvolcan,tipo_suelo,fecha_utc
-107070,17.11684,-90.06225,325.2,0.43,0.38,2023-10-31,1904,1,nominal,2.0NRT,288.83,1.85,D,Petén,San Andrés,17.117446946143072,-90.06028663687599,Peten,San Andres,El Repasto,Finca,18,1,0,,Bosque,2023-10-31 19:04:00+00:00
-107071,17.30953,-90.06284,334.82,0.43,0.38,2023-10-31,1904,1,nominal,2.0NRT,290.87,8.45,D,Petén,San Andrés,17.32679135508761,-90.022152253537,Peten,San Andres,El Corozal,Caserio,18,1,0,,Bosque,2023-10-31 19:04:00+00:00
+107070,17.11684,-90.06225,325.2,0.43,0.38,2023-10-31,1904,1,nominal,2.0NRT,288.83,1.85,D,Petén,San Andrés,17.117446946143072,-90.06028663687599,Peten,San Andres,El Repasto,Finca,19,1,0,,Bosque,2023-10-31 19:04:00+00:00
+107071,17.30953,-90.06284,334.82,0.43,0.38,2023-10-31,1904,1,nominal,2.0NRT,290.87,8.45,D,Petén,San Andrés,17.32679135508761,-90.022152253537,Peten,San Andres,El Corozal,Caserio,19,1,0,,Bosque,2023-10-31 19:04:00+00:00
