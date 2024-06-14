@@ -1,2 +1,2 @@
 id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satelite,confidence,version,bright_ti5,frp,daynight,departamento,municipio,lugarp_latitud,lugarp_longitud,lugarp_departamento,lugarp_municipio,lugarp_lugar,lugarp_categoria,tiempo_activo,visible,volcan,nvolcan,tipo_suelo,fecha_utc
-148444,15.945879999999988,-89.21616000000002,341.09,0.56,0.52,2024-06-13,1942,N20,nominal,2.0NRT,286.51,8.77,D,Petén,San Luis,15.953688360204128,-89.21969899816419,Peten,San Luis,Sarstun Dos,Otra,23,1,0,,Bosque,2024-06-13 19:42:00+00:00
+148444,15.945879999999988,-89.21616000000002,341.09,0.56,0.52,2024-06-13,1942,N20,nominal,2.0NRT,286.51,8.77,D,Petén,San Luis,15.953688360204128,-89.21969899816419,Peten,San Luis,Sarstun Dos,Otra,24,1,0,,Bosque,2024-06-13 19:42:00+00:00
