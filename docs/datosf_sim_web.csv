@@ -1,2 +1,2 @@
 id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satelite,confidence,version,bright_ti5,frp,daynight,departamento,municipio,lugarp_latitud,lugarp_longitud,lugarp_departamento,lugarp_municipio,lugarp_lugar,lugarp_categoria,tiempo_activo,visible,volcan,nvolcan,tipo_suelo,fecha_utc
-148547,16.087859999999996,-89.9052,331.18,0.52,0.41,2024-06-26,1858,N20,nominal,2.0NRT,295.91,3.02,D,Petén,San Luis,16.077304915298463,-89.89152250041538,Peten,San Luis,La Promesa,Finca,28,1,0,,Agricultura anual,2024-06-26 18:58:00+00:00
+148547,16.087859999999996,-89.9052,331.18,0.52,0.41,2024-06-26,1858,N20,nominal,2.0NRT,295.91,3.02,D,Petén,San Luis,16.077304915298463,-89.89152250041538,Peten,San Luis,La Promesa,Finca,29,1,0,,Agricultura anual,2024-06-26 18:58:00+00:00
