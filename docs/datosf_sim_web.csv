@@ -1,2 +1,2 @@
 id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satelite,confidence,version,bright_ti5,frp,daynight,departamento,municipio,lugarp_latitud,lugarp_longitud,lugarp_departamento,lugarp_municipio,lugarp_lugar,lugarp_categoria,tiempo_activo,visible,volcan,nvolcan,tipo_suelo,fecha_utc
-148592,16.794580000000007,-89.32401999999996,336.37,0.74,0.76,2024-07-03,2006,N20,nominal,2.0NRT,286.58,12.08,D,Petén,Dolores,16.78363697947072,-89.30726975193183,Peten,Dolores,San Martin,Hacienda,18,1,0,,Pastizales,2024-07-03 20:06:00+00:00
+148592,16.794580000000007,-89.32401999999996,336.37,0.74,0.76,2024-07-03,2006,N20,nominal,2.0NRT,286.58,12.08,D,Petén,Dolores,16.78363697947072,-89.30726975193183,Peten,Dolores,San Martin,Hacienda,19,1,0,,Pastizales,2024-07-03 20:06:00+00:00
