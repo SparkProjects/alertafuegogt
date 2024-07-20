@@ -1,2 +1,2 @@
 id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satelite,confidence,version,bright_ti5,frp,daynight,departamento,municipio,lugarp_latitud,lugarp_longitud,lugarp_departamento,lugarp_municipio,lugarp_lugar,lugarp_categoria,tiempo_activo,visible,volcan,nvolcan,tipo_suelo,fecha_utc
-148655,16.22304,-90.5079,332.42,0.6,0.71,2024-07-19,1826,N20,nominal,2.0NRT,274.94,5.27,D,Petén,Sayaxché,16.202960219003362,-90.45210359679453,Peten,Sayaxche,San Isidro,Otra,34,1,0,,no definido,2024-07-19 18:26:00+00:00
+148655,16.22304,-90.5079,332.42,0.6,0.71,2024-07-19,1826,N20,nominal,2.0NRT,274.94,5.27,D,Petén,Sayaxché,16.202960219003362,-90.45210359679453,Peten,Sayaxche,San Isidro,Otra,35,1,0,,no definido,2024-07-19 18:26:00+00:00
