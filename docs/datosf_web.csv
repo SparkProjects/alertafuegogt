@@ -1,2 +1,2 @@
 id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satelite,confidence,version,bright_ti5,frp,daynight,departamento,municipio,lugarp_latitud,lugarp_longitud,lugarp_departamento,lugarp_municipio,lugarp_lugar,lugarp_categoria,tiempo_activo,visible,volcan,nvolcan,tipo_suelo,fecha_utc
-148688,16.68425,-90.87878,327.77,0.6,0.53,2024-08-03,1845,N20,nominal,2.0NRT,289.52,1.72,D,Petén,Las Cruces,16.800631412642037,-90.85239714019394,Peten,La Libertad,El Tornillo,Otra,5,1,0,,no definido,2024-08-03 18:45:00+00:00
+148688,16.68425,-90.87878,327.77,0.6,0.53,2024-08-03,1845,N20,nominal,2.0NRT,289.52,1.72,D,Petén,Las Cruces,16.800631412642037,-90.85239714019394,Peten,La Libertad,El Tornillo,Otra,6,1,0,,no definido,2024-08-03 18:45:00+00:00
