@@ -1,2 +1,2 @@
 id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satelite,confidence,version,bright_ti5,frp,daynight,departamento,municipio,lugarp_latitud,lugarp_longitud,lugarp_departamento,lugarp_municipio,lugarp_lugar,lugarp_categoria,tiempo_activo,visible,volcan,nvolcan,tipo_suelo,fecha_utc
-148862,14.77071,-89.63663,328.65,0.52,0.41,2024-08-29,1856,N20,nominal,2.0NRT,296.45,2.82,D,Chiquimula,Chiquimula,14.764146060413404,-89.63751700889772,Chiquimula,Chiquimula,Terrero Barroso,Caserio,29,1,0,,Bosque,2024-08-29 18:56:00+00:00
+148862,14.77071,-89.63663,328.65,0.52,0.41,2024-08-29,1856,N20,nominal,2.0NRT,296.45,2.82,D,Chiquimula,Chiquimula,14.764146060413404,-89.63751700889772,Chiquimula,Chiquimula,Terrero Barroso,Caserio,30,1,0,,Bosque,2024-08-29 18:56:00+00:00
