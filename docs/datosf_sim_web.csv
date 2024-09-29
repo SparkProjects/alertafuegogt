@@ -1,2 +1,2 @@
 id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satelite,confidence,version,bright_ti5,frp,daynight,departamento,municipio,lugarp_latitud,lugarp_longitud,lugarp_departamento,lugarp_municipio,lugarp_lugar,lugarp_categoria,tiempo_activo,visible,volcan,nvolcan,tipo_suelo,fecha_utc
-149120,16.56705,-89.99656999999999,348.07,0.4,0.44,2024-09-28,1934,N20,nominal,2.0NRT,293.82,9.56,D,Petén,Sayaxché,16.54324831757199,-90.00985711004549,Peten,Sayaxche,San Jose Las Flores,Caserio,8,1,0,,Pastizales,2024-09-28 19:34:00+00:00
+149120,16.56705,-89.99656999999999,348.07,0.4,0.44,2024-09-28,1934,N20,nominal,2.0NRT,293.82,9.56,D,Petén,Sayaxché,16.54324831757199,-90.00985711004549,Peten,Sayaxche,San Jose Las Flores,Caserio,9,1,0,,Pastizales,2024-09-28 19:34:00+00:00
