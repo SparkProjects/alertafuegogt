@@ -1,2 +1,2 @@
 id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satelite,confidence,version,bright_ti5,frp,daynight,departamento,municipio,lugarp_latitud,lugarp_longitud,lugarp_departamento,lugarp_municipio,lugarp_lugar,lugarp_categoria,tiempo_activo,visible,volcan,nvolcan,tipo_suelo,fecha_utc
-149132,15.62807,-89.33075,325.16,0.66,0.73,2024-10-02,1817,N20,nominal,2.0NRT,284.59,5.24,D,Izabal,El Estor,15.632906333361039,-89.33013244247564,Izabal,El Estor,Seji,Caserio,28,1,0,,Bosque,2024-10-02 18:17:00+00:00
+149132,15.62807,-89.33075,325.16,0.66,0.73,2024-10-02,1817,N20,nominal,2.0NRT,284.59,5.24,D,Izabal,El Estor,15.632906333361039,-89.33013244247564,Izabal,El Estor,Seji,Caserio,29,1,0,,Bosque,2024-10-02 18:17:00+00:00
