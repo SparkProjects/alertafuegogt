@@ -1,2 +1,1 @@
 id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satelite,confidence,version,bright_ti5,frp,daynight,departamento,municipio,lugarp_latitud,lugarp_longitud,lugarp_departamento,lugarp_municipio,lugarp_lugar,lugarp_categoria,tiempo_activo,visible,volcan,nvolcan,tipo_suelo,fecha_utc
-149368,16.68896,-90.37394,327.54,0.53,0.42,2024-11-01,1856,N20,nominal,2.0NRT,296.63,4.19,D,Petén,Las Cruces,16.66515065709855,-90.36933517284089,Peten,La Libertad,Los Batres,Otra,62,1,0,,Pastizales,2024-11-01 18:56:00+00:00
