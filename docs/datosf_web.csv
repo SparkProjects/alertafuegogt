@@ -1,2 +1,2 @@
 id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satelite,confidence,version,bright_ti5,frp,daynight,departamento,municipio,lugarp_latitud,lugarp_longitud,lugarp_departamento,lugarp_municipio,lugarp_lugar,lugarp_categoria,tiempo_activo,visible,volcan,nvolcan,tipo_suelo,fecha_utc
-149824,14.02113,-90.51114,341.03,0.39,0.36,2024-12-02,1914,N20,nominal,2.0NRT,298.51,4.12,D,Santa Rosa,Taxisco,14.02357370784175,-90.51160284196713,Santa Rosa,Taxisco,La Gigante,Hacienda,17,1,0,,Cana de azucar,2024-12-02 19:14:00+00:00
+149824,14.02113,-90.51114,341.03,0.39,0.36,2024-12-02,1914,N20,nominal,2.0NRT,298.51,4.12,D,Santa Rosa,Taxisco,14.02357370784175,-90.51160284196713,Santa Rosa,Taxisco,La Gigante,Hacienda,18,1,0,,Cana de azucar,2024-12-02 19:14:00+00:00
