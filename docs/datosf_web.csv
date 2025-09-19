@@ -1,2 +1,2 @@
 id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satelite,confidence,version,bright_ti5,frp,daynight,departamento,municipio,lugarp_latitud,lugarp_longitud,lugarp_departamento,lugarp_municipio,lugarp_lugar,lugarp_categoria,tiempo_activo,visible,volcan,nvolcan,tipo_suelo,fecha_utc
-154061,15.39075,-89.14685,343.15,0.63,0.54,2025-09-18,1838,N20,nominal,2.0NRT,283.15,9.71,D,Izabal,Los Amates,15.399442150809554,-89.15017520407974,Izabal,Los Amates,Santa Luisa,Finca,20,1,0,,Cuerpos de agua,2025-09-18 18:38:00+00:00
+154061,15.39075,-89.14685,343.15,0.63,0.54,2025-09-18,1838,N20,nominal,2.0NRT,283.15,9.71,D,Izabal,Los Amates,15.399442150809554,-89.15017520407974,Izabal,Los Amates,Santa Luisa,Finca,21,1,0,,Cuerpos de agua,2025-09-18 18:38:00+00:00
