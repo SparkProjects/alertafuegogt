@@ -1,2 +1,2 @@
 id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satelite,confidence,version,bright_ti5,frp,daynight,departamento,municipio,lugarp_latitud,lugarp_longitud,lugarp_departamento,lugarp_municipio,lugarp_lugar,lugarp_categoria,tiempo_activo,visible,volcan,nvolcan,tipo_suelo,fecha_utc
-171577,17.198270000000004,-90.25156000000001,327.7,0.4,0.6,2026-05-28,1957,N20,nominal,2.0NRT,273.94,5.54,D,Petén,San Andrés,17.191129600313733,-90.20449950007057,Peten,San Andres,Sin Nombre,Paraje,23,1,0,,Bosque,2026-05-28 19:57:00+00:00
+171577,17.198270000000004,-90.25156000000001,327.7,0.4,0.6,2026-05-28,1957,N20,nominal,2.0NRT,273.94,5.54,D,Petén,San Andrés,17.191129600313733,-90.20449950007057,Peten,San Andres,Sin Nombre,Paraje,24,1,0,,Bosque,2026-05-28 19:57:00+00:00
