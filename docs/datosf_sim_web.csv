@@ -1,2 +1,2 @@
 id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satelite,confidence,version,bright_ti5,frp,daynight,departamento,municipio,lugarp_latitud,lugarp_longitud,lugarp_departamento,lugarp_municipio,lugarp_lugar,lugarp_categoria,tiempo_activo,visible,volcan,nvolcan,tipo_suelo,fecha_utc
-173345,17.111060000000005,-91.37231000000003,329.39,0.57,0.69,2026-10-13,2014,N20,nominal,2.0NRT,290.74,3.65,D,Petén,Las Cruces,17.015418963055293,-91.045174357227,Peten,La Libertad,La Pasadita,Otra,19,1,0,,Bosque,2026-10-13 20:14:00+00:00
+173345,17.111060000000005,-91.37231000000003,329.39,0.57,0.69,2026-10-13,2014,N20,nominal,2.0NRT,290.74,3.65,D,Petén,Las Cruces,17.015418963055293,-91.045174357227,Peten,La Libertad,La Pasadita,Otra,20,1,0,,Bosque,2026-10-13 20:14:00+00:00
